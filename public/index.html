@@ -3,49 +3,94 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Follow Builders Daily</title>
-    <meta name="description" content="Follow Builders 每日最新内容：官方博客、播客、X/Twitter。" />
+    <title>Follow Builders Daily · 每日电讯</title>
+    <meta name="description" content="Follow Builders 每日电讯：博客、播客、X/Twitter 上 builders 今日的所建与所言。" />
+    <meta name="color-scheme" content="light" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,400;1,9..144,500;1,9..144,600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <header class="topbar">
-      <div class="topbar__title">
-        <span class="dot"></span>
-        <h1>Follow Builders Daily</h1>
+    <div class="grain" aria-hidden="true"></div>
+
+    <header class="masthead" role="banner">
+      <div class="masthead__bar">
+        <span class="masthead__est">第一手 · 不重抓源站 · 零前端密钥</span>
+        <span class="masthead__live"><span class="live-dot" aria-hidden="true"></span>最新一期</span>
       </div>
-      <dl class="stats" id="stats">
-        <div><dt>查看日期</dt><dd id="stat-date">—</dd></div>
-        <div><dt>今日内容</dt><dd id="stat-count">—</dd></div>
-        <div><dt>最近生成</dt><dd id="stat-generated">—</dd></div>
+
+      <div class="masthead__main">
+        <span class="masthead__flank masthead__flank--l">
+          <span class="flank__k">创刊</span><span class="flank__v">MMXXVI</span>
+        </span>
+
+        <div class="masthead__center">
+          <p class="masthead__kicker">Dispatches from the people building the future</p>
+          <h1 class="masthead__title">Follow&nbsp;Builders</h1>
+          <p class="masthead__motto"><i>追踪 builders 今日的所建与所言 — 博客 · 播客 · X</i></p>
+        </div>
+
+        <span class="masthead__flank masthead__flank--r">
+          <span class="flank__k">版式</span><span class="flank__v">电讯日报</span>
+        </span>
+      </div>
+
+      <dl class="ledger" id="ledger">
+        <div class="ledger__cell"><dt>卷次</dt><dd id="ed-vol">—</dd></div>
+        <div class="ledger__cell"><dt>期号</dt><dd id="ed-no">—</dd></div>
+        <div class="ledger__cell ledger__cell--wide"><dt>本期日期</dt><dd id="ed-date">—</dd></div>
+        <div class="ledger__cell"><dt>今日条数</dt><dd id="ed-count">—</dd></div>
+        <div class="ledger__cell ledger__cell--wide"><dt>付印于</dt><dd id="ed-generated">—</dd></div>
       </dl>
     </header>
 
     <div class="layout">
       <main class="content">
-        <nav class="filters" id="filters" aria-label="内容类型筛选">
-          <button class="filter" data-type="all" aria-pressed="true">全部<span class="filter__count" data-count="all">0</span></button>
-          <button class="filter" data-type="blog" aria-pressed="false">官方博客<span class="filter__count" data-count="blog">0</span></button>
-          <button class="filter" data-type="podcast" aria-pressed="false">播客<span class="filter__count" data-count="podcast">0</span></button>
-          <button class="filter" data-type="x" aria-pressed="false">X/Twitter<span class="filter__count" data-count="x">0</span></button>
+        <div class="controls">
+          <nav class="sections" id="filters" aria-label="版块筛选">
+            <button class="section" data-type="all" aria-pressed="true">
+              <span class="section__name">全部</span><span class="section__count" data-count="all">0</span>
+            </button>
+            <button class="section" data-type="blog" aria-pressed="false">
+              <span class="section__name">博客 · Press</span><span class="section__count" data-count="blog">0</span>
+            </button>
+            <button class="section" data-type="podcast" aria-pressed="false">
+              <span class="section__name">播客 · Airwave</span><span class="section__count" data-count="podcast">0</span>
+            </button>
+            <button class="section" data-type="x" aria-pressed="false">
+              <span class="section__name">X · Wire</span><span class="section__count" data-count="x">0</span>
+            </button>
+          </nav>
+
           <div class="lang" id="lang" role="group" aria-label="显示语言">
-            <button class="lang__btn" data-lang="zh" aria-pressed="true">中文</button>
+            <button class="lang__btn" data-lang="zh" aria-pressed="true">译文</button>
             <button class="lang__btn" data-lang="en" aria-pressed="false">原文</button>
           </div>
-        </nav>
+        </div>
 
         <div id="feed" class="feed" aria-live="polite">
-          <p class="empty" id="loading">加载中…</p>
+          <p class="empty" id="loading">正在付印…</p>
         </div>
       </main>
 
-      <aside class="sidebar">
-        <h2 class="sidebar__title">历史归档</h2>
-        <ol class="history" id="history"></ol>
+      <aside class="archive">
+        <div class="archive__head">
+          <h2 class="archive__title">往期</h2>
+          <span class="archive__sub">Back Issues</span>
+        </div>
+        <ol class="issues" id="history"></ol>
       </aside>
     </div>
 
-    <footer class="footer">
-      <span>数据来源：<a href="https://github.com/zarazhangrui/follow-builders" target="_blank" rel="noopener">zarazhangrui/follow-builders</a></span>
+    <footer class="colophon">
+      <span class="colophon__mark">¶</span>
+      <span>本电讯取材于 <a href="https://github.com/zarazhangrui/follow-builders" target="_blank" rel="noopener">zarazhangrui/follow-builders</a> 公开 feed</span>
+      <span class="colophon__dot" aria-hidden="true">◆</span>
       <span>静态归档 · 不重新抓取源站 · 无前端 API key</span>
     </footer>
 
