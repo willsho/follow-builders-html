@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Follow Builders Daily</title>
+    <meta name="description" content="Follow Builders 每日最新内容：官方博客、播客、X/Twitter。" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar__title">
+        <span class="dot"></span>
+        <h1>Follow Builders Daily</h1>
+      </div>
+      <dl class="stats" id="stats">
+        <div><dt>查看日期</dt><dd id="stat-date">—</dd></div>
+        <div><dt>今日内容</dt><dd id="stat-count">—</dd></div>
+        <div><dt>最近生成</dt><dd id="stat-generated">—</dd></div>
+      </dl>
+    </header>
+
+    <div class="layout">
+      <main class="content">
+        <nav class="filters" id="filters" aria-label="内容类型筛选">
+          <button class="filter" data-type="all" aria-pressed="true">全部<span class="filter__count" data-count="all">0</span></button>
+          <button class="filter" data-type="blog" aria-pressed="false">官方博客<span class="filter__count" data-count="blog">0</span></button>
+          <button class="filter" data-type="podcast" aria-pressed="false">播客<span class="filter__count" data-count="podcast">0</span></button>
+          <button class="filter" data-type="x" aria-pressed="false">X/Twitter<span class="filter__count" data-count="x">0</span></button>
+          <div class="lang" id="lang" role="group" aria-label="显示语言">
+            <button class="lang__btn" data-lang="zh" aria-pressed="true">中文</button>
+            <button class="lang__btn" data-lang="en" aria-pressed="false">原文</button>
+          </div>
+        </nav>
+
+        <div id="feed" class="feed" aria-live="polite">
+          <p class="empty" id="loading">加载中…</p>
+        </div>
+      </main>
+
+      <aside class="sidebar">
+        <h2 class="sidebar__title">历史归档</h2>
+        <ol class="history" id="history"></ol>
+      </aside>
+    </div>
+
+    <footer class="footer">
+      <span>数据来源：<a href="https://github.com/zarazhangrui/follow-builders" target="_blank" rel="noopener">zarazhangrui/follow-builders</a></span>
+      <span>静态归档 · 不重新抓取源站 · 无前端 API key</span>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

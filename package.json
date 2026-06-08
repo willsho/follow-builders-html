@@ -1,0 +1,12 @@
+{
+  "name": "follow-builders-html",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static site that shows the latest Follow Builders content (X, podcasts, blogs) with daily archives.",
+  "scripts": {
+    "build": "node scripts/build-site-data.js",
+    "build:local": "FEED_DIR=./feeds node scripts/build-site-data.js",
+    "serve": "node scripts/serve.js"
+  },
+  "license": "MIT"
+}

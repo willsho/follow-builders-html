@@ -1,0 +1,51 @@
+name: Refresh site data
+
+# 数据由本 workflow 每天生成并提交回仓库；网页托管交给 Vercel 的 Git 集成
+# （Vercel 监听 push，会在每次数据提交后自动部署 public/）。
+
+on:
+  schedule:
+    # 每天 09:00 UTC（上游 feed 通常 ~08:10 UTC 已更新）
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}
+
+# 只需把生成的数据提交回仓库
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # 拉取上游公开 feed → 规范化 → 归档 → 构建时英译中（title + summary）
+      # DEEPSEEK_API_KEY 只存在于 CI，不会进入前端；缺失则自动跳过翻译
+      - name: Build site data
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: node scripts/build-site-data.js
+
+      # 提交回仓库 → 触发 Vercel 自动部署；归档历史持久化在 git
+      # commit message 不含 [skip ci]，否则 Vercel 会跳过部署
+      - name: Commit & push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/latest.json public/archive
+          if git diff --staged --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "chore(data): refresh site data"
+            git push
+          fi
