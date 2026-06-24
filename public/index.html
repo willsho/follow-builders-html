@@ -3,35 +3,85 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Follow Builders Daily</title>
-    <meta name="description" content="Follow Builders 每日最新内容：官方博客、播客、X/Twitter。" />
+    <title>Follow Builders Daily · AI Builders 中文速览</title>
+    <meta name="description" content="Follow Builders 每日最新内容：官方博客、播客、X/Twitter，中英对照静态归档。" />
+    <meta name="theme-color" content="#090c09" />
+    <link rel="icon" href="./icons/favicon.svg" type="image/svg+xml" />
+    <link rel="mask-icon" href="./icons/mask-icon.svg" color="#9ee493" />
+    <link rel="manifest" href="./site.webmanifest" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <header class="topbar">
-      <div class="topbar__title">
-        <span class="dot"></span>
-        <h1>Follow Builders Daily</h1>
+    <header class="topbar" aria-label="站点导航">
+      <div class="topbar__inner">
+        <a class="brand" href="./" aria-label="Follow Builders Daily 首页">
+          <span class="brand__mark"></span>
+          <span class="brand__text">Follow Builders Daily</span>
+        </a>
+        <dl class="stats topbar__stats" id="stats">
+          <div><dt>查看日期</dt><dd id="stat-date">—</dd></div>
+          <div><dt>今日内容</dt><dd id="stat-count">—</dd></div>
+          <div><dt>最近生成</dt><dd id="stat-generated">—</dd></div>
+        </dl>
       </div>
-      <dl class="stats" id="stats">
-        <div><dt>查看日期</dt><dd id="stat-date">—</dd></div>
-        <div><dt>今日内容</dt><dd id="stat-count">—</dd></div>
-        <div><dt>最近生成</dt><dd id="stat-generated">—</dd></div>
-      </dl>
     </header>
+
+    <section class="hero">
+      <div class="hero__inner">
+        <p class="eyebrow">AI builders / product operators / research notes</p>
+        <h1>每天追踪 AI 构建者的一线动态</h1>
+        <p class="hero__lead">
+          汇总 Follow Builders 上游公开 feed，按天收录 X/Twitter、播客和官方博客，提供中文摘要与原文切换，适合快速浏览产品、模型、工程和创业相关更新。
+        </p>
+        <p class="hero__note">
+          纯静态站点 · 不重新抓取源站 · 无前端 API key · 内容仅供研究学习参考
+        </p>
+      </div>
+    </section>
+
+    <section class="overview" aria-label="当日数据概览">
+      <div class="overview__inner">
+        <div class="metric metric--x">
+          <span class="metric__label">X / Twitter</span>
+          <strong id="stat-x">—</strong>
+        </div>
+        <div class="metric metric--podcast">
+          <span class="metric__label">Podcasts</span>
+          <strong id="stat-podcast">—</strong>
+        </div>
+        <div class="metric metric--blog">
+          <span class="metric__label">Blogs</span>
+          <strong id="stat-blog">—</strong>
+        </div>
+        <div class="metric">
+          <span class="metric__label">Archive</span>
+          <strong id="stat-archive">—</strong>
+        </div>
+      </div>
+    </section>
 
     <div class="layout">
       <main class="content">
-        <nav class="filters" id="filters" aria-label="内容类型筛选">
-          <button class="filter" data-type="all" aria-pressed="true">全部<span class="filter__count" data-count="all">0</span></button>
-          <button class="filter" data-type="blog" aria-pressed="false">官方博客<span class="filter__count" data-count="blog">0</span></button>
-          <button class="filter" data-type="podcast" aria-pressed="false">播客<span class="filter__count" data-count="podcast">0</span></button>
-          <button class="filter" data-type="x" aria-pressed="false">X/Twitter<span class="filter__count" data-count="x">0</span></button>
+        <section class="notice" aria-label="订阅提示">
+          <div>
+            <strong>Builders Brief</strong>
+            <span>按时间倒序查看当日新增内容，中文优先，保留原文入口。</span>
+          </div>
+          <a href="https://github.com/zarazhangrui/follow-builders" target="_blank" rel="noopener">查看上游项目</a>
+        </section>
+
+        <section class="toolbar" aria-label="内容控制">
+          <nav class="filters" id="filters" aria-label="内容类型筛选">
+            <button class="filter" data-type="all" aria-pressed="true">全部<span class="filter__count" data-count="all">0</span></button>
+            <button class="filter" data-type="x" aria-pressed="false">X/Twitter<span class="filter__count" data-count="x">0</span></button>
+            <button class="filter" data-type="podcast" aria-pressed="false">播客<span class="filter__count" data-count="podcast">0</span></button>
+            <button class="filter" data-type="blog" aria-pressed="false">官方博客<span class="filter__count" data-count="blog">0</span></button>
+          </nav>
           <div class="lang" id="lang" role="group" aria-label="显示语言">
             <button class="lang__btn" data-lang="zh" aria-pressed="true">中文</button>
             <button class="lang__btn" data-lang="en" aria-pressed="false">原文</button>
           </div>
-        </nav>
+        </section>
 
         <div id="feed" class="feed" aria-live="polite">
           <p class="empty" id="loading">加载中…</p>
@@ -39,14 +89,21 @@
       </main>
 
       <aside class="sidebar">
-        <h2 class="sidebar__title">历史归档</h2>
+        <section class="sidebar__section">
+          <h2 class="sidebar__title">历史归档</h2>
+          <p class="sidebar__copy">选择日期查看当天新增内容。归档数据保存在仓库内，适合回看每日变化。</p>
+        </section>
         <ol class="history" id="history"></ol>
+        <section class="sidebar__section sidebar__section--muted">
+          <h2 class="sidebar__title">说明</h2>
+          <p class="sidebar__copy">翻译在构建阶段生成；前端只读取静态 JSON，不持有任何密钥。</p>
+        </section>
       </aside>
     </div>
 
     <footer class="footer">
       <span>数据来源：<a href="https://github.com/zarazhangrui/follow-builders" target="_blank" rel="noopener">zarazhangrui/follow-builders</a></span>
-      <span>静态归档 · 不重新抓取源站 · 无前端 API key</span>
+      <span>静态归档 · 无前端 API key · <a href="https://unavatar.io" target="_blank" rel="noopener">Avatars provided by Unavatar</a></span>
     </footer>
 
     <script src="./app.js"></script>

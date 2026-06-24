@@ -8,7 +8,7 @@
 
 const FILTER_KEY = "fb.filter";
 const LANG_KEY = "fb.lang";
-const TYPE_LABELS = { x: "X", podcast: "PODCAST", blog: "BLOG" };
+const TYPE_LABELS = { x: "X/TWITTER", podcast: "PODCAST", blog: "BLOG" };
 
 const state = {
   items: [], // items for the currently shown day
@@ -54,6 +54,23 @@ function fmtNum(n) {
   return String(n);
 }
 
+function avatarInitial(name, handle) {
+  const base = (name || handle || "X").trim();
+  return base.slice(0, 1).toUpperCase();
+}
+
+function xAvatarUrl(meta) {
+  const direct = meta.avatarUrl || meta.profileImageUrl || meta.profile_image_url;
+  if (direct) return direct;
+  return meta.handle ? `https://unavatar.io/x/${encodeURIComponent(meta.handle)}` : "";
+}
+
+function countByType(items) {
+  const counts = { all: items.length, x: 0, podcast: 0, blog: 0 };
+  for (const it of items) if (counts[it.type] != null) counts[it.type]++;
+  return counts;
+}
+
 async function getJson(url) {
   const res = await fetch(url, { cache: "no-cache" });
   if (!res.ok) throw new Error(`${url} -> ${res.status}`);
@@ -71,13 +88,35 @@ function renderCard(item) {
   const card = el("article", { class: "card", "data-type": item.type });
 
   // head: badge · source · handle · time
-  const head = el("div", { class: "card__head" }, [
+  const identity = el("div", { class: "card__identity" }, [
     el("span", { class: "badge", text: TYPE_LABELS[item.type] || item.type }),
     el("span", { class: "card__source", text: item.sourceName || "" }),
     item.type === "x" && m.handle ? el("span", { class: "card__handle", text: `@${m.handle}` }) : null,
     item.type === "blog" && m.author ? el("span", { class: "card__handle", text: m.author }) : null,
-    el("span", { class: "card__time", text: fmtDateTime(item.publishedAt || item.collectedAt) }),
   ]);
+  const headChildren = [];
+  if (item.type === "x") {
+    const avatarFallback = el("span", {
+      class: "avatar__fallback",
+      text: avatarInitial(item.sourceName, m.handle),
+    });
+    const avatarImg = xAvatarUrl(m)
+      ? el("img", {
+          class: "avatar__img",
+          src: xAvatarUrl(m),
+          alt: `${item.sourceName || m.handle || "X"} 的头像`,
+          loading: "lazy",
+          decoding: "async",
+          referrerpolicy: "no-referrer",
+          onerror: (event) => {
+            event.currentTarget.hidden = true;
+          },
+        })
+      : null;
+    headChildren.push(el("span", { class: "avatar", "aria-hidden": "true" }, [avatarFallback, avatarImg]));
+  }
+  headChildren.push(identity, el("span", { class: "card__time", text: fmtDateTime(item.publishedAt || item.collectedAt) }));
+  const head = el("div", { class: "card__head" }, headChildren);
   card.appendChild(head);
 
   // X: bio line
@@ -94,23 +133,40 @@ function renderCard(item) {
     );
   }
 
-  // body — in zh mode show the translated summary (no full-text translation for
-  // podcast/blog, so it isn't collapsible); otherwise show the original.
-  let bodyText, clampable;
+  // body: zh mode prefers a Chinese summary, with original text beside it when available.
+  let bodyText, originalText, clampable;
   if (item.type === "x") {
     bodyText = zh && item.summaryZh ? item.summaryZh : item.summaryText;
+    originalText = item.summaryText;
     clampable = false;
   } else if (zh && item.summaryZh) {
     bodyText = item.summaryZh;
+    originalText = item.summaryText || item.bodyText;
     clampable = false;
   } else {
     bodyText = item.bodyText || item.summaryText;
     clampable = Boolean(item.bodyText); // podcast/blog collapse by default
   }
   if (bodyText) {
-    const body = el("div", { class: "card__body" + (clampable ? " is-clamped" : ""), text: bodyText });
-    card.appendChild(body);
-    if (clampable) {
+    const shouldShowBilingual = zh && originalText && originalText !== bodyText;
+    let body;
+    if (shouldShowBilingual) {
+      body = el("div", { class: "translation" }, [
+        el("div", { class: "translation__pane" }, [
+          el("span", { class: "translation__label", text: "中文" }),
+          el("div", { class: "card__body", text: bodyText }),
+        ]),
+        el("div", { class: "translation__pane translation__pane--original" }, [
+          el("span", { class: "translation__label", text: "Original" }),
+          el("div", { class: "card__body", text: originalText }),
+        ]),
+      ]);
+      card.appendChild(body);
+    } else {
+      body = el("div", { class: "card__body" + (clampable ? " is-clamped" : ""), text: bodyText });
+      card.appendChild(body);
+    }
+    if (clampable && !shouldShowBilingual) {
       const toggle = el("button", {
         class: "toggle",
         text: "展开全文",
@@ -133,9 +189,9 @@ function renderCard(item) {
   if (item.type === "x") {
     const metrics = el("div", { class: "metrics" });
     const parts = [
-      ["♥", m.likes],
-      ["⟲", m.retweets],
-      ["💬", m.replies],
+      ["LIKE", m.likes],
+      ["RT", m.retweets],
+      ["REPLY", m.replies],
     ];
     for (const [icon, val] of parts) {
       const f = fmtNum(val);
@@ -171,8 +227,7 @@ function renderFeed() {
 }
 
 function renderFilterCounts() {
-  const counts = { all: state.items.length, x: 0, podcast: 0, blog: 0 };
-  for (const it of state.items) if (counts[it.type] != null) counts[it.type]++;
+  const counts = countByType(state.items);
   document.querySelectorAll(".filter__count").forEach((node) => {
     node.textContent = counts[node.dataset.count] ?? 0;
   });
@@ -187,9 +242,13 @@ function syncFilterButtons() {
 function setDay(payload, date) {
   state.items = (payload.items || []).slice();
   state.date = date;
+  const counts = countByType(state.items);
   document.getElementById("stat-date").textContent = date || "—";
   document.getElementById("stat-count").textContent = state.items.length;
   document.getElementById("stat-generated").textContent = fmtDateTime(payload.generatedAt);
+  document.getElementById("stat-x").textContent = counts.x;
+  document.getElementById("stat-podcast").textContent = counts.podcast;
+  document.getElementById("stat-blog").textContent = counts.blog;
   renderFilterCounts();
   renderFeed();
   document.querySelectorAll(".history__item").forEach((b) => {
@@ -200,7 +259,9 @@ function setDay(payload, date) {
 function renderHistory(index) {
   const list = document.getElementById("history");
   list.replaceChildren();
-  for (const day of index.days || []) {
+  const days = index.days || [];
+  document.getElementById("stat-archive").textContent = days.length ? `${days.length} 天` : "—";
+  for (const day of days) {
     const total = (day.counts?.x || 0) + (day.counts?.podcast || 0) + (day.counts?.blog || 0);
     const btn = el("button", { class: "history__item", "data-date": day.date }, [
       el("span", { class: "history__date", text: day.date }),

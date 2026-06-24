@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Follow Builders Daily">
+  <rect width="64" height="64" rx="14" fill="#090c09"/>
+  <path d="M17 42c10-3 18-8 24-15 5-5 9-12 12-20" fill="none" stroke="#9ee493" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="17" cy="42" r="6" fill="#9ee493"/>
+  <circle cx="34" cy="29" r="5" fill="#efc36b"/>
+  <circle cx="53" cy="8" r="6" fill="#63c7bd"/>
+  <path d="M17 50h31" stroke="#43513d" stroke-width="4" stroke-linecap="round"/>
+</svg>

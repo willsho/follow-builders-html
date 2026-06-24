@@ -1,0 +1,23 @@
+{
+  "name": "Follow Builders Daily",
+  "short_name": "Builders Daily",
+  "description": "AI builders updates, translated summaries, and daily archives.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090c09",
+  "theme_color": "#090c09",
+  "icons": [
+    {
+      "src": "./icons/site-mark.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
