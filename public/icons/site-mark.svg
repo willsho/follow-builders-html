@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Follow Builders Daily">
+  <defs>
+    <linearGradient id="bg" x1="86" x2="426" y1="64" y2="448" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141912"/>
+      <stop offset="1" stop-color="#090c09"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="136" x2="392" y1="126" y2="388" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9ee493"/>
+      <stop offset="1" stop-color="#63c7bd"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path d="M136 317c43-16 78-39 105-68 33-36 58-77 76-123" fill="none" stroke="#2b3729" stroke-width="34" stroke-linecap="round"/>
+  <path d="M140 334c51-11 94-33 129-66 39-37 69-82 91-136" fill="none" stroke="url(#signal)" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="148" cy="334" r="34" fill="#9ee493"/>
+  <circle cx="268" cy="266" r="26" fill="#efc36b"/>
+  <circle cx="360" cy="132" r="34" fill="#63c7bd"/>
+  <path d="M144 386h224" stroke="#43513d" stroke-width="22" stroke-linecap="round"/>
+</svg>
