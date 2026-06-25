@@ -5,8 +5,8 @@ name: Refresh site data
 
 on:
   schedule:
-    # 每天 09:00 UTC（上游 feed 通常 ~08:10 UTC 已更新）
-    - cron: "0 9 * * *"
+    # 每天 06:27 UTC（上游 feed 06:17 UTC 开始生成、~2 分钟跑完，留 10 分钟缓冲）
+    - cron: "27 6 * * *"
   workflow_dispatch: {}
 
 # 只需把生成的数据提交回仓库
