@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-08T07:24:54.985Z",
+  "updatedAt": "2026-08-09T07:27:03.196Z",
   "days": [
+    {
+      "date": "2026-08-09",
+      "path": "archive/2026-08-09.json",
+      "counts": {
+        "x": 26,
+        "podcast": 1,
+        "blog": 0
+      }
+    },
     {
       "date": "2026-08-08",
       "path": "archive/2026-08-08.json",
