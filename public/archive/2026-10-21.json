@@ -1,0 +1,626 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T12:02:31.754Z",
+  "items": [
+    {
+      "id": "x:2112772374823407870",
+      "type": "x",
+      "sourceName": "Swyx",
+      "title": "opus is great for writing... when you dont happen to have any random no-no words…",
+      "url": "https://x.com/swyx/status/2112772374823407870",
+      "publishedAt": "2026-10-21T05:06:02.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "opus is great for writing... when you dont happen to have any random no-no words in your prompt.\n\njfc, @CompleteSkeptic is right, give me prod, not god. i cant build an ai media org with this in the critical path. https://t.co/U8MOOmykJO https://t.co/ORcvXeH7xz",
+      "metadata": {
+        "handle": "swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+        "likes": 36,
+        "retweets": 3,
+        "replies": 36,
+        "isQuote": true,
+        "quotedTweetId": "2102650014552182920"
+      },
+      "summaryZh": "opus 写东西很棒……只要你的提示词里碰巧没有任何随机的敏感词。\n\n我去，@CompleteSkeptic 说得对，给我生产级的东西，不要神。我没法把这个放在关键路径上，去搭建一个 AI 媒体机构。 https://t.co/U8MOOmykJO https://t.co/ORcvXeH7xz"
+    },
+    {
+      "id": "x:2112769686798832013",
+      "type": "x",
+      "sourceName": "Aaron Levie",
+      "title": "Pretty cool that we clearly have an emerging form factor for what AI might look…",
+      "url": "https://x.com/levie/status/2112769686798832013",
+      "publishedAt": "2026-10-21T04:55:21.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Pretty cool that we clearly have an emerging form factor for what AI might look like for the foreseeable future as autonomous systems dedicated to specific tasks or domains.\n\nThis is a huge leap past the LLM wrapper days because the new expectation is that you can finally farm out more sophisticated work to the agent to tackle for you. And you can reliably trust that work can get accomplished properly (still with a human in the loop) because of far better tool and computer use, and the general intelligence of the models improving. \n\n1) The tool and computer use capability increases in the models mean that you can provide the agent with far more granular access to external data systems and other software to operate. This means, in effect, the agent begins to execute workflows similar to how a person would have in that same function. And where there isn’t existing software, the agent just builds it itself. This is a huge unlock. \n\n2) Next, the actual capability of the models are improving in just about every vertical domain. The models can make far better judgment calls in legal, do deeper bio research, scan for security issues in code, understand supply chain processes, and more. Obviously in many of these spaces then models still have worse intuition than people, but that will only get better.\n\n3) Finally, the harnesses and surrounding infra — sandboxes, file systems, data pipelines, etc. — allows for longer running agents, agents to be able to work on arbitrarily complex or long tasks, process data at enormous scale, and more. Few of these components worked well for AI even a year ago, but we now have many of the core primitives necessary for more autonomous systems.\n\nWhen combined with the right UX, implementation, and change management for the human oversight and coordination, it’s clear that these autonomous systems will become quite powerful in a wide variety of enterprise workflows. \n\nWe’re starting to see them in IT automation, cyber operations, drug discovery, manufacturing, AI research, and more spaces. You can almost imagine one or more of these systems for every role in the economy. Quite a bit of opportunity ahead.",
+      "metadata": {
+        "handle": "levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "likes": 89,
+        "retweets": 6,
+        "replies": 34,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "挺酷的，我们显然已经有了一种正在成形的产品形态，可以预见 AI 在未来这段时间里会是什么样子：专门针对特定任务或领域的自主系统。\n\n这相较于 LLM 套壳时代是一次巨大的飞跃，因为新的预期是：你终于可以把更复杂的工作交给 agent 去替你处理。而且你可以可靠地相信这些工作能被妥善完成（仍然保留人在环中），因为工具使用和计算机使用能力强了很多，模型的通用智能也在提升。\n\n1）模型在工具和计算机使用能力上的提升，意味着你可以给 agent 更细粒度的权限，让它访问外部数据系统和其他软件去操作。这实际上意味着，agent 开始执行的流程，跟一个人在同一岗位上会做的很像。而在没有现成软件的地方，agent 干脆自己把它做出来。这是一个巨大的解锁。\n\n2）其次，模型的实际能力在几乎每一个垂直领域都在提升。模型可以在法律领域做出好得多的判断、做更深入的生物研究、扫描代码中的安全问题、理解供应链流程等等。显然在其中很多领域，模型的直觉仍然不如人，但这只会越来越好。\n\n3）最后，执行框架和周边基础设施——沙箱、文件系统、数据管道等等——让 agent 可以运行更长时间，处理任意复杂或漫长的任务，以巨大规模处理数据，等等。这些组件里，一年前几乎没有几个能很好地服务于 AI，但现在我们已经有了许多构建更自主系统所必需的核心原语。\n\n当与合适的 UX、实现方式，以及面向人类监督与协调的变革管理结合起来，很清楚的是，这些自主系统将在大量企业工作流中变得相当强大。\n\n我们已经开始看到它们出现在 IT 自动化、网络运营、药物发现、制造业、AI 研究等空间里。你几乎可以想象，经济中的每一个角色都对应着一个或多个这样的系统。前方有相当多的机会。"
+    },
+    {
+      "id": "x:2112764130197451209",
+      "type": "x",
+      "sourceName": "Swyx",
+      "title": "i tried to make codex make animated explainer videos but ngmi https://t.co/UT7xl…",
+      "url": "https://x.com/swyx/status/2112764130197451209",
+      "publishedAt": "2026-10-21T04:33:16.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "i tried to make codex make animated explainer videos but ngmi https://t.co/UT7xloxtXc",
+      "metadata": {
+        "handle": "swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+        "likes": 4,
+        "retweets": 0,
+        "replies": 4,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "我试着让 codex 做动画讲解视频，但 ngmi https://t.co/UT7xloxtXc"
+    },
+    {
+      "id": "x:2112735411688857770",
+      "type": "x",
+      "sourceName": "Peter Steinberger",
+      "title": "See you at @Cloudflare Connect tomorrow! Will be chatting with @dok2001 about ag…",
+      "url": "https://x.com/steipete/status/2112735411688857770",
+      "publishedAt": "2026-10-21T02:39:09.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "See you at @Cloudflare Connect tomorrow! Will be chatting with @dok2001 about agents https://t.co/P4oYlOZ80s",
+      "metadata": {
+        "handle": "steipete",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+        "likes": 224,
+        "retweets": 7,
+        "replies": 17,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "明天在 @Cloudflare Connect 见！我会和 @dok2001 聊聊 agent https://t.co/P4oYlOZ80s"
+    },
+    {
+      "id": "x:2112712984644784534",
+      "type": "x",
+      "sourceName": "Thibault Sottiaux",
+      "title": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Cod…",
+      "url": "https://x.com/thsottiaux/status/2112712984644784534",
+      "publishedAt": "2026-10-21T01:10:02.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache. https://t.co/0HYeB01KVh",
+      "metadata": {
+        "handle": "thsottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "likes": 10518,
+        "retweets": 510,
+        "replies": 1698,
+        "isQuote": true,
+        "quotedTweetId": "2112603916076781778"
+      },
+      "summaryZh": "第 16 天/\n\n现在 API 里可以缓存 12 小时，而对于 Codex &amp; Work 的登录用户，我们会永久保留缓存，你回到旧对话或隔几小时再继续都不会有任何惩罚，而且现在保证能命中缓存。 https://t.co/0HYeB01KVh"
+    },
+    {
+      "id": "x:2112698243553579485",
+      "type": "x",
+      "sourceName": "Garry Tan",
+      "title": "GStack is now Capy aware and works great with their software factory feature Cap…",
+      "url": "https://x.com/garrytan/status/2112698243553579485",
+      "publishedAt": "2026-10-21T00:11:27.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "GStack is now Capy aware and works great with their software factory feature Captains https://t.co/9WIBtPdmbd",
+      "metadata": {
+        "handle": "garrytan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+        "likes": 69,
+        "retweets": 6,
+        "replies": 12,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "GStack 现在能识别 Capy 了，和他们的软件工厂功能 Captains 配合得很好 https://t.co/9WIBtPdmbd"
+    },
+    {
+      "id": "x:2112696155519775041",
+      "type": "x",
+      "sourceName": "Matt Turck",
+      "title": "Fun day for the @FirstMarkCap family \n\n* Series B announcement at @daytonaio \n*…",
+      "url": "https://x.com/mattturck/status/2112696155519775041",
+      "publishedAt": "2026-10-21T00:03:10.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Fun day for the @FirstMarkCap family \n\n* Series B announcement at @daytonaio \n* Series A announcement at @BabaHQ \n* Big launch of @GradiumAI’s new SOTA open source on-device voice AI model\n* and just this morning, @synthesiaIO and @RilletHQ officially taking over the NYC subway lol",
+      "metadata": {
+        "handle": "mattturck",
+        "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "likes": 35,
+        "retweets": 6,
+        "replies": 5,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "对 @FirstMarkCap 大家庭来说是开心的一天 \n\n* @daytonaio 宣布 B 轮融资 \n* @BabaHQ 宣布 A 轮融资 \n* @GradiumAI 全新的 SOTA 开源端侧语音 AI 模型重磅发布\n* 就在今天早上，@synthesiaIO 和 @RilletHQ 正式占领了纽约地铁 lol"
+    },
+    {
+      "id": "x:2112692719135117754",
+      "type": "x",
+      "sourceName": "Nikunj Kothari",
+      "title": "Incredible things are happening on this planet.. \n\nGenerational miss to not call…",
+      "url": "https://x.com/nikunj/status/2112692719135117754",
+      "publishedAt": "2026-10-20T23:49:30.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Incredible things are happening on this planet.. \n\nGenerational miss to not call this p(bloom) 🌳 https://t.co/cu2vEic1tw",
+      "metadata": {
+        "handle": "nikunj",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+        "likes": 26,
+        "retweets": 1,
+        "replies": 2,
+        "isQuote": true,
+        "quotedTweetId": "2112583500008403437"
+      },
+      "summaryZh": "这个星球上正在发生不可思议的事情..\n\n不把它叫做 p(bloom) 真是错失一代人的机会 🌳 https://t.co/cu2vEic1tw"
+    },
+    {
+      "id": "x:2112683163633975713",
+      "type": "x",
+      "sourceName": "Peter Yang",
+      "title": "📌 Check out Mercury Payroll here: https://t.co/xZhi3mhocl\n\nMercury is a fintech…",
+      "url": "https://x.com/petergyang/status/2112683163633975713",
+      "publishedAt": "2026-10-20T23:11:32.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "📌 Check out Mercury Payroll here: https://t.co/xZhi3mhocl\n\nMercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.\n\nMercury does not provide legal, tax, accounting, or investment advice and does not act as your employer, professional employer organization (PEO), employer of record (EOR), or plan fiduciary.\n\nAI-generated information may be incomplete or inaccurate and should not be relied upon as legal, tax, or accounting advice. You are responsible for reviewing and confirming information before submitting or approving payroll actions.",
+      "metadata": {
+        "handle": "petergyang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "📌 在这里了解 Mercury Payroll：https://t.co/xZhi3mhocl\n\nMercury 是一家金融科技公司，并非 FDIC 保险的银行。银行服务由 Choice Financial Group 和 Column N.A. 提供，两者均为 FDIC 成员。\n\nMercury 不提供法律、税务、会计或投资建议，也不充当你的雇主、专业雇主组织（PEO）、名义雇主（EOR）或计划受托人。\n\nAI 生成的信息可能不完整或不准确，不应作为法律、税务或会计建议加以依赖。在提交或批准薪资操作之前，你有责任审查并确认相关信息。"
+    },
+    {
+      "id": "x:2112683151504159073",
+      "type": "x",
+      "sourceName": "Peter Yang",
+      "title": "Putting myself on payroll was one of the more painful parts of running my one-pe…",
+      "url": "https://x.com/petergyang/status/2112683151504159073",
+      "publishedAt": "2026-10-20T23:11:29.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Putting myself on payroll was one of the more painful parts of running my one-person S-corp.\n\nI'm partnering with @mercury on Mercury Payroll, which brings payroll into your Mercury account, with a team that handles state-tax registration paperwork and live-balance checks that flag potential shortfalls before payday.\n\nHere's what would have made my setup easier.\n\nPaid partnership with Mercury",
+      "metadata": {
+        "handle": "petergyang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+        "likes": 25,
+        "retweets": 2,
+        "replies": 6,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "把自己放进工资单，是我经营一人 S-corp 时最痛苦的事情之一。\n\n我正在与 @mercury 合作推出 Mercury Payroll，它把工资单功能带进你的 Mercury 账户，并有一个团队负责州税登记文书，以及实时余额检查——在发薪日前标记出可能的资金缺口。\n\n以下这些本可以让我的情况轻松一些。\n\n与 Mercury 的付费合作"
+    },
+    {
+      "id": "x:2112679011839344651",
+      "type": "x",
+      "sourceName": "Josh Woodward",
+      "title": "Sundar: \"We are so committed to being at the frontier. It’s in our DNA. We won’t…",
+      "url": "https://x.com/joshwoodward/status/2112679011839344651",
+      "publishedAt": "2026-10-20T22:55:02.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Sundar: \"We are so committed to being at the frontier. It’s in our DNA. We won’t do it any other way.\"\n\nCome build with us! https://t.co/p66ngm6sUi",
+      "metadata": {
+        "handle": "joshwoodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "likes": 426,
+        "retweets": 23,
+        "replies": 21,
+        "isQuote": true,
+        "quotedTweetId": "2112664584293167535"
+      },
+      "summaryZh": "Sundar：“我们如此坚定地要站在前沿。这写在我们的 DNA 里。我们不会用任何其他方式来做。”\n\n来和我们一起构建吧！ https://t.co/p66ngm6sUi"
+    },
+    {
+      "id": "x:2112676778779238583",
+      "type": "x",
+      "sourceName": "Josh Woodward",
+      "title": "Sign up here: https://t.co/HF3sXiqKUU",
+      "url": "https://x.com/joshwoodward/status/2112676778779238583",
+      "publishedAt": "2026-10-20T22:46:10.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Sign up here: https://t.co/HF3sXiqKUU",
+      "metadata": {
+        "handle": "joshwoodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "likes": 48,
+        "retweets": 0,
+        "replies": 7,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "在这里报名：https://t.co/HF3sXiqKUU"
+    },
+    {
+      "id": "x:2112676777290248675",
+      "type": "x",
+      "sourceName": "Josh Woodward",
+      "title": "We just crossed a big milestone for our @GeminiApp Trusted Tester community yest…",
+      "url": "https://x.com/joshwoodward/status/2112676777290248675",
+      "publishedAt": "2026-10-20T22:46:09.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "We just crossed a big milestone for our @GeminiApp Trusted Tester community yesterday. TLDR: Lots of people want to try early stuff on Web, Android, and iOS! If you’ve signed up before, you’re fully in. If you want to sign up… 👇 https://t.co/SShYS6GnAd",
+      "metadata": {
+        "handle": "joshwoodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "likes": 500,
+        "retweets": 23,
+        "replies": 44,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "昨天我们 @GeminiApp 可信测试者社区刚刚跨过了一个重要的里程碑。TLDR：很多人都想在 Web、Android 和 iOS 上试用早期功能！如果你之前已经报名，那你已经完全在里面了。如果你想报名…… 👇 https://t.co/SShYS6GnAd"
+    },
+    {
+      "id": "x:2112662180105699802",
+      "type": "x",
+      "sourceName": "Swyx",
+      "title": "https://t.co/Tv89Jzgkp3",
+      "url": "https://x.com/swyx/status/2112662180105699802",
+      "publishedAt": "2026-10-20T21:48:09.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "https://t.co/Tv89Jzgkp3",
+      "metadata": {
+        "handle": "swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+        "likes": 14,
+        "retweets": 0,
+        "replies": 3,
+        "isQuote": true,
+        "quotedTweetId": "2112588380416647205"
+      },
+      "summaryZh": "https://t.co/Tv89Jzgkp3"
+    },
+    {
+      "id": "x:2112658577110520122",
+      "type": "x",
+      "sourceName": "Guillermo Rauch",
+      "title": "Much like we did with @aisdk, we're bringing a truly open-source, runtime-agnost…",
+      "url": "https://x.com/rauchg/status/2112658577110520122",
+      "publishedAt": "2026-10-20T21:33:50.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Much like we did with @aisdk, we're bringing a truly open-source, runtime-agnostic solution to harness durability.\n\nWe're extending the durability infra that powers @eve and Workflows to all harnesses, like Pi and OpenCode. Local, Vercel, or DIY.\n\nFun fact: even Claude Code and Codex can be made durable (and observable!) this way. The catch: they're not (currently) designed for embedding, which makes them less efficient, less portable, and brings an extra sandbox requirement compared to Pi or Fx.",
+      "metadata": {
+        "handle": "rauchg",
+        "bio": "@vercel CEO",
+        "likes": 435,
+        "retweets": 24,
+        "replies": 87,
+        "isQuote": true,
+        "quotedTweetId": "2112653833382027729"
+      },
+      "summaryZh": "和我们在 @aisdk 上做的一样，我们要为 harness 的持久性带来一个真正开源、与运行时无关的解决方案。\n\n我们正把支撑 @eve 和 Workflows 的持久性基础设施扩展给所有 harness，比如 Pi 和 OpenCode。本地、Vercel 或自建都可以。\n\n有趣的是：连 Claude Code 和 Codex 也可以这样变得持久（而且可观测！）。问题在于：它们（目前）并不是为嵌入而设计的，这使它们效率更低、可移植性更差，而且相比 Pi 或 Fx 会多出一个沙箱要求。"
+    },
+    {
+      "id": "x:2112652656602923366",
+      "type": "x",
+      "sourceName": "Sam Altman",
+      "title": "I am very grateful Aleksander accepted our request to come take this on; the saf…",
+      "url": "https://x.com/sama/status/2112652656602923366",
+      "publishedAt": "2026-10-20T21:10:19.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this. https://t.co/myODbyruRO",
+      "metadata": {
+        "handle": "sama",
+        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "likes": 4673,
+        "retweets": 156,
+        "replies": 371,
+        "isQuote": true,
+        "quotedTweetId": "2112231448103239998"
+      },
+      "summaryZh": "我非常感激 Aleksander 接受了我们的请求来承担这项工作；在直面超级智能时，我们面前的安全与保障挑战是巨大的，而他有一整套出色的技能来应对这件事。 https://t.co/myODbyruRO"
+    },
+    {
+      "id": "x:2112638107749355867",
+      "type": "x",
+      "sourceName": "Guillermo Rauch",
+      "title": "AI will be able to compute the perfect delta of what you understand and don't, h…",
+      "url": "https://x.com/rauchg/status/2112638107749355867",
+      "publishedAt": "2026-10-20T20:12:30.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery.\n\nIf you so desire, you'll reach the maximum of your capability and intelligence. The ultimate education. For free.",
+      "metadata": {
+        "handle": "rauchg",
+        "bio": "@vercel CEO",
+        "likes": 2466,
+        "retweets": 201,
+        "replies": 184,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "AI 能够计算出你所懂与不懂之间的完美差距，帮助你逐步学会任何概念、解开任何谜团。\n\n如果你愿意，你将抵达自己能力与智力的上限。终极的教育。而且免费。"
+    },
+    {
+      "id": "x:2112627161492312302",
+      "type": "x",
+      "sourceName": "Dan Shipper",
+      "title": "i had a bowl of pasta at lunch and man that was TERRIBLE idea but it tasted so g…",
+      "url": "https://x.com/danshipper/status/2112627161492312302",
+      "publishedAt": "2026-10-20T19:29:00.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "i had a bowl of pasta at lunch and man that was TERRIBLE idea but it tasted so good",
+      "metadata": {
+        "handle": "danshipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "likes": 26,
+        "retweets": 0,
+        "replies": 8,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "午饭我吃了一碗意面，天哪这真是个糟透了的决定，但它太好吃了"
+    },
+    {
+      "id": "x:2112623582098428015",
+      "type": "x",
+      "sourceName": "Matt Turck",
+      "title": "Big news in *open source* voice AI: a suite of tiny text-to-speech, on-device SO…",
+      "url": "https://x.com/mattturck/status/2112623582098428015",
+      "publishedAt": "2026-10-20T19:14:47.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Big news in *open source* voice AI: a suite of tiny text-to-speech, on-device SOTA models 🔥🔥🔥 https://t.co/VDc10vh3Ub",
+      "metadata": {
+        "handle": "mattturck",
+        "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "likes": 28,
+        "retweets": 5,
+        "replies": 5,
+        "isQuote": true,
+        "quotedTweetId": "2112563128487514512"
+      },
+      "summaryZh": "*开源*语音 AI 的大新闻：一整套超小的文本转语音、端侧 SOTA 模型 🔥🔥🔥 https://t.co/VDc10vh3Ub"
+    },
+    {
+      "id": "x:2112611824432742493",
+      "type": "x",
+      "sourceName": "Garry Tan",
+      "title": "Greatest unlock for any startup founder or anyone who has to get in touch with t…",
+      "url": "https://x.com/garrytan/status/2112611824432742493",
+      "publishedAt": "2026-10-20T18:28:04.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Greatest unlock for any startup founder or anyone who has to get in touch with the right people https://t.co/FWdMrZ8VzV",
+      "metadata": {
+        "handle": "garrytan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+        "likes": 693,
+        "retweets": 41,
+        "replies": 43,
+        "isQuote": true,
+        "quotedTweetId": "2112610920589562083"
+      },
+      "summaryZh": "对任何创业公司创始人，或任何需要联系上对的人来说，这都是最大的解锁 https://t.co/FWdMrZ8VzV"
+    },
+    {
+      "id": "x:2112607957586452724",
+      "type": "x",
+      "sourceName": "Peter Yang",
+      "title": "I predict Fable 5.5 will come anywhere from 5 seconds from now to a few weeks fr…",
+      "url": "https://x.com/petergyang/status/2112607957586452724",
+      "publishedAt": "2026-10-20T18:12:42.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "I predict Fable 5.5 will come anywhere from 5 seconds from now to a few weeks from now.\n\nAnd it'll be breathtaking. You heard it here first folks.",
+      "metadata": {
+        "handle": "petergyang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+        "likes": 62,
+        "retweets": 2,
+        "replies": 12,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "我预测 Fable 5.5 会在 5 秒后到几周内的某个时间到来。\n\n它会惊艳全场。各位，你们是最先在这里听到这个消息的。"
+    },
+    {
+      "id": "x:2112607156164059450",
+      "type": "x",
+      "sourceName": "Peter Steinberger",
+      "title": "It would be 9x faster, but we were already on the 7.1-dev version of the ts comp…",
+      "url": "https://x.com/steipete/status/2112607156164059450",
+      "publishedAt": "2026-10-20T18:09:31.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "It would be 9x faster, but we were already on the 7.1-dev version of the ts compiler.",
+      "metadata": {
+        "handle": "steipete",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+        "likes": 50,
+        "retweets": 2,
+        "replies": 0,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "本来会快 9 倍，但我们已经用上了 ts 编译器的 7.1-dev 版本。"
+    },
+    {
+      "id": "x:2112606263163203970",
+      "type": "x",
+      "sourceName": "Google Labs",
+      "title": "What would happen if Dreambeans ☁️ dreamt up ☁️ your morning ☀️?\n\nWe brought tog…",
+      "url": "https://x.com/GoogleLabs/status/2112606263163203970",
+      "publishedAt": "2026-10-20T18:05:58.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "What would happen if Dreambeans ☁️ dreamt up ☁️ your morning ☀️?\n\nWe brought together Google Labs’ very own Sahana R. (Product Manager), Brian R. (VP of Product), and his impossibly adorable floof Nala to dance with destiny in an exercise we’re calling “Dreambeans Roulette”!\n\nHere’s the rundown:\n1️⃣ Open Dreambeans\n2️⃣ Select a story\n3️⃣ Go out and do it!\n\nDiscover where Dreambeans takes us in “Dreambeans Roulette: Part 1” and follow along in this three-part series!\n\nDreambeans is available in the US, for users 18+. More regions coming soon. Learn more at https://t.co/jCdAzMHvOD",
+      "metadata": {
+        "handle": "GoogleLabs",
+        "bio": "Google’s home for our latest AI tools and experiments.",
+        "likes": 65,
+        "retweets": 13,
+        "replies": 4,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "如果 Dreambeans ☁️ 梦见了 ☁️ 你的早晨 ☀️，会发生什么？\n\n我们邀请了 Google Labs 自家的 Sahana R.（产品经理）、Brian R.（产品副总裁），以及他那可爱得不可思议的毛茸茸萌宠 Nala，一起在这场我们称之为“Dreambeans Roulette”的活动中与命运共舞！\n\n流程如下：\n1️⃣ 打开 Dreambeans\n2️⃣ 选择一个故事\n3️⃣ 出门去把它做出来！\n\n在“Dreambeans Roulette: Part 1”中看看 Dreambeans 会把我们带向何方，并关注这个三部分系列！\n\nDreambeans 已在美国上线，面向 18 岁以上用户。更多地区即将上线。了解更多：https://t.co/jCdAzMHvOD"
+    },
+    {
+      "id": "x:2112605703219347503",
+      "type": "x",
+      "sourceName": "Peter Steinberger",
+      "title": "Astra did the planning, Sol 6.1 did the coding.\n\nI found that the workflow of pr…",
+      "url": "https://x.com/steipete/status/2112605703219347503",
+      "publishedAt": "2026-10-20T18:03:44.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Astra did the planning, Sol 6.1 did the coding.\n\nI found that the workflow of prompting Astra to run codex cli in worktrees works FAR better than relying on subagents.\n\nA second agent oversaw the work to keep Astra on track. Kinda like /goal, but instead of the same agent reviewing a text file, a second agent that challenges. Wrote an OC-plugin for this \"smart goal\" feature.",
+      "metadata": {
+        "handle": "steipete",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+        "likes": 161,
+        "retweets": 10,
+        "replies": 13,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "Astra 负责规划，Sol 6.1 负责写代码。\n\n我发现，提示 Astra 在 worktrees 中运行 codex cli 的工作流，效果比依赖子代理要好得多。\n\n第二个代理监督工作，让 Astra 保持正轨。有点像 /goal，但不是让同一个代理审查文本文件，而是让第二个代理提出挑战。为这个“smart goal”功能写了一个 OC-plugin。"
+    },
+    {
+      "id": "x:2112592264686149749",
+      "type": "x",
+      "sourceName": "Thibault Sottiaux",
+      "title": "There were reports of usage draining faster than anticipated for some users over…",
+      "url": "https://x.com/thsottiaux/status/2112592264686149749",
+      "publishedAt": "2026-10-20T17:10:20.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.",
+      "metadata": {
+        "handle": "thsottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "likes": 10601,
+        "retweets": 325,
+        "replies": 2501,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "周末有报告称，部分用户的用量消耗速度比预期更快。我们已识别出约 40,000 个账户存在用量限制不一致的问题，即实际应用的用量与其实际选择的套餐不符。我们正在逐一联系所有这些用户，并已修正该问题。如果你受到影响，我们会向你的账户添加额度。很抱歉我们搞错了。"
+    },
+    {
+      "id": "x:2112579526379401408",
+      "type": "x",
+      "sourceName": "Aditya Agarwal",
+      "title": "Call me an old hat computer scientist but the parallels between\n\nInference time…",
+      "url": "https://x.com/adityaag/status/2112579526379401408",
+      "publishedAt": "2026-10-20T16:19:43.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Call me an old hat computer scientist but the parallels between\n\nInference time scaling ---&gt; Subagents --&gt; Agent Swarms\n\nlooks an awful lot like\n\nCPU Threads --&gt; Multi-core CPUs --&gt; Multi-Node Distributed Systems\n\nHistory rhymes well.",
+      "metadata": {
+        "handle": "adityaag",
+        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+        "likes": 433,
+        "retweets": 23,
+        "replies": 36,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "你可以说我是个老派计算机科学家，但\n\n推理时间扩展 ---&gt; 子代理 --&gt; 智能体集群\n\n看起来非常像\n\nCPU 线程 --&gt; 多核 CPU --&gt; 多节点分布式系统\n\n历史总是惊人地相似。"
+    },
+    {
+      "id": "x:2112570721499042246",
+      "type": "x",
+      "sourceName": "Matt Turck",
+      "title": "Thrilled to double down at @daytonaio: @ivanburazin, @JukicVedran and team are b…",
+      "url": "https://x.com/mattturck/status/2112570721499042246",
+      "publishedAt": "2026-10-20T15:44:44.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Thrilled to double down at @daytonaio: @ivanburazin, @JukicVedran and team are building one of the iconic companies of the AI era.  We're grateful that they let us lead the Series B, after leading the Series A earlier this year. https://t.co/0cTtZhI1UG",
+      "metadata": {
+        "handle": "mattturck",
+        "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "likes": 58,
+        "retweets": 3,
+        "replies": 8,
+        "isQuote": true,
+        "quotedTweetId": "2112559682720055454"
+      },
+      "summaryZh": "很高兴加倍押注 @daytonaio：@ivanburazin、@JukicVedran 和团队正在打造 AI 时代最具标志性的公司之一。我们很感激他们让我们领投 B 轮，此前我们已在今年早些时候领投 A 轮。https://t.co/0cTtZhI1UG"
+    },
+    {
+      "id": "x:2112561443249786901",
+      "type": "x",
+      "sourceName": "Dan Shipper",
+      "title": "BOOK REVIEW: Will and Attention, Meghan O'Gieblyn author of God, Human, Animal M…",
+      "url": "https://x.com/danshipper/status/2112561443249786901",
+      "publishedAt": "2026-10-20T15:07:52.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "BOOK REVIEW: Will and Attention, Meghan O'Gieblyn author of God, Human, Animal Machine\n\nI loved this book. O'Gieblyn writes with an addictive mix of clarity, rigor, literary references, and self-implicating honesty. I tore through it in a few days.\n\nThe book deals with her relapse into alcoholism, how the stories we tell about ourselves can both save us and, when they go stale, ruin us, whether we change from the outside in or the inside out, and how and whether we can trust our own desires.\n\nUnderneath it's a story about pragmatism. Her initial recovery from alcoholism rested on a pragmatic philosophy: she treated the core tenets of sobriety—faith as \"something you do\" surrendering her will to a Higher Power that would keep her safe, and even the resolution not to drink—not as capital T truths, but truths she adopted because they worked.\n\nThe problem she found is, for one, this creates a gap between your underlying desires and beliefs and your behavior. One that you hope will close eventually, but if it doesn’t can leave you feeling hollowed out and can keep your actual desires and beliefs unexamined. The other problem, of course, is once you start asking whether sobriety is “useful”, you open yourself to another version of the truth: That it might not be.\n\nOne of the things I found so striking about this book is how honest she is, without glorifying drinking, about what alcohol gives to alcoholics. For her, it can bring the kind of unification of self that mystics and yogis seek in God and meditation. So at that point, it is easy for the alcoholic to ask, fairly, why alcohol is not “useful”?\n\nIt should be clear that even if you’re not an alcoholic these are the kinds of mental gymnastics all of us do to justify and rationalize any number of behaviors or beliefs.\n\nAs an admirer of pragmatism I found this to be quite an interesting and mind-expanding line of questioning.\n\nBut I also found it interesting that, as far as I can tell, her turn away from pragmatism—away from truths held to because they “worked,” and back toward a vision of truth and goodness as inviolable and untouchable by experience—ultimately seems to rest on pragmatic grounds. Getting sober again, having faith, and treating the resolution not to drink as an unconditional taboo all, in the broadest sense possible, rest on what they do for her: they keep her desires from talking her back into ruin.",
+      "metadata": {
+        "handle": "danshipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "likes": 41,
+        "retweets": 0,
+        "replies": 5,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "书评：《Will and Attention》，作者 Meghan O'Gieblyn，著有《God, Human, Animal Machine》\n\n我很喜欢这本书。O'Gieblyn 的写作融合了清晰、严谨、文学引用和自曝其短的坦诚，令人上瘾。我几天就读完了。\n\n这本书讲述了她酗酒复发、我们讲述自己的故事如何既能拯救我们、又会在变得陈旧时毁掉我们、我们是从外到内还是从内到外改变，以及我们如何、是否能够信任自己的欲望。\n\n在更深层，这是一个关于实用主义的故事。她最初从酗酒中恢复，依托的是一种实用主义哲学：她把戒酒的核心信条——把信仰视为“你去做的一件事”、将自己的意志交给一个会保护她的更高力量，甚至包括不喝酒的决心——不当作大写 T 的真理，而是当作因为有效才采纳的真理。\n\n她发现的问题之一是，这会在你底层的欲望和信念与你的行为之间制造一道鸿沟。你希望这道鸿沟最终会合拢，但如果合不拢，就会让你感到被掏空，也会让你真正的欲望和信念一直得不到审视。另一个问题当然是，一旦你开始追问戒酒是否“有用”，你就向另一种版本的真相敞开了大门：它可能并没有用。\n\n这本书让我印象最深的一点是，她非常诚实地讲述了酒精给酗酒者带来了什么，同时没有美化饮酒。对她来说，酒精能带来神秘主义者和瑜伽士在上帝与冥想中寻求的那种自我统一。于是到了那个地步，酗酒者很容易理直气壮地问：为什么酒精不“有用”呢？\n\n应该明确的是，即使你不是酗酒者，我们所有人也会做这类心理体操，来为各种行为和信念辩护、找理由。\n\n作为实用主义的欣赏者，我觉得这是一条非常有趣、能拓展思维的追问路径。\n\n但我也觉得有趣的是，据我所知，她背离实用主义——不再坚持那些因为“有效”才被接受的真理，转而回到一种认为真与善不可侵犯、经验无法触及的愿景——最终似乎仍建立在实用主义的根基上。重新戒酒、拥有信仰，以及把不喝酒的决心当作无条件的禁忌，从最广义上说，全都取决于它们为她做了什么：它们让她的欲望无法再把她劝回毁灭之中。"
+    },
+    {
+      "id": "x:2112553922753864109",
+      "type": "x",
+      "sourceName": "Garry Tan",
+      "title": "Asset seizure tax destroying California\n\nYou can bet they will keep trying to do…",
+      "url": "https://x.com/garrytan/status/2112553922753864109",
+      "publishedAt": "2026-10-20T14:37:59.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "Asset seizure tax destroying California\n\nYou can bet they will keep trying to do it because it’s all the same goal: eat the Golden Goose\n\nBetter off just enjoying unlimited golden eggs but no, gotta eat that goose https://t.co/txJv5u5ZE6",
+      "metadata": {
+        "handle": "garrytan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+        "likes": 584,
+        "retweets": 25,
+        "replies": 36,
+        "isQuote": true,
+        "quotedTweetId": "2112257675857707160"
+      },
+      "summaryZh": "资产没收税正在摧毁加州\n\n你可以打赌他们会继续尝试这么做，因为目标全都一样：吃掉下金蛋的鹅\n\n本来好好享受无穷无尽的金蛋就行了，但不行，非得把那只鹅吃掉 https://t.co/txJv5u5ZE6"
+    },
+    {
+      "id": "x:2112550542837002419",
+      "type": "x",
+      "sourceName": "Dan Shipper",
+      "title": "right it needs to ask for approval but the approval policy is never so it can't…",
+      "url": "https://x.com/danshipper/status/2112550542837002419",
+      "publishedAt": "2026-10-20T14:24:33.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "right it needs to ask for approval but the approval policy is never so it can't ask for approval! and it doesn't know how I can change the approval policy\n\nmakes sense! https://t.co/n6MDve1Q1e",
+      "metadata": {
+        "handle": "danshipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "likes": 10,
+        "retweets": 0,
+        "replies": 2,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "对，它需要请求批准，但审批策略是 never，所以它没法请求批准！而且它不知道我该怎么更改审批策略\n\n有道理！ https://t.co/n6MDve1Q1e"
+    },
+    {
+      "id": "x:2112530473994072225",
+      "type": "x",
+      "sourceName": "Zara Zhang",
+      "title": "If you’re a product builder in the earliest stages, the biggest advantage of hav…",
+      "url": "https://x.com/zarazhangrui/status/2112530473994072225",
+      "publishedAt": "2026-10-20T13:04:48.000Z",
+      "collectedAt": "2026-10-21T06:42:56.495Z",
+      "summaryText": "If you’re a product builder in the earliest stages, the biggest advantage of having your own audience isn’t even the distribution.\n\nIt’s being able to \n- Test different ideas/angles and see what resonate with people\n- Find your first 100 early adopters\n\nSignals &gt; distribution",
+      "metadata": {
+        "handle": "zarazhangrui",
+        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+        "likes": 159,
+        "retweets": 7,
+        "replies": 33,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "如果你是一位处于最早期阶段的产品构建者，拥有自己的受众最大的优势甚至不是分发。\n\n而是能够\n- 测试不同的想法/角度，看看哪些能引起人们共鸣\n- 找到你的前 100 位早期采用者\n\n信号 &gt; 分发"
+    }
+  ]
+}
