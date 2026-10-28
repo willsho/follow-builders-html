@@ -1,0 +1,586 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T13:12:29.143Z",
+  "items": [
+    {
+      "id": "x:2115330127886463244",
+      "type": "x",
+      "sourceName": "Thibault Sottiaux",
+      "title": "And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG",
+      "url": "https://x.com/thsottiaux/status/2115330127886463244",
+      "publishedAt": "2026-10-28T06:29:38.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG",
+      "metadata": {
+        "handle": "thsottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "likes": 305,
+        "retweets": 15,
+        "replies": 102,
+        "isQuote": true,
+        "quotedTweetId": "2115273253711409208"
+      },
+      "summaryZh": "搞定了。明天见，会有好消息。 https://t.co/WhJle2cWRG"
+    },
+    {
+      "id": "x:2115319325137731757",
+      "type": "x",
+      "sourceName": "Peter Yang",
+      "title": "Other hiring practices that need to change: \n\n1. Filtering candidates based on y…",
+      "url": "https://x.com/petergyang/status/2115319325137731757",
+      "publishedAt": "2026-10-28T05:46:42.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "Other hiring practices that need to change: \n\n1. Filtering candidates based on years of experience or some company name \n\n2. Prioritizing resumes and cover letters over proof of work and real projects \n\n3. Listing number of people managed as an accomplishment by itself \n\n4. Endless rounds of interviews over short work trials\n\nI could go on.",
+      "metadata": {
+        "handle": "petergyang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+        "likes": 16,
+        "retweets": 0,
+        "replies": 4,
+        "isQuote": true,
+        "quotedTweetId": "2115200995546566910"
+      },
+      "summaryZh": "其他需要改变的招聘做法：\n\n1. 根据工作年限或某家公司名来筛选候选人\n\n2. 优先看简历和求职信，而不是作品证明和真实项目\n\n3. 把管理人数本身列为一项成就\n\n4. 无休止的多轮面试，而不是短期工作试用\n\n我还能继续列。"
+    },
+    {
+      "id": "x:2115309642209436057",
+      "type": "x",
+      "sourceName": "Peter Yang",
+      "title": "If you’re going to make videos about some made-up ARR then just be a satirical m…",
+      "url": "https://x.com/petergyang/status/2115309642209436057",
+      "publishedAt": "2026-10-28T05:08:13.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "If you’re going to make videos about some made-up ARR then just be a satirical media company. \n\nI’d respect that.",
+      "metadata": {
+        "handle": "petergyang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+        "likes": 12,
+        "retweets": 0,
+        "replies": 9,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "如果你要做关于某个编造的 ARR 的视频，那就干脆做一家讽刺性媒体公司吧。\n\n我会尊重这一点。"
+    },
+    {
+      "id": "x:2115305369799110905",
+      "type": "x",
+      "sourceName": "Aaron Levie",
+      "title": "This is correct. The vast majority of enterprise workflows have not actually had…",
+      "url": "https://x.com/levie/status/2115305369799110905",
+      "publishedAt": "2026-10-28T04:51:15.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "This is correct. The vast majority of enterprise workflows have not actually had agents applied to them in any meaningful way. The economy probably has this deployed < 1% right now.\n\nAt best you have a few automated systems in a company that do a single pass of an LLM to make a decision or provide feedback, but very little real “automation”. Some of this is a statement about the adoption rates of technology in enterprises, but the vast majority of it is really just due to the capability of AI itself.\n\nThat’s all changing. Now with computer use, long running agents, harness improvements and surrounding infrastructure, we’re finally at a point where we can start to apply agents at more complex workflows. \n\nWe will see self-improving systems that can take any particular workflow goal and improve the execution rates over a volume of instances. And with the emerging form factor of agent swarms, you can just choose to deploy any amount of compute at a problem and agents will off and do the work.\n\nThis won’t be about and users prompting agents to complete a specific task for them, but instead the organization reengineering the underlying workflows to take advantage of agents in their processes. This will have a massive impact in finance, life sciences, healthcare, and other information-heavy domains. Lots of opportunity to build and deploy these systems right now.",
+      "metadata": {
+        "handle": "levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "likes": 186,
+        "retweets": 10,
+        "replies": 54,
+        "isQuote": true,
+        "quotedTweetId": "2115193664981152000"
+      },
+      "summaryZh": "这说得对。绝大多数企业工作流实际上还没有以任何有意义的方式应用智能体。目前整个经济中实际部署的比例可能不到 1%。\n\n最好的情况也只是公司里有几套自动化系统，让 LLM 跑一遍来做决策或提供反馈，几乎没有真正的“自动化”。这其中一部分说明了企业采用技术的速度，但绝大多数其实只是因为 AI 自身的能力。\n\n这一切都在改变。现在有了 computer use、长时间运行的智能体、执行框架改进以及周边基础设施，我们终于到了可以开始在更复杂的工作流中应用智能体的阶段。\n\n我们将看到自我改进的系统，它们可以接受任何特定的工作流目标，并在大量实例中提高执行成功率。而随着智能体集群这一新兴形态的出现，你只需选择把任意数量的算力投入到一个问题上，智能体就会自行去完成工作。\n\n这不会是关于终端用户提示智能体替他们完成某个特定任务，而是组织重新设计底层工作流，以便在其流程中利用智能体。这将对金融、生命科学、医疗健康以及其他信息密集型领域产生巨大影响。现在构建和部署这些系统有大量机会。"
+    },
+    {
+      "id": "x:2115297093879472332",
+      "type": "x",
+      "sourceName": "Thibault Sottiaux",
+      "title": "https://t.co/Fgy0dBAHsJ has landed",
+      "url": "https://x.com/thsottiaux/status/2115297093879472332",
+      "publishedAt": "2026-10-28T04:18:22.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "https://t.co/Fgy0dBAHsJ has landed",
+      "metadata": {
+        "handle": "thsottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "likes": 5209,
+        "retweets": 176,
+        "replies": 1127,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "https://t.co/Fgy0dBAHsJ 已经上线"
+    },
+    {
+      "id": "x:2115288579173921266",
+      "type": "x",
+      "sourceName": "Zara Zhang",
+      "title": "Had no idea this would become my most viewed tweet of all time 😂 https://t.co/m…",
+      "url": "https://x.com/zarazhangrui/status/2115288579173921266",
+      "publishedAt": "2026-10-28T03:44:32.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "Had no idea this would become my most viewed tweet of all time 😂 https://t.co/mEG5Z28kyU",
+      "metadata": {
+        "handle": "zarazhangrui",
+        "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+        "likes": 75,
+        "retweets": 0,
+        "replies": 18,
+        "isQuote": true,
+        "quotedTweetId": "2113148949842534482"
+      },
+      "summaryZh": "没想到这会成为我有史以来浏览量最高的推文 😂 https://t.co/mEG5Z28kyU"
+    },
+    {
+      "id": "x:2115273253711409208",
+      "type": "x",
+      "sourceName": "Thibault Sottiaux",
+      "title": "Lands by midnight PST.",
+      "url": "https://x.com/thsottiaux/status/2115273253711409208",
+      "publishedAt": "2026-10-28T02:43:38.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "Lands by midnight PST.",
+      "metadata": {
+        "handle": "thsottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "likes": 1622,
+        "retweets": 50,
+        "replies": 398,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "会在 PST 午夜前上线。"
+    },
+    {
+      "id": "x:2115239304092106772",
+      "type": "x",
+      "sourceName": "Peter Yang",
+      "title": "I just tried the most incredible Grok @bot feature today it was one of my favori…",
+      "url": "https://x.com/petergyang/status/2115239304092106772",
+      "publishedAt": "2026-10-28T00:28:43.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "I just tried the most incredible Grok @bot feature today it was one of my favorite (and funniest) moments with AI in recent memory. \n\nIt's not quite launched to everyone but should be coming very soon.\n\nI'm going to make a video on just this feature. Subscribe here to get it soon: https://t.co/NSTj7ijxE0",
+      "metadata": {
+        "handle": "petergyang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+        "likes": 65,
+        "retweets": 1,
+        "replies": 17,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "我今天刚试了 Grok @bot 最不可思议的一个功能，这是我近期记忆中与 AI 相处最喜欢（也最搞笑）的时刻之一。\n\n它还没有向所有人推出，但应该很快就会来。\n\n我会专门为这个功能做一个视频。在这里订阅，很快就能看到：https://t.co/NSTj7ijxE0"
+    },
+    {
+      "id": "x:2115218670389756243",
+      "type": "x",
+      "sourceName": "Guillermo Rauch",
+      "title": "$ 𝚊𝚕𝚒𝚊𝚜 𝚗𝚘𝚠=𝚟𝚎𝚛𝚌𝚎𝚕\n$ 𝚌𝚊𝚝 >𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎 <<'𝙴𝙾𝙵'\n𝙵𝚁\ud835…",
+      "url": "https://x.com/rauchg/status/2115218670389756243",
+      "publishedAt": "2026-10-27T23:06:44.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "$ 𝚊𝚕𝚒𝚊𝚜 𝚗𝚘𝚠=𝚟𝚎𝚛𝚌𝚎𝚕\n$ 𝚌𝚊𝚝 >𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎 <<'𝙴𝙾𝙵'\n𝙵𝚁𝙾𝙼 𝚘𝚟𝚎𝚗/𝚋𝚞𝚗:𝚊𝚕𝚙𝚒𝚗𝚎\n𝙲𝙼𝙳 [\"𝚋𝚞𝚗\",\"-𝚎\",\"𝙱𝚞𝚗.𝚜𝚎𝚛𝚟𝚎({𝚙𝚘𝚛𝚝:𝟾𝟶,𝚏𝚎𝚝𝚌𝚑:()=>𝚗𝚎𝚠 𝚁𝚎𝚜𝚙𝚘𝚗𝚜𝚎('𝚠𝚎 𝚊𝚛𝚎 𝚜𝚘 𝚋𝚊𝚌𝚔')})\"]\n𝙴𝙾𝙵\n$ 𝚗𝚘𝚠\n> Ready: https://t.co/tOqwRwGUa2",
+      "metadata": {
+        "handle": "rauchg",
+        "bio": "@vercel CEO",
+        "likes": 196,
+        "retweets": 4,
+        "replies": 49,
+        "isQuote": true,
+        "quotedTweetId": "2115210098222236058"
+      },
+      "summaryZh": "$ 𝚊𝚕𝚒𝚊𝚜 𝚗𝚘𝚠=𝚟𝚎𝚛𝚌𝚎𝚕\n$ 𝚌𝚊𝚝 >𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎 <<'𝙴𝙾𝙵'\n𝙵𝚁𝙾𝙼 𝚘𝚟𝚎𝚗/𝚋𝚞𝚗:𝚊𝚕𝚙𝚒𝚗𝚎\n𝙲𝙼𝙳 [\"𝚋𝚞𝚗\",\"-𝚎\",\"𝙱𝚞𝚗.𝚜𝚎𝚛𝚟𝚎({𝚙𝚘𝚛𝚝:𝟾𝟶,𝚏𝚎𝚝𝚌𝚑:()=>𝚗𝚎𝚠 𝚁𝚎𝚜𝚙𝚘𝚗𝚜𝚎('𝚠𝚎 𝚊𝚛𝚎 𝚜𝚘 𝚋𝚊𝚌𝚔')})\"]\n𝙴𝙾𝙵\n$ 𝚗𝚘𝚠\n> Ready: https://t.co/tOqwRwGUa2"
+    },
+    {
+      "id": "x:2115215790756794496",
+      "type": "x",
+      "sourceName": "Garry Tan",
+      "title": "I am trying to slim down GStack and reduce token usage and task latency to be su…",
+      "url": "https://x.com/garrytan/status/2115215790756794496",
+      "publishedAt": "2026-10-27T22:55:17.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "I am trying to slim down GStack and reduce token usage and task latency to be sure https://t.co/2n99PHF5i6",
+      "metadata": {
+        "handle": "garrytan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+        "likes": 92,
+        "retweets": 3,
+        "replies": 36,
+        "isQuote": true,
+        "quotedTweetId": "2115213279912173914"
+      },
+      "summaryZh": "我正在努力精简 GStack，降低 token 使用量和任务延迟，确认一下 https://t.co/2n99PHF5i6"
+    },
+    {
+      "id": "x:2115210866962624810",
+      "type": "x",
+      "sourceName": "Garry Tan",
+      "title": "What did my Capy software factory do on the greenest days? https://t.co/miOR2tre…",
+      "url": "https://x.com/garrytan/status/2115210866962624810",
+      "publishedAt": "2026-10-27T22:35:44.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "What did my Capy software factory do on the greenest days? https://t.co/miOR2treNF",
+      "metadata": {
+        "handle": "garrytan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+        "likes": 8,
+        "retweets": 1,
+        "replies": 2,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "我的 Capy 软件工厂在最绿的那些日子里做了什么？ https://t.co/miOR2treNF"
+    },
+    {
+      "id": "x:2115207856496480261",
+      "type": "x",
+      "sourceName": "Amjad Masad",
+      "title": "If I’m investing in frontier AI I would underwrite it mostly on new discovery an…",
+      "url": "https://x.com/amasad/status/2115207856496480261",
+      "publishedAt": "2026-10-27T22:23:46.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "If I’m investing in frontier AI I would underwrite it mostly on new discovery and its applications like medicine because coding and most of knowledge work is quickly being saturated by sub-frontier models.",
+      "metadata": {
+        "handle": "amasad",
+        "bio": "ceo @replit. civilizationist",
+        "likes": 592,
+        "retweets": 31,
+        "replies": 115,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "如果我要投资前沿 AI，我主要会基于新发现及其应用（比如医学）来下注，因为编程和大多数知识工作正迅速被次前沿模型饱和。"
+    },
+    {
+      "id": "x:2115193524152860771",
+      "type": "x",
+      "sourceName": "Garry Tan",
+      "title": "The @capydotai software factory renormalization of your GitHub contribution colo…",
+      "url": "https://x.com/garrytan/status/2115193524152860771",
+      "publishedAt": "2026-10-27T21:26:49.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "The @capydotai software factory renormalization of your GitHub contribution colors is real\n\nHere is mine 👀 \n\nI was no token slouch before but wow the PRs are hot and heavy with Capy Captains (10 to 20 subagents running at all times on GStack and GBrain) https://t.co/cCDEI6d0Xu https://t.co/15R8aFycyA",
+      "metadata": {
+        "handle": "garrytan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+        "likes": 114,
+        "retweets": 8,
+        "replies": 53,
+        "isQuote": true,
+        "quotedTweetId": "2115190553126342694"
+      },
+      "summaryZh": "@capydotai 软件工厂对你在 GitHub 贡献颜色的重整化是真的\n\n这是我的 👀\n\n我以前在 token 上可不是懒汉，但哇，现在 PR 又多又猛，全靠 Capy Captains（在 GStack 和 GBrain 上始终有 10 到 20 个子智能体在运行） https://t.co/cCDEI6d0Xu https://t.co/15R8aFycyA"
+    },
+    {
+      "id": "x:2115188992861970693",
+      "type": "x",
+      "sourceName": "Thariq",
+      "title": "feels like there needs to be a new way to distribute opensource software such th…",
+      "url": "https://x.com/trq212/status/2115188992861970693",
+      "publishedAt": "2026-10-27T21:08:48.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "feels like there needs to be a new way to distribute opensource software such that people can modify via agents but also get upstream automatically merged in\n\ncoding agents can do this but they won’t do it automatically https://t.co/6iejoVGp1D",
+      "metadata": {
+        "handle": "trq212",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "likes": 2465,
+        "retweets": 53,
+        "replies": 219,
+        "isQuote": true,
+        "quotedTweetId": "2115135857669881939"
+      },
+      "summaryZh": "感觉需要一种新的开源软件分发方式，让人们可以通过智能体进行修改，同时又能自动合并上游更新\n\n编程智能体能做这件事，但不会自动去做 https://t.co/6iejoVGp1D"
+    },
+    {
+      "id": "x:2115181058815660449",
+      "type": "x",
+      "sourceName": "Amjad Masad",
+      "title": "In the Stanford piracy case against Anthropic, the judge’s name is “Alsup” which…",
+      "url": "https://x.com/amasad/status/2115181058815660449",
+      "publishedAt": "2026-10-27T20:37:17.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "In the Stanford piracy case against Anthropic, the judge’s name is “Alsup” which sounds suspiciously close to “AI slop” when say it fast. https://t.co/hcuRaiQwJp",
+      "metadata": {
+        "handle": "amasad",
+        "bio": "ceo @replit. civilizationist",
+        "likes": 102,
+        "retweets": 2,
+        "replies": 36,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "在针对 Anthropic 的斯坦福盗版案中，法官的名字是“Alsup”，说快一点时听起来可疑地接近“AI slop”。 https://t.co/hcuRaiQwJp"
+    },
+    {
+      "id": "x:2115161107078021563",
+      "type": "x",
+      "sourceName": "Guillermo Rauch",
+      "title": "https://t.co/04L6MqJwe8 https://t.co/l0HypHrirg",
+      "url": "https://x.com/rauchg/status/2115161107078021563",
+      "publishedAt": "2026-10-27T19:18:00.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "https://t.co/04L6MqJwe8 https://t.co/l0HypHrirg",
+      "metadata": {
+        "handle": "rauchg",
+        "bio": "@vercel CEO",
+        "likes": 454,
+        "retweets": 12,
+        "replies": 41,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "https://t.co/04L6MqJwe8 https://t.co/l0HypHrirg"
+    },
+    {
+      "id": "x:2115157188704612735",
+      "type": "x",
+      "sourceName": "Nikunj Kothari",
+      "title": "VCs love talking about the number of cofounders and how sometimes there’s too ma…",
+      "url": "https://x.com/nikunj/status/2115157188704612735",
+      "publishedAt": "2026-10-27T19:02:26.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "VCs love talking about the number of cofounders and how sometimes there’s too many..\n\n@AnthropicAI x @databricks both with 7 cofounders showing that the best startups are truly outliers. \n\nAll the definitions of the “right” way of identifying or building startups are wrong. \n\nThere’s no “right” way, there’s only the way that works for you!",
+      "metadata": {
+        "handle": "nikunj",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+        "likes": 97,
+        "retweets": 4,
+        "replies": 12,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "风投喜欢谈联合创始人的数量，以及有时候创始人太多了……\n\n@AnthropicAI x @databricks 都有 7 位联合创始人，说明最好的初创公司确实是异类。\n\n所有关于识别或打造初创公司“正确”方式的定义都是错的。\n\n没有“正确”的方式，只有适合你的方式！"
+    },
+    {
+      "id": "x:2115156135875629109",
+      "type": "x",
+      "sourceName": "Swyx",
+      "title": "anyway here's my soundcloud https://t.co/12VJjC5aB8",
+      "url": "https://x.com/swyx/status/2115156135875629109",
+      "publishedAt": "2026-10-27T18:58:15.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "anyway here's my soundcloud https://t.co/12VJjC5aB8",
+      "metadata": {
+        "handle": "swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+        "likes": 22,
+        "retweets": 0,
+        "replies": 1,
+        "isQuote": true,
+        "quotedTweetId": "2115156080309489736"
+      },
+      "summaryZh": "总之，这是我的 SoundCloud https://t.co/12VJjC5aB8"
+    },
+    {
+      "id": "x:2115150680977715419",
+      "type": "x",
+      "sourceName": "Amjad Masad",
+      "title": "Designers’ contribution to the codebase. https://t.co/FMlhbFzszv https://t.co/Id…",
+      "url": "https://x.com/amasad/status/2115150680977715419",
+      "publishedAt": "2026-10-27T18:36:34.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "Designers’ contribution to the codebase. https://t.co/FMlhbFzszv https://t.co/IdcnEzDEmW",
+      "metadata": {
+        "handle": "amasad",
+        "bio": "ceo @replit. civilizationist",
+        "likes": 265,
+        "retweets": 14,
+        "replies": 47,
+        "isQuote": true,
+        "quotedTweetId": "2115130930125996103"
+      },
+      "summaryZh": "设计师对代码库的贡献。 https://t.co/FMlhbFzszv https://t.co/IdcnEzDEmW"
+    },
+    {
+      "id": "x:2115135859075015137",
+      "type": "x",
+      "sourceName": "Thariq",
+      "title": "this is the kind of HCI work I've been wanting to do for a while, but messing wi…",
+      "url": "https://x.com/trq212/status/2115135859075015137",
+      "publishedAt": "2026-10-27T17:37:40.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "this is the kind of HCI work I've been wanting to do for a while, but messing with OS internals has always been very time consuming\n\nnot sharing yet, there are still many edge cases (would not recommend using), but fun to experiment with!",
+      "metadata": {
+        "handle": "trq212",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "likes": 628,
+        "retweets": 2,
+        "replies": 19,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "这就是我一段时间以来一直想做的那种 HCI 工作，但折腾操作系统内部一直非常耗时\n\n还没有分享，仍有很多边缘情况（不建议使用），但实验起来很有趣！"
+    },
+    {
+      "id": "x:2115135857669881939",
+      "type": "x",
+      "sourceName": "Thariq",
+      "title": "experimenting with a lil personal project: an AI-native macOS dock with custom m…",
+      "url": "https://x.com/trq212/status/2115135857669881939",
+      "publishedAt": "2026-10-27T17:37:40.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "experimenting with a lil personal project: an AI-native macOS dock with custom modes (writing, building, etc.) to help me stay focused\n\nmy agent is able to customize mode behavior and add new modes, it uses jev to classify my activity + notifications in real time &amp; act on them https://t.co/yplDQUwTv5",
+      "metadata": {
+        "handle": "trq212",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "likes": 8262,
+        "retweets": 215,
+        "replies": 432,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "在折腾一个小型个人项目：一个 AI 原生的 macOS 程序坞，带自定义模式（写作、构建等），帮我保持专注\n\n我的 agent 能自定义模式行为并添加新模式，它用 jev 实时对我的活动和通知进行分类，并对它们采取行动 https://t.co/yplDQUwTv5"
+    },
+    {
+      "id": "x:2115135448876269782",
+      "type": "x",
+      "sourceName": "Swyx",
+      "title": "yeah you ignored a @mntruell email in 2024 but did you pitch something like  Cla…",
+      "url": "https://x.com/swyx/status/2115135448876269782",
+      "publishedAt": "2026-10-27T17:36:02.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "yeah you ignored a @mntruell email in 2024 but did you pitch something like  Claude Code in 2019 and then.... not do it  for 7 years https://t.co/dEix0oyszd",
+      "metadata": {
+        "handle": "swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+        "likes": 53,
+        "retweets": 1,
+        "replies": 7,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "是啊，你在 2024 年忽略了 @mntruell 的一封邮件，但你在 2019 年提出过类似 Claude Code 的东西，然后……七年都没做 https://t.co/dEix0oyszd"
+    },
+    {
+      "id": "x:2115132327131328806",
+      "type": "x",
+      "sourceName": "Matt Turck",
+      "title": "Usual startup advice: too many co-founders is bad!!! Too much dilution! Founder…",
+      "url": "https://x.com/mattturck/status/2115132327131328806",
+      "publishedAt": "2026-10-27T17:23:38.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "Usual startup advice: too many co-founders is bad!!! Too much dilution! Founder friction risk! Analysis paralysis!\n\nAlso:\n\n* Anthropic: 7 co-founders\n\n* OpenAI: 11 co-founders\n\n* Databricks: 7 co-founders",
+      "metadata": {
+        "handle": "mattturck",
+        "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "likes": 220,
+        "retweets": 11,
+        "replies": 54,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "常见的创业建议：联合创始人太多不好！！！过度稀释股权！创始人摩擦风险！分析瘫痪！\n\n然而：\n\n* Anthropic：7 位联合创始人\n\n* OpenAI：11 位联合创始人\n\n* Databricks：7 位联合创始人"
+    },
+    {
+      "id": "x:2115119516191801809",
+      "type": "x",
+      "sourceName": "Aditya Agarwal",
+      "title": "Very very excited about what @centai_health is building.\n\nSo much potential to b…",
+      "url": "https://x.com/adityaag/status/2115119516191801809",
+      "publishedAt": "2026-10-27T16:32:44.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "Very very excited about what @centai_health is building.\n\nSo much potential to bring better health to everyone in India. https://t.co/SAU5pLzijv",
+      "metadata": {
+        "handle": "adityaag",
+        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+        "likes": 25,
+        "retweets": 2,
+        "replies": 0,
+        "isQuote": true,
+        "quotedTweetId": "2114991579576283514"
+      },
+      "summaryZh": "非常非常期待 @centai_health 正在打造的东西。\n\n为印度所有人带来更好的健康，潜力巨大。 https://t.co/SAU5pLzijv"
+    },
+    {
+      "id": "x:2115112705162182754",
+      "type": "x",
+      "sourceName": "Dan Shipper",
+      "title": "we'll have more on this in @every this week:\n\nhttps://t.co/9wRhOCVapS",
+      "url": "https://x.com/danshipper/status/2115112705162182754",
+      "publishedAt": "2026-10-27T16:05:40.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "we'll have more on this in @every this week:\n\nhttps://t.co/9wRhOCVapS",
+      "metadata": {
+        "handle": "danshipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "本周我们会在 @every 上带来更多相关内容：\n\nhttps://t.co/9wRhOCVapS"
+    },
+    {
+      "id": "x:2115111451614744845",
+      "type": "x",
+      "sourceName": "Nikunj Kothari",
+      "title": "Things I have a pretty decent idea about but I still have to go deep on since I’…",
+      "url": "https://x.com/nikunj/status/2115111451614744845",
+      "publishedAt": "2026-10-27T16:00:41.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "Things I have a pretty decent idea about but I still have to go deep on since I’ll get 10 wildly different definitions…\n\n> long horizon\n> out of distribution (esp data)\n> intelligence per watt\n> rl environments\n> “forward deployed”\n> revenue\n> “frontier”\n> self improving\n\nSure, some of these are rightfully subjective, but you’d be surprised at the variance of the responses 😅",
+      "metadata": {
+        "handle": "nikunj",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+        "likes": 41,
+        "retweets": 0,
+        "replies": 4,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "有些事我自认为还挺有数，但还是得深入研究，因为我会得到 10 个截然不同的定义……\n\n> 长周期\n> 分布外（尤其是数据）\n> 每瓦智能\n> 强化学习环境\n> “前置部署”\n> 收入\n> “前沿”\n> 自我改进\n\n当然，其中有些理应是主观的，但你会对回答的差异之大感到惊讶 😅"
+    },
+    {
+      "id": "x:2115093098816745910",
+      "type": "x",
+      "sourceName": "Dan Shipper",
+      "title": "video creation and game making are going to become widely distributed foundation…",
+      "url": "https://x.com/danshipper/status/2115093098816745910",
+      "publishedAt": "2026-10-27T14:47:45.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "video creation and game making are going to become widely distributed foundations of knowledge work in the same way doc and deck creation are today",
+      "metadata": {
+        "handle": "danshipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "likes": 227,
+        "retweets": 21,
+        "replies": 45,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "视频创作和游戏制作将成为广泛分布的知识工作基础，就像如今的文档和演示文稿制作一样"
+    },
+    {
+      "id": "x:2115089887959359988",
+      "type": "x",
+      "sourceName": "Swyx",
+      "title": "at spacex ipo everyone was posting their cursor bag fumble.\n\nkid stuff.\n\nmy turn…",
+      "url": "https://x.com/swyx/status/2115089887959359988",
+      "publishedAt": "2026-10-27T14:35:00.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "at spacex ipo everyone was posting their cursor bag fumble.\n\nkid stuff.\n\nmy turn.\n\ni estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. https://t.co/O4SZbwKhoQ https://t.co/kEV0gzb1Q6",
+      "metadata": {
+        "handle": "swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+        "likes": 1437,
+        "retweets": 7,
+        "replies": 194,
+        "isQuote": true,
+        "quotedTweetId": "2114864999709753526"
+      },
+      "summaryZh": "在 SpaceX 上市时，所有人都在晒自己错过 cursor 的惨痛教训。\n\n小儿科。\n\n轮到我了。\n\n我估计这是一次 5 亿美元的错失，哈哈。而且很可能早早就参与 claude code（因为我一直是 typescript cli 的维护者）。fml。 https://t.co/O4SZbwKhoQ https://t.co/kEV0gzb1Q6"
+    },
+    {
+      "id": "x:2115080807656419759",
+      "type": "x",
+      "sourceName": "Dan Shipper",
+      "title": "extremely good explanation https://t.co/qikxoeig2o",
+      "url": "https://x.com/danshipper/status/2115080807656419759",
+      "publishedAt": "2026-10-27T13:58:55.000Z",
+      "collectedAt": "2026-10-28T06:32:16.853Z",
+      "summaryText": "extremely good explanation https://t.co/qikxoeig2o",
+      "metadata": {
+        "handle": "danshipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "likes": 442,
+        "retweets": 11,
+        "replies": 6,
+        "isQuote": true,
+        "quotedTweetId": "2114892366586823133"
+      },
+      "summaryZh": "解释得极好 https://t.co/qikxoeig2o"
+    }
+  ]
+}
