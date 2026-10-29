@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-28T13:12:29.143Z",
+  "updatedAt": "2026-10-29T13:19:55.453Z",
   "days": [
+    {
+      "date": "2026-10-29",
+      "path": "archive/2026-10-29.json",
+      "counts": {
+        "x": 39,
+        "podcast": 1,
+        "blog": 0
+      }
+    },
     {
       "date": "2026-10-28",
       "path": "archive/2026-10-28.json",
