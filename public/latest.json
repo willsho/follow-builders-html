@@ -1,662 +1,782 @@
 {
-  "generatedAt": "2026-11-12T15:26:17.260Z",
-  "date": "2026-11-12",
+  "generatedAt": "2026-11-13T14:43:14.182Z",
+  "date": "2026-11-13",
   "items": [
     {
-      "id": "x:2120759932370944188",
-      "type": "x",
-      "sourceName": "Nikunj Kothari",
-      "title": "@grok can you transcribe the message here?",
-      "url": "https://x.com/nikunj/status/2120759932370944188",
-      "publishedAt": "2026-11-12T06:05:44.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "@grok can you transcribe the message here?",
-      "metadata": {
-        "handle": "nikunj",
-        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
-        "likes": 1,
-        "retweets": 0,
-        "replies": 1,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "@grok 你能把这里的消息转写一下吗？"
-    },
-    {
-      "id": "x:2120754714296172923",
-      "type": "x",
-      "sourceName": "Nikunj Kothari",
-      "title": "RFS (request for startups) from a stealth portfolio founder.. I really like all…",
-      "url": "https://x.com/nikunj/status/2120754714296172923",
-      "publishedAt": "2026-11-12T05:45:00.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "RFS (request for startups) from a stealth portfolio founder.. I really like all of these ideas.\n\nIf you are working on any of these, please DM me! https://t.co/WxlDNuvi8Y",
-      "metadata": {
-        "handle": "nikunj",
-        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
-        "likes": 15,
-        "retweets": 0,
-        "replies": 3,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "RFS（request for startups）来自一位隐身模式投资组合创始人……我非常喜欢这些想法。\n\n如果你正在做其中任何一个，请私信我！ https://t.co/WxlDNuvi8Y"
-    },
-    {
-      "id": "x:2120726673452933269",
+      "id": "x:2121100531502620784",
       "type": "x",
       "sourceName": "Peter Yang",
-      "title": "for all the anons in my replies - \n\nI think his cheating is appalling but that's…",
-      "url": "https://x.com/petergyang/status/2120726673452933269",
-      "publishedAt": "2026-11-12T03:53:34.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "for all the anons in my replies - \n\nI think his cheating is appalling but that's different from getting fired over it.\n\nBefore the board takes action they should do a proper investigation and involve shareholders in the decision.\n\nThere's no denying that Jensen built a generational company.",
+      "title": "Can't tell if this is real but if NVIDIA employees feels strongly doing somethin…",
+      "url": "https://x.com/petergyang/status/2121100531502620784",
+      "publishedAt": "2026-11-13T04:39:09.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Can't tell if this is real but if NVIDIA employees feels strongly doing something like this isn't a bad idea. https://t.co/oQ8085yvMY",
       "metadata": {
         "handle": "petergyang",
         "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
-        "likes": 19,
-        "retweets": 0,
-        "replies": 3,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "致我回复里的所有匿名用户——\n\n我认为他出轨的行为令人震惊，但这和因此被解雇是两回事。\n\n在董事会采取行动之前，他们应该进行正式调查，并让股东参与决策。\n\n不可否认，Jensen 打造了一家划时代的公司。"
-    },
-    {
-      "id": "x:2120711266759258616",
-      "type": "x",
-      "sourceName": "Peter Steinberger",
-      "title": "reading some of these comments makes my brain hurt. oss is already hard enough w…",
-      "url": "https://x.com/steipete/status/2120711266759258616",
-      "publishedAt": "2026-11-12T02:52:21.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "reading some of these comments makes my brain hurt. oss is already hard enough without politics. https://t.co/TgpI4KxLOS",
-      "metadata": {
-        "handle": "steipete",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
-        "likes": 309,
-        "retweets": 10,
-        "replies": 19,
+        "likes": 242,
+        "retweets": 17,
+        "replies": 14,
         "isQuote": true,
-        "quotedTweetId": "2120564675662188999"
+        "quotedTweetId": "2121092676510695723"
       },
-      "summaryZh": "读了一些评论让我头疼。开源本来就够难了，还要扯上政治。 https://t.co/TgpI4KxLOS"
+      "summaryZh": "分不清这是真是假，但如果英伟达员工对此感受强烈，做点这样的事也不算坏主意。 https://t.co/oQ8085yvMY"
     },
     {
-      "id": "x:2120671838909194695",
+      "id": "x:2121098361201918301",
+      "type": "x",
+      "sourceName": "Peter Yang",
+      "title": "Beautiful https://t.co/pTTkF9jDJE",
+      "url": "https://x.com/petergyang/status/2121098361201918301",
+      "publishedAt": "2026-11-13T04:30:32.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Beautiful https://t.co/pTTkF9jDJE",
+      "metadata": {
+        "handle": "petergyang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+        "likes": 8,
+        "retweets": 0,
+        "replies": 1,
+        "isQuote": true,
+        "quotedTweetId": "2121031266447339952"
+      },
+      "summaryZh": "太美了 https://t.co/pTTkF9jDJE"
+    },
+    {
+      "id": "x:2121096888023932949",
+      "type": "x",
+      "sourceName": "Nikunj Kothari",
+      "title": "I know everyone is plugged into the Jensen news, but 9 hours of this without res…",
+      "url": "https://x.com/nikunj/status/2121096888023932949",
+      "publishedAt": "2026-11-13T04:24:40.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "I know everyone is plugged into the Jensen news, but 9 hours of this without resolution is wiiiiild..\n\nI guess it’s going to get way WAY worse before it gets any better. \n\nAnd it’s going to happen to every single organization - big and small ☠️ https://t.co/4768lam91A",
+      "metadata": {
+        "handle": "nikunj",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+        "likes": 92,
+        "retweets": 1,
+        "replies": 7,
+        "isQuote": true,
+        "quotedTweetId": "2121079061774491735"
+      },
+      "summaryZh": "我知道大家都在关注黄仁勋的新闻，但这事拖了9个小时还没个结果，也太离谱了……\n\n我猜在好转之前，情况会变得糟得多得多。\n\n而且每一家机构都会碰上——无论大小 ☠️ https://t.co/4768lam91A"
+    },
+    {
+      "id": "x:2121088973372334443",
+      "type": "x",
+      "sourceName": "Swyx",
+      "title": "and straight to broadway show rehearsal :) see you saturday https://t.co/YaSKdiT…",
+      "url": "https://x.com/swyx/status/2121088973372334443",
+      "publishedAt": "2026-11-13T03:53:13.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "and straight to broadway show rehearsal :) see you saturday https://t.co/YaSKdiTPkb https://t.co/eRIxAwTCHT",
+      "metadata": {
+        "handle": "swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+        "likes": 33,
+        "retweets": 0,
+        "replies": 4,
+        "isQuote": true,
+        "quotedTweetId": "2118472770002792902"
+      },
+      "summaryZh": "然后直接去百老汇演出排练 :) 周六见 https://t.co/YaSKdiTPkb https://t.co/eRIxAwTCHT"
+    },
+    {
+      "id": "x:2121081862659739870",
       "type": "x",
       "sourceName": "Amjad Masad",
-      "title": "Why are old stories that were not even covered up all that well become sudden in…",
-      "url": "https://x.com/amasad/status/2120671838909194695",
-      "publishedAt": "2026-11-12T00:15:41.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Why are old stories that were not even covered up all that well become sudden international and geopolitical news?\n\nThe timing is suspicious, so worth asking: who benefits and why now?\n\nIf Jensen, the premier champion of open models, is taken out then anyone who wants AI closed, centralized, and controlled might benefit.\n\nWhy now? The midterms seem relevant. But also perhaps the upcoming IPOs.",
+      "title": "Makes total sense that congressman leading the inquiry into Jensen’s alleged for…",
+      "url": "https://x.com/amasad/status/2121081862659739870",
+      "publishedAt": "2026-11-13T03:24:58.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Makes total sense that congressman leading the inquiry into Jensen’s alleged foreign ties is the same guy who showed up at the Capitol wearing a foreign army uniform. He’s an expert at foreign ties! https://t.co/9DfLI6DEwq",
       "metadata": {
         "handle": "amasad",
         "bio": "ceo @replit. civilizationist",
-        "likes": 3430,
-        "retweets": 389,
-        "replies": 183,
-        "isQuote": true,
-        "quotedTweetId": "2120648765665120312"
-      },
-      "summaryZh": "为什么那些甚至没怎么被掩盖的旧故事，会突然变成国际和地缘政治新闻？\n\n时机很可疑，所以值得一问：谁受益，为什么是现在？\n\n如果 Jensen——开放模型的首要捍卫者——被赶下台，那么任何希望 AI 封闭、集中化、受控的人可能都会受益。\n\n为什么是现在？中期选举似乎有关。但也可能和即将到来的 IPO 有关。"
-    },
-    {
-      "id": "x:2120669243918418237",
-      "type": "x",
-      "sourceName": "Nikunj Kothari",
-      "title": "I scraped 803 companies sub-processors to investigate what AI native companies a…",
-      "url": "https://x.com/nikunj/status/2120669243918418237",
-      "publishedAt": "2026-11-12T00:05:22.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "I scraped 803 companies sub-processors to investigate what AI native companies are using for their infrastructure.. \n\nSome interesting findings from the last time I did this in March:\n\n> 44% of companies list two+ model providers (up from 33%). Small n, but Anthropic grew twice as fast as OpenAI. \n\n> 86 pairs where each company names the other as a subprocessor (@AnthropicAI + @Cloudflare, @vercel + @spacexai)\n\n> 33% of companies list an inference provider (up from 22%). @modal continues to crush. \n\n> Chinese models are primarily coming through video (think Bytedance) rather than text (at least on the subprocessor lists)\n\n> @typesafeai is the breakout hit, going from 0 to many companies in a short period. \n\nCaveat: subprocessor lists tend to be a lagging indicator, but a sure shot way of knowing if the company is using something. \n\nYou can find all the updated data, design and insights at deploygraph dot com. Feedback welcome!",
-      "metadata": {
-        "handle": "nikunj",
-        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
-        "likes": 32,
-        "retweets": 1,
-        "replies": 13,
+        "likes": 1705,
+        "retweets": 211,
+        "replies": 51,
         "isQuote": false,
         "quotedTweetId": null
       },
-      "summaryZh": "我抓取了 803 家公司子处理商的信息，来调查 AI 原生公司都在用什么基础设施……\n\n以下是我上次在三月做这件事时的一些有趣发现：\n\n> 44% 的公司列出了两个以上模型提供商（高于 33%）。样本量小，但 Anthropic 的增长速度是 OpenAI 的两倍。\n\n> 有 86 对是每家公司把对方列为子处理商（@AnthropicAI + @Cloudflare，@vercel + @spacexai）\n\n> 33% 的公司列出了推理服务提供商（高于 22%）。@modal 继续强势碾压。\n\n> 中国模型主要通过视频（比如 Bytedance）而不是文本进入（至少在子处理商名单上如此）\n\n> @typesafeai 是突围黑马，在短时间内从 0 发展到许多公司使用。\n\n注意：子处理商名单往往是滞后指标，但却是确认公司是否在使用某项服务的可靠方式。\n\n你可以在 deploygraph dot com 找到所有更新后的数据、设计和洞察。欢迎反馈！"
+      "summaryZh": "带头调查黄仁勋所谓外国关系的国会议员，正是那个穿着外国军装出现在国会大厦的人，这完全说得通。他可是外国关系方面的专家！ https://t.co/9DfLI6DEwq"
     },
     {
-      "id": "x:2120669165316915259",
-      "type": "x",
-      "sourceName": "Claude",
-      "title": "Mariko Mori has pushed the boundaries of art for three decades. For her retrospe…",
-      "url": "https://x.com/claudeai/status/2120669165316915259",
-      "publishedAt": "2026-11-12T00:05:03.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Mariko Mori has pushed the boundaries of art for three decades. For her retrospective \"All That Shines,\" she used Claude to write code for a computer-generated animation, presented as a new video installation. https://t.co/MtJ1rlClxt",
-      "metadata": {
-        "handle": "claudeai",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
-        "likes": 3408,
-        "retweets": 206,
-        "replies": 183,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "Mariko Mori 三十年来不断拓展艺术的边界。在她的回顾展“All That Shines”中，她用 Claude 为一段计算机生成动画编写代码，并作为新的视频装置作品呈现。 https://t.co/MtJ1rlClxt"
-    },
-    {
-      "id": "x:2120657462353330604",
-      "type": "x",
-      "sourceName": "Garry Tan",
-      "title": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his…",
-      "url": "https://x.com/garrytan/status/2120657462353330604",
-      "publishedAt": "2026-11-11T23:18:33.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. \n\nHis day to day is prime actor work. Would be hard to believe a transition happens without massive market cap implosion.  https://t.co/alxSa3cwwi",
-      "metadata": {
-        "handle": "garrytan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-        "likes": 391,
-        "retweets": 21,
-        "replies": 71,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "考虑到 Jensen Huang 的领导对于运转这台未来丰裕引擎有多么核心，Nvidia 董事会要赶走他似乎并不明智。\n\n他的日常工作是不可替代的主角级工作。很难相信在没有市值大规模崩盘的情况下能完成交接。 https://t.co/alxSa3cwwi"
-    },
-    {
-      "id": "x:2120649149389627493",
-      "type": "x",
-      "sourceName": "Peter Yang",
-      "title": "Man I am so disappointed in Jensen.\n\nSo many people looked up to him including m…",
-      "url": "https://x.com/petergyang/status/2120649149389627493",
-      "publishedAt": "2026-11-11T22:45:31.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Man I am so disappointed in Jensen.\n\nSo many people looked up to him including me. The story of rising from a dishwasher and waiter to the CEO of the most valuable company in the world. The story of a 41-year marriage to his college sweetheart.\n\nWhat the hell happened man?\n\nAnd of all the people to have affairs with you have to choose a spy and a freakin' NVIDIA executive?\n\nCome on dude.",
-      "metadata": {
-        "handle": "petergyang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
-        "likes": 2019,
-        "retweets": 102,
-        "replies": 728,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "老兄，我对 Jensen 太失望了。\n\n包括我在内，那么多人曾敬仰他。从洗碗工和服务员一路成为全球最有价值公司的 CEO。还有与大学恋人 41 年婚姻的故事。\n\n到底他妈发生了什么？\n\n而且那么多人可以搞婚外情，你偏偏要选一个间谍和一个该死的 NVIDIA 高管？\n\n拜托，老兄。"
-    },
-    {
-      "id": "x:2120645533689905269",
-      "type": "x",
-      "sourceName": "Peter Yang",
-      "title": "Come on dude this is too much https://t.co/LhNRFtynf4",
-      "url": "https://x.com/petergyang/status/2120645533689905269",
-      "publishedAt": "2026-11-11T22:31:09.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Come on dude this is too much https://t.co/LhNRFtynf4",
-      "metadata": {
-        "handle": "petergyang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
-        "likes": 52,
-        "retweets": 0,
-        "replies": 8,
-        "isQuote": true,
-        "quotedTweetId": "2120638637352063104"
-      },
-      "summaryZh": "拜托，老兄，这也太过分了 https://t.co/LhNRFtynf4"
-    },
-    {
-      "id": "x:2120640868483006533",
-      "type": "x",
-      "sourceName": "Matt Turck",
-      "title": "French execs as a second Jensen story surfaces https://t.co/2gDPWPnKAH https://t…",
-      "url": "https://x.com/mattturck/status/2120640868483006533",
-      "publishedAt": "2026-11-11T22:12:37.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "French execs as a second Jensen story surfaces https://t.co/2gDPWPnKAH https://t.co/SDI5BeppBW",
-      "metadata": {
-        "handle": "mattturck",
-        "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "likes": 88,
-        "retweets": 7,
-        "replies": 3,
-        "isQuote": true,
-        "quotedTweetId": "2120640234102636546"
-      },
-      "summaryZh": "法国高管：随着第二个 Jensen 事件浮出水面 https://t.co/2gDPWPnKAH https://t.co/SDI5BeppBW"
-    },
-    {
-      "id": "x:2120640864787841513",
-      "type": "x",
-      "sourceName": "Swyx",
-      "title": "this person is a real former employee that we parted ways with\n\nthat email domai…",
-      "url": "https://x.com/swyx/status/2120640864787841513",
-      "publishedAt": "2026-11-11T22:12:36.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "this person is a real former employee that we parted ways with\n\nthat email domain is not one we use https://t.co/uMoKLNxGrh",
-      "metadata": {
-        "handle": "swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
-        "likes": 66,
-        "retweets": 2,
-        "replies": 14,
-        "isQuote": true,
-        "quotedTweetId": "2120593057037074840"
-      },
-      "summaryZh": "这个人是真实的前员工，我们已与其分道扬镳\n\n那个邮箱域名不是我们使用的 https://t.co/uMoKLNxGrh"
-    },
-    {
-      "id": "x:2120640558184206508",
-      "type": "x",
-      "sourceName": "Swyx",
-      "title": "next on stream - @CompleteSkeptic and @typesafeai take over for Jev Day! https:/…",
-      "url": "https://x.com/swyx/status/2120640558184206508",
-      "publishedAt": "2026-11-11T22:11:23.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "next on stream - @CompleteSkeptic and @typesafeai take over for Jev Day! https://t.co/JcBRgaHwvt https://t.co/gVA3KoN1V4",
-      "metadata": {
-        "handle": "swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
-        "likes": 26,
-        "retweets": 1,
-        "replies": 5,
-        "isQuote": true,
-        "quotedTweetId": "2120582147107078356"
-      },
-      "summaryZh": "直播接下来——@CompleteSkeptic 和 @typesafeai 接棒 Jev Day！ https://t.co/JcBRgaHwvt https://t.co/gVA3KoN1V4"
-    },
-    {
-      "id": "x:2120623334555791504",
-      "type": "x",
-      "sourceName": "Aditya Agarwal",
-      "title": "It has been such a pleasure to partner with Rox from the earliest days.\n\nI have…",
-      "url": "https://x.com/adityaag/status/2120623334555791504",
-      "publishedAt": "2026-11-11T21:02:56.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "It has been such a pleasure to partner with Rox from the earliest days.\n\nI have also learnt a lot about what it means to run a company at AI-pace from @ishanmkh. His talk at our recent founder retreat was incredible. https://t.co/UdZlqzZetx",
-      "metadata": {
-        "handle": "adityaag",
-        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
-        "likes": 26,
-        "retweets": 3,
-        "replies": 0,
-        "isQuote": true,
-        "quotedTweetId": "2120579502351008192"
-      },
-      "summaryZh": "从最早的日子起就能与 Rox 合作，真是太荣幸了。\n\n我也从 @ishanmkh 那里学到了很多，关于以 AI 速度经营公司意味着什么。他在我们最近创始人静修营上的演讲非常精彩。 https://t.co/UdZlqzZetx"
-    },
-    {
-      "id": "x:2120622974277734716",
-      "type": "x",
-      "sourceName": "Josh Woodward",
-      "title": "We love this and build with it regularly ♥️\n\nIt makes our apps faster and smarte…",
-      "url": "https://x.com/joshwoodward/status/2120622974277734716",
-      "publishedAt": "2026-11-11T21:01:30.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "We love this and build with it regularly ♥️\n\nIt makes our apps faster and smarter https://t.co/79qcg9KloV",
-      "metadata": {
-        "handle": "joshwoodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "likes": 240,
-        "retweets": 2,
-        "replies": 16,
-        "isQuote": true,
-        "quotedTweetId": "2120581433639198885"
-      },
-      "summaryZh": "我们很喜欢这个，并经常用它来构建 ♥️\n\n它让我们的应用更快、更智能 https://t.co/79qcg9KloV"
-    },
-    {
-      "id": "x:2120621112807866620",
+      "id": "x:2121069823069421706",
       "type": "x",
       "sourceName": "Thariq",
-      "title": "it’s about how I think the experience of using coding agents could be like next…",
-      "url": "https://x.com/trq212/status/2120621112807866620",
-      "publishedAt": "2026-11-11T20:54:07.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "it’s about how I think the experience of using coding agents could be like next year and how we get to shape it",
+      "title": "context- https://t.co/hShN4DHnpJ",
+      "url": "https://x.com/trq212/status/2121069823069421706",
+      "publishedAt": "2026-11-13T02:37:08.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "context- https://t.co/hShN4DHnpJ",
       "metadata": {
         "handle": "trq212",
         "bio": "playing WoW forever, formerly Claude Code @anthropicai",
-        "likes": 117,
+        "likes": 46,
         "retweets": 0,
-        "replies": 8,
-        "isQuote": false,
-        "quotedTweetId": null
+        "replies": 6,
+        "isQuote": true,
+        "quotedTweetId": "2121064369903845580"
       },
-      "summaryZh": "这是关于我认为明年使用编码智能体的体验会是什么样，以及我们如何塑造它"
+      "summaryZh": "背景—— https://t.co/hShN4DHnpJ"
     },
     {
-      "id": "x:2120620900785820143",
+      "id": "x:2121067561915916575",
       "type": "x",
       "sourceName": "Thariq",
-      "title": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying…",
-      "url": "https://x.com/trq212/status/2120620900785820143",
-      "publishedAt": "2026-11-11T20:53:16.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out\n\nso if you’re not one of those please come to mine tomorrow at 5pm\n\nit’s called “the sweet side of the bitter lesson” https://t.co/R5nVuHXukK",
+      "title": "it’s time to retvrn https://t.co/2vx6G3oPne",
+      "url": "https://x.com/trq212/status/2121067561915916575",
+      "publishedAt": "2026-11-13T02:28:08.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "it’s time to retvrn https://t.co/2vx6G3oPne",
       "metadata": {
         "handle": "trq212",
         "bio": "playing WoW forever, formerly Claude Code @anthropicai",
-        "likes": 1242,
-        "retweets": 21,
-        "replies": 81,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "Swyx 给了我 AIE code 的“闭幕主题演讲”，也就是大家都累了或在赶飞机\n\n所以如果你不是其中之一，请明天下午 5 点来听我的\n\n它叫“苦涩教训的甜美一面” https://t.co/R5nVuHXukK"
-    },
-    {
-      "id": "x:2120601000176439478",
-      "type": "x",
-      "sourceName": "Guillermo Rauch",
-      "title": "PSA: creating wonderful products still requires extraordinary amounts of human f…",
-      "url": "https://x.com/rauchg/status/2120601000176439478",
-      "publishedAt": "2026-11-11T19:34:11.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "PSA: creating wonderful products still requires extraordinary amounts of human focus, effort, motivation, and love. And an attention span.",
-      "metadata": {
-        "handle": "rauchg",
-        "bio": "@vercel CEO",
-        "likes": 3292,
-        "retweets": 374,
-        "replies": 237,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "温馨提示：创造出色的产品仍然需要大量非凡的人类专注、努力、动力和爱。以及注意力持续时间。"
-    },
-    {
-      "id": "x:2120598652825809186",
-      "type": "x",
-      "sourceName": "Guillermo Rauch",
-      "title": "We have a benchmark that makes 𝚏𝚡 bootup compete with an ultra-optimized pure-…",
-      "url": "https://x.com/rauchg/status/2120598652825809186",
-      "publishedAt": "2026-11-11T19:24:52.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "We have a benchmark that makes 𝚏𝚡 bootup compete with an ultra-optimized pure-assembly 𝚏𝚡.𝚜 version 😂 https://t.co/YguWGluL7i https://t.co/p1scInCCyW",
-      "metadata": {
-        "handle": "rauchg",
-        "bio": "@vercel CEO",
-        "likes": 100,
-        "retweets": 0,
-        "replies": 14,
-        "isQuote": true,
-        "quotedTweetId": "2120570170758316467"
-      },
-      "summaryZh": "我们有一个基准测试，让 𝚏𝚡 的启动过程与一个超优化纯汇编版 𝚏𝚡.𝚜 竞争 😂 https://t.co/YguWGluL7i https://t.co/p1scInCCyW"
-    },
-    {
-      "id": "x:2120595442782368240",
-      "type": "x",
-      "sourceName": "Google Labs",
-      "title": "Want to see how our team actually uses Tabletop? 👀\n\nFounding engineer @romannur…",
-      "url": "https://x.com/GoogleLabs/status/2120595442782368240",
-      "publishedAt": "2026-11-11T19:12:06.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Want to see how our team actually uses Tabletop? 👀\n\nFounding engineer @romannurik gave us a tour of his family’s space— showing how Tabletop can be as useful, quirky, or wonderfully specific as you want it to be:\n\n🪙 Interactive chore charts & piggy banks\n🔍 Rainy-day scavenger hunt with live score tracking\n🗺️ On-the-whim LEGO maps\n🧝‍♀️ Fantasy book-themed NYC trip\n\nPull up a chair and join the waitlist (US, 18+): https://t.co/triX0g7udt",
-      "metadata": {
-        "handle": "GoogleLabs",
-        "bio": "Google’s home for our latest AI tools and experiments.",
-        "likes": 100,
-        "retweets": 12,
-        "replies": 8,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "想看看我们团队实际如何使用 Tabletop 吗？👀\n\n创始工程师 @romannurik 带我们参观了他家的空间——展示了 Tabletop 可以多么实用、古怪，或者如你所愿地奇妙具体：\n\n🪙 互动家务表和存钱罐\n🔍 雨天寻宝游戏，实时比分追踪\n🗺️ 随心拼搭的 LEGO 地图\n🧝‍♀️ 奇幻书主题的 NYC 之旅\n\n拉把椅子过来，加入候补名单（美国，18+）： https://t.co/triX0g7udt"
-    },
-    {
-      "id": "x:2120582147107078356",
-      "type": "x",
-      "sourceName": "Swyx",
-      "title": "standing room only for @poteto’s keynote https://t.co/1uNkKE62e4 https://t.co/bP…",
-      "url": "https://x.com/swyx/status/2120582147107078356",
-      "publishedAt": "2026-11-11T18:19:17.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "standing room only for @poteto’s keynote https://t.co/1uNkKE62e4 https://t.co/bPauHUJuq5",
-      "metadata": {
-        "handle": "swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
-        "likes": 620,
-        "retweets": 8,
-        "replies": 15,
-        "isQuote": true,
-        "quotedTweetId": "2120577296277119129"
-      },
-      "summaryZh": "@poteto 的主题演讲座无虚席 https://t.co/1uNkKE62e4 https://t.co/bPauHUJuq5"
-    },
-    {
-      "id": "x:2120581196363268265",
-      "type": "x",
-      "sourceName": "Guillermo Rauch",
-      "title": "Beam by Reflection is free on https://t.co/3Z4NESzNKd until Nov 12.\nAmerican ope…",
-      "url": "https://x.com/rauchg/status/2120581196363268265",
-      "publishedAt": "2026-11-11T18:15:30.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Beam by Reflection is free on https://t.co/3Z4NESzNKd until Nov 12.\nAmerican open weights.\nZero data retention.\nEnjoy 🇺🇸 https://t.co/axxOvKykl2",
-      "metadata": {
-        "handle": "rauchg",
-        "bio": "@vercel CEO",
         "likes": 143,
-        "retweets": 7,
-        "replies": 25,
+        "retweets": 4,
+        "replies": 13,
+        "isQuote": true,
+        "quotedTweetId": "2121055878212469131"
+      },
+      "summaryZh": "是时候 retvrn 了 https://t.co/2vx6G3oPne"
+    },
+    {
+      "id": "x:2121062974161092792",
+      "type": "x",
+      "sourceName": "Thibault Sottiaux",
+      "title": "How can codex be improved? Try not to say model.",
+      "url": "https://x.com/thsottiaux/status/2121062974161092792",
+      "publishedAt": "2026-11-13T02:09:55.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "How can codex be improved? Try not to say model.",
+      "metadata": {
+        "handle": "thsottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "likes": 5486,
+        "retweets": 98,
+        "replies": 7891,
         "isQuote": false,
         "quotedTweetId": null
       },
-      "summaryZh": "Beam by Reflection 在 https://t.co/3Z4NESzNKd 上免费开放至 11 月 12 日。\n美国开放权重。\n零数据保留。\n尽情享用 🇺🇸 https://t.co/axxOvKykl2"
+      "summaryZh": "codex 怎样才能改进？尽量别说“模型”。"
     },
     {
-      "id": "x:2120578134177464356",
+      "id": "x:2121060183988486493",
       "type": "x",
-      "sourceName": "Aditya Agarwal",
-      "title": "There are basically two kinds of companies to build right now.\n\n1. Diffusion of…",
-      "url": "https://x.com/adityaag/status/2120578134177464356",
-      "publishedAt": "2026-11-11T18:03:20.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "There are basically two kinds of companies to build right now.\n\n1. Diffusion of AI\nThis is the \"vertical SaaS\" of today. There are a bunch of different models for it (FDE company, rollup, horizontal product) but ultimately it all boils down to the same thing: get AI diffused very close to where the work is being done.\n\nProfound, Cognition, Harvey etc. A lot of great companies will get built here.\n\n2. Frontier of AI\nThis is where the really interesting action is. Use AI to accelerate scientific progress, then build products from that progress.\n\nIt is a harder category to see. But we are seeing a lot more of it at @spc:\n\n- Externa is adding hundreds of new chemical building blocks to proteins, so you can engineer a drug to match the disease instead of settling for what nature gave you.\n\n- Epana Bio is using genomics and AI to design autoimmune therapies that go after the cellular origin of the disease.\n\n- VenomicsAI is doing AI-accelerated drug discovery from venoms.\n\n- Equivariant is doing multi-physics modeling for the semiconductor industry.\n\n(There are always picks-and-shovels for AI as well. Lots of amazing companies in that category.)\n\nCategory 2 is not well understood or much talked about externally. It should be because I think that is where the vast majority of model driven returns will come from.",
+      "sourceName": "Swyx",
+      "title": "the production team got us a cake!! #aie1m https://t.co/TYkzM7lfDP https://t.co/…",
+      "url": "https://x.com/swyx/status/2121060183988486493",
+      "publishedAt": "2026-11-13T01:58:49.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "the production team got us a cake!! #aie1m https://t.co/TYkzM7lfDP https://t.co/xTb0EjSdC7",
       "metadata": {
-        "handle": "adityaag",
-        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
-        "likes": 240,
-        "retweets": 25,
+        "handle": "swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+        "likes": 122,
+        "retweets": 2,
         "replies": 21,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "现在基本上有两种公司值得去建。\n\n1. AI 的扩散\n这就是今天的“垂直 SaaS”。它有一堆不同的模式（FDE 公司、收购整合、横向产品），但归根结底都归结为同一件事：让 AI 深度渗透到工作实际发生的地方。\n\nProfound、Cognition、Harvey 等等。很多伟大的公司会在这里诞生。\n\n2. AI 的前沿\n真正有趣的动作在这里。用 AI 加速科学进步，然后基于这些进步构建产品。\n\n这是一个更难看清的类别。但我们在 @spc 看到了更多这样的公司：\n\n- Externa 正在为蛋白质添加数百种新的化学构建块，这样你就可以设计出与疾病匹配的药物，而不是将就于大自然给你的东西。\n\n- Epana Bio 正在利用基因组学和 AI 设计自身免疫疗法，直击疾病的细胞起源。\n\n- VenomicsAI 正在从毒液中开展 AI 加速的药物发现。\n\n- Equivariant 正在为半导体行业做多物理场建模。\n\n（AI 领域也总有“卖铲子”的机会。这个类别里有很多了不起的公司。）\n\n第二类没有得到很好的理解，外界也很少谈论。但它应该被谈论，因为我认为绝大多数模型驱动的回报都将来自那里。"
-    },
-    {
-      "id": "x:2120549258692882702",
-      "type": "x",
-      "sourceName": "Google Labs",
-      "title": "🚨 NEW LABS EXPERIMENT 🚨\n\nIntroducing Tabletop 🎲— our newest experiment built…",
-      "url": "https://x.com/GoogleLabs/status/2120549258692882702",
-      "publishedAt": "2026-11-11T16:08:35.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "🚨 NEW LABS EXPERIMENT 🚨\n\nIntroducing Tabletop 🎲— our newest experiment built to get your crew from \"we should totally do that\" to \"we’re actually doing this.\"\n\nDrop links and files into one shared space, add your crew, and ask Tabletop for whatever you need to create custom spaces on the fly:\n\n🗺️ Interactive road trip maps & dinner-decider wheels\n🏆 Live pickleball brackets & merch voting boards\n🪑 Drag-and-drop seating charts (so you don’t get stuck next to your boss)\n\nPull up a chair and join the waitlist (US, 18+): https://t.co/triX0g7udt",
-      "metadata": {
-        "handle": "GoogleLabs",
-        "bio": "Google’s home for our latest AI tools and experiments.",
-        "likes": 1113,
-        "retweets": 93,
-        "replies": 43,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "🚨 全新的 LABS 实验 🚨\n\n隆重推出 Tabletop 🎲——这是我们最新的实验，旨在让你的伙伴从“我们真该搞这个”变成“我们真的在搞这个”。\n\n把链接和文件丢进一个共享空间，加入你的伙伴，然后向 Tabletop 提出你的需求，即可即时创建自定义空间：\n\n🗺️ 交互式公路旅行地图和晚餐决策转盘\n🏆 实时匹克球对阵表和周边投票板\n🪑 拖拽式座位表（这样你就不会卡在老板旁边）\n\n拉把椅子来加入等候名单（美国，18 岁以上）：https://t.co/triX0g7udt"
-    },
-    {
-      "id": "x:2120539547620790424",
-      "type": "x",
-      "sourceName": "Dan Shipper",
-      "title": "I look at what I do with Fable 5.2 in the cracks of my week and think: this woul…",
-      "url": "https://x.com/danshipper/status/2120539547620790424",
-      "publishedAt": "2026-11-11T15:30:00.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "I look at what I do with Fable 5.2 in the cracks of my week and think: this would've taken five people and $200,000.\n\nThen I look at what my team does with the same AI.\n\nLast week, between meetings, I analyzed our customer survey, made a game for our team, spotted an opportunity to sell @Every to teams, built a CRM, and started reaching out.\n\nLook at that and you might ask: Why would I need a team at all?\n\nThe chart seems to agree. On OpenAI's GDPval benchmark, AI went from beating human experts 12.4% of the time in 2024 to around 83% in 2026. That's the aggregate view of the future of work: gather a lot of data and extrapolate a trend line.\n\nBut the aggregate misses something. To see it, you have to get intimate: zoom in on one real situation, with all its messiness, and extrapolate from there.\n\nWe gave everyone at Every access to the same customer survey and the same AI models.\n\n• I found an opportunity to sell to teams.\n• @poojary_yash saw that first-time subscribers were churning because we send too much email.\n• @dabrundage noticed that many of our readers feel lonely: they're excited about AI, but people around them think they're crazy.\n• @jackcheng turned the results into a Claymation game show.\n\nCould you ask Claude to produce what each of them found? Maybe. But generating possibilities is cheap. Knowing which ones matter is hard.\n\n@hammer_mt ran an experiment to predict what I'd say in Slack. When Claude got 400 attempts, it produced an answer like mine 93% of the time. But when it had to rank its own answers, mine landed in its top 10% only around 60% of the time.\n\nEach person on a team is responsible for a different part of the world. That responsibility narrows where they look, and their perspective helps them decide what matters enough to act on. A team explores more possibilities than a single default prompt, and it can take responsibility for what it finds.\n\nThe obvious objection: models will get better at ranking. I think they will. But people aren't frozen while that happens. Comparing 2026 Yash with 2027 Claude misses that there will also be a 2027 Yash, with another year of experience, using 2027 Claude.\n\nAs models improve and spread, they raise the floor for everyone. The default answer becomes the baseline. The value is in using your perspective and responsibility to push past it.\n\nThat's why I think we need to change how we measure AI. Instead of only asking how well a model performs on problems everyone agrees are worth solving, ask: How good is it at doing my work, from my perspective?\n\nThe aggregate can show us the capability curve. The intimate helps us see what we might build, and who we might become, as we ride it.\n\nI presented this at Thesis: 2027. The full talk is on the Every podcast:",
-      "metadata": {
-        "handle": "danshipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "likes": 118,
-        "retweets": 13,
-        "replies": 42,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "当我看着自己在每周的碎片时间里用 Fable 5.2 做的那些事，我会想：这要是放在过去，得五个人、花 20 万美元才能完成。\n\n然后我再看我的团队用同样的 AI 做了什么。\n\n上周，我在会议间隙分析了我们的客户调研，为我们团队做了一个游戏，发现了把 @Every 卖给团队的机会，搭建了一个 CRM，并开始联系客户。\n\n看到这些，你可能会问：那我到底为什么还需要一个团队？\n\n图表似乎也同意这一点。在 OpenAI 的 GDPval 基准测试中，AI 在 2024 年有 12.4% 的时候击败人类专家，到 2026 年这一比例升至约 83%。这就是未来工作的总体视角：收集大量数据，然后外推一条趋势线。\n\n但总体视角会漏掉一些东西。要看见它，你必须深入具体：放大一个真实情境，连同它的所有混乱，再从那里外推。\n\n我们让 Every 的每个人都接触同一份客户调研和同样的 AI 模型。\n\n• 我发现了向团队销售的机会。\n• @poojary_yash 发现首次订阅用户正在流失，因为我们发送了太多邮件。\n• @dabrundage 注意到我们的许多读者感到孤独：他们对 AI 感到兴奋，但身边的人却觉得他们疯了。\n• @jackcheng 把结果做成了一个黏土动画游戏节目。\n\n你能让 Claude 生成他们每个人发现的东西吗？也许可以。但生成可能性很便宜。知道哪些可能性重要却很难。\n\n@hammer_mt 做了一个实验，预测我会在 Slack 里说什么。当 Claude 有 400 次尝试时，它生成出和我类似答案的概率是 93%。但当它必须给自己的答案排序时，我的答案只有约 60% 的时候能进入它的前 10%。\n\n团队中的每个人都对世界的不同部分负责。这种责任会收窄他们关注的范围，而他们的视角会帮助他们判断什么足够重要、值得行动。一个团队比单个默认提示词能探索更多可能性，也能为其发现承担责任。\n\n显而易见的反驳是：模型会越来越擅长排序。我认为确实会。但在这一过程中，人并不是静止不动的。把 2026 年的 Yash 和 2027 年的 Claude 相比，忽略了还会有一个 2027 年的 Yash，带着又多一年的经验，使用 2027 年的 Claude。\n\n随着模型改进和普及，它们会抬高所有人的下限。默认答案会成为基线。价值在于用你的视角和责任去突破它。\n\n这就是为什么我认为我们需要改变衡量 AI 的方式。不要只问模型在大家都认为值得解决的问题上表现得多好，而要问：从我的视角看，它把我的工作做得多好？\n\n总体视角能向我们展示能力曲线。具体视角则帮助我们看见，在乘着这条曲线前行时，我们可能建造什么，以及我们可能成为谁。\n\n我在 Thesis: 2027 上讲了这些。完整演讲在 Every 播客上："
-    },
-    {
-      "id": "podcast:flightcast:01M717KBM0K828PAMMP3ZPWV8P",
-      "type": "podcast",
-      "sourceName": "AI & I by Every",
-      "title": "A New Vision for Human Work After Automation",
-      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
-      "publishedAt": "2026-11-11T15:30:00.000Z",
-      "collectedAt": "2026-11-12T06:28:59.593Z",
-      "summaryText": "Hey, welcome back to the Every Podcast, where we talk about the future of work.\n\nI'm Natalia Quintero, and at Every, our team of writers and builders use AI every day, so we can tell you how the frontier is shifting, what actually works, and what you need to know.\n\nSo last week a…",
-      "bodyText": "Hey, welcome back to the Every Podcast, where we talk about the future of work.\n\nI'm Natalia Quintero, and at Every, our team of writers and builders use AI every day, so we can tell you how the frontier is shifting, what actually works, and what you need to know.\n\nSo last week at Every, we hosted our first ever conference, V.C.S.S.,\n\nIt was a full day of talks in Brooklyn featuring speakers from Anthropic, OpenAI, Notion, Lovable, Ode, and many more.\n\nIf you missed it, we'll have all of the talks available at every.to forward slash TV.\n\nWe built the whole day around one question.\n\nWhat does great human work look like after automation?\n\nDan Shipper, Every's co-founder and CEO, closed the conference with his answer, which you'll hear later in this episode.\n\nHe took our quarterly customer survey results and built a custom CRM, then a video game, and then personally reached out to a pretty vast number of our customers.\n\nIn pre-AI terms, he did the work of about five people, a data scientist, a game developer, a marketer, an engineer, and a salesperson.\n\nBut instead, he did all of that work with a single clot subscription over the course of a single week.\n\nAnd if you ask Claude what it sees in the same survey, you'll probably get a generic answer that anyone could get.\n\nAnd that's actually Dan's point.\n\nGreat work is the perspective you bring to the model.\n\nSo for the podcast this week, Dan's closing talk from our conference thesis.\n\nEnjoy.\n\nThesis, did everyone have a good time?\n\nWoo!\n\nWell, we gathered here to answer one question, which is what is the future of great human work after automation?\n\nI hope you got some good answers today.\n\nDid you get some good answers?\n\nYes?\n\nYes?\n\nAll right.\n\nI wanna add my take.\n\nHopefully I can help bring it together a little bit.\n\nSo I really, I love this question.\n\nAnd obviously, because we built the conference around it, it's really the question that we try to answer every day at every,\n\nAnd what's really interesting about this question is you're really trying to predict the future.\n\nAnd there's two, I think, real methods for predicting the future.\n\nOne is what I'll call the aggregate, where you gather lots and lots of data, and then you extrapolate a trend line.\n\nAnd the other is called the intimate, where you zoom in on one real case or real situation, and then you extrapolate from there.\n\nAnd in our culture, we tend to emphasize the aggregate.\n\nThe aggregate is objective, it's quantitative, and the intimate kind of feels a little bit anecdotal.\n\nAnd the aggregate's also extremely powerful.\n\nThe reason we have AI is the aggregate, is for example, scaling loss.\n\nWe found that if you put more data and compute on one end of the system, you get more capability out.\n\nAnd all of us here are here because we're riding that curve that you can see in the aggregate.\n\nWe also use the aggregate to answer this question that we have come here for.\n\nWhat does work look like after automation?\n\nA good example is GDP Val from OpenAI.\n\nIt's a benchmark which measures how good models are at doing economically valuable tasks.\n\nAnd the way it works is they have a bunch of experts pick tasks from their job, real tasks, and they turn it into a prompt.\n\nThey give the prompts to a model, and they give a prompt to a human that's not using AI, and then blind experts pick which one is better, the human version or the AI version.\n\nAnd the prompts are very, very detailed.\n\nThey look something like this.\n\nAnd in 2024, with GPT-4-0, experts, or AI, won against a human expert 12.4% of the time.\n\nIn 2025 it was 47.6 and in 2026 it was about 83%.\n\nThis is with GPT 5.4, I'm sure it's higher now.\n\nI'm sure this benchmark is saturated.\n\nYou look at that, an AI is beating a human 83% of the time according to blind human experts at expert work.\n\nAnd I can also see this in my work, in the way that I work.\n\nIf we look at my week, last week.\n\nWe ran our quarterly customer survey.\n\nAnd in the cracks of my calendar, in the middle of all of the things that I had going on, I analyzed the survey data in a way that once would have required a data scientist or a growth person to do it.\n\nLike I asked a ton of different questions and got a ton of different reports and outputs.\n\nI made a video game for the team to play.\n\nSo we played in our all hands game to compete to see who knew our customers best.\n\nIt was a live, real time video game.\n\nI realized that there's actually a really interesting opportunity to sell every to teams from all of this work.\n\nAnd then, as one does, I vibe coded my own CRM and started using that to reach out to people.\n\nYou may have gotten an email from me last week.\n\nIf so, apologies.\n\nIt's kind of stunning.\n\nIt's amazing.\n\nBut if you look at it and compare it to human work.\n\nThis is in 2020 terms like a data scientist, a game developer, a product marketer, an engineer, a BDR, and like 200, maybe 200K.\n\nAnd I got all of this for free as part of my cloud subscription.\n\nAnd you think about that, you really think about that, you look at a table like this and you are like, we are so fucked.\n\nWe are so fucked.\n\nAnd, yeah.\n\nTo me, it does this thing that I've been calling it.\n\nIt creates an agency rupture because we identify ourselves with the things that we do, with the work that we do.\n\nAnd if you see a model doing work like you do, it strikes at our sense of self.\n\nAnd I also think that while the aggregate is a very useful lens, especially when it comes to new technology, it also misses things.\n\nIt can be misleading.\n\nAnd you can only see what's missing if you get up close.\n\nSo let's do that.\n\nSo, again, we've got these two different ways of predicting the future of the aggregate.\n\nOkay.\n\nLet's go into the Intimate.\n\nLet's see how things look in the Intimate where you zoom in on one real case, you really understand all the messiness of it and all the different interconnecting variables and then try to extrapolate from there.\n\nSo if you look back at this table,\n\nand you think about my week last week, doing all of this, which would have taken five people in 2020, and I'm doing all of that work with a team of agents in the cracks of my week while I'm doing a totally other separate set of tasks.\n\nI think that this is actually how a lot of people in this room are working already, and probably if you're not, you will be in the near future.\n\nAnd it feels almost normal to work this way.\n\nLike it's not even that remarkable that I analyzed my survey or built the vibe coder to see a master sent some cold emails with my agents.\n\nBut this was actually really not normal, even a few years ago.\n\nSo think about in 2022, like before ChetGPT came out, we only had GPT-3.\n\nAnd there were a lot of people looking at this chart, this aggregate chart and saying, this is not gonna continue, it's just a stochastic parrot.\n\nAnd a lot of other people were like, this is the end of all jobs already.\n\nWe're not gonna have any work to do in two years, it's all over, go to the bunker in New Zealand, that's it.\n\nAnd for me and for every, we take this intimate perspective.\n\nWe try to be up close.\n\nAnd so in 2022, I was using GPT-3\n\nAnd I realized that it felt like if I extrapolated out from using that tool, it would feel like using a team of people in a couple of years just by using an AI.\n\nSo I wrote that rather than replacing individuals, recent advances in AI will empower them to make an impact on scale matching some of the biggest businesses, research labs, and creative organizations of today.\n\nI really think that's true now.\n\nYou could see it if you put your hands in GPT-3 and used it and extrapolated it.\n\nI want to try to do that again today here with all of us.\n\nIf we take this and how we're working today, what does that mean for the future of great human work and are we really fucked?\n\nAnd what's really interesting is, again, if I look at this table in a vacuum, you might assume, like, why would I need a team?\n\nI have a team, I've got the agents right here.\n\nBut there must be something missing from this table because I do have a team where we are 30 people.\n\nAnd by the way, the team here did such a fantastic job on this conference, can we just give them a hand?\n\nThis incredible, incredible group of humans and their clods, but mostly the humans.\n\nAnd so I think we can answer this.\n\nIf we answer this question, it's going to tell us a lot about this larger question that we're trying to answer.\n\nAnd I want to zoom in even more on this particular customer survey that I ran.\n\nSo when we ran this customer survey, this Q4 customer survey.\n\nI gave it to the team.\n\nSo everybody had access to the data and to do their own analysis.\n\nAnd what I got out of it was, there's actually a really cool opportunity to sell every for teams.\n\nand I made my whole custom CRM and I started emailing people.\n\nBut what Yash got out of it, and Yash is our go-to-market engineer, what Yash got out of it, he cares, he's a monomaniac about growth, about growing paid subs.\n\nAnd what he got out of it was a lot of first-time subscribers to every churn after the first month because we send too much email.\n\nAnd what Douglas, who is our head of marketing and put together this conference, what he got out of it was, actually a lot of our readers feel lonely.\n\nThere's this interesting psychographic of people in this room where we all feel like we love AI, we're using it for all these things, but everyone else at our work and in our lives kind of looks at us like we're crazy.\n\nA lot of people in this room and a lot of people on our list come to us because we are the only place where we are like, yeah, you can do great stuff with this.\n\nThat is what Douglas found.\n\nAnd Jack, who is a senior editor, he made a Claymation family feud game show explaining the results.\n\nIt's time for Survey Showdown.\n\nAnd here's your host, Dan Shipper.\n\nThank you.\n\nThank you.\n\nTonight, the vibe checks take on the context windows.\n\nOkay, the vibe check...\n\nSo...\n\nExtremely informative, but also very fun.\n\nAnd I want to reiterate, they used AI to do all this.\n\nWe're using the same survey, we're using the same cloud, but different people on the team found very, very different and important things that they emphasize.\n\nAnd that's kind of interesting because if you look at what Claude says, because anyone can hand Claude this survey, what Claude says about the survey with just a default prompt, which is just like what do you see in the data, it says the writing is the business, the bundle is what makes people stick, the risk is focused, the risk is focused and too much volume.\n\nAnd all of this is actually, it's true.\n\nThese are real insights.\n\nBut everybody has access to this now, and so it's cheap.\n\nAnd so not a single person on the team just submitted a response to this survey that looked like the default response.\n\nThey all did something very different.\n\nAnd I think that's really, really interesting to pull on.\n\nAnd another really interesting part of this is for each of these people on the team, they did all of this analysis while getting prepared for this event.\n\nAnd everybody knows if you've ever put together a conference, it is like an all-consuming thing.\n\nAnd still, Yash and Douglas, for example, who are intimately involved in every part of this, did their own analysis and came up with interesting things.\n\nAnd Yash, for example...\n\nHe did the analysis and he wrote a PR to make the change to move the number that he wanted to move.\n\nAnd while he was doing that, he was also helping build the live stream experience for this event, which is crazy.\n\nIf you have not seen this, we live streamed the entire thing with this custom video player that thousands and thousands of people were watching all day.\n\nIt's really amazing and he did that.\n\nI think he had some help but he did a lot of that and he did it while doing this analysis that took him to do.\n\nI know what you may be thinking is, well, couldn't I just have prompted Claude for what Yash and Douglas and Jack found?\n\nAnd I think that's a really interesting question.\n\nAnd the answer is yes.\n\nWe've actually experimented with this.\n\nSo Mike Taylor, who's our head of evals, tried to figure out if he could predict what I would say in Slack.\n\nAnd the answer is yes, he can predict what I would say in Slack.\n\nBut there's an interesting caveat, which is he can only do it...\n\nHe can do it 93% of the time, but there's an interesting caveat, which is he can only do it if Claude can give 400 answers for each question.\n\nSo, Claude knows when it's trying to predict something in Slack, if Claude can give 400 answers at the same time, one of the things I'm going to say is in there.\n\nBut it can't rank them.\n\nIf you ask Claude to rank them, the thing that I say is only in the top 10%, like 60% of the time.\n\nSo, it's kind of a coin flip.\n\nThat's really interesting because it means we're getting into this world where, yeah, I could, you know, Claude can predict what I would do or I could get the output that Yash got or Jack got or Douglas got.\n\nGeneration is really cheap, but ranking is hard.\n\nI actually wouldn't be able to find it in all of the noise that I'd have to sort through in order to get the thing that they would get.\n\nOkay.\n\nAnd that should tell you something really important about why teams are valuable in AI and ultimately why humans are valuable in AI.\n\nIf you're on a team,\n\nand you're a human, and all of us are humans.\n\nYou have a responsibility for a particular area of the world that helps you narrow down what you look for, like how you prompt the model.\n\nAnd then you have your own perspective.\n\nYou have a perspective that determines what you pick out of that world and call important, and call important enough to take responsibility for or take action on.\n\nAnd,\n\nI think if you want to look at it this way, for all of us who analyzed this survey last week, there were millions and millions of different paths available in the data, millions and millions of different insights we could have pulled out.\n\nAnd our responsibilities, the things that we are responsible for in the business, helped to narrow down where we look or where they looked.\n\nAnd our perspective lights up a few of those.\n\nIt helps us to rank those things.\n\nAnd then you pick one and you take it forward.\n\nAnd you've gone from this, you know, millions and millions of latent possibilities to one thing that you're the only one who would rank that because it's you.\n\nIt's the thing that lights up for you.\n\nAnd if you zoom out, you know, we just went through one person doing that.\n\nA team allows you to explore a much, much larger space of possibilities where each person has a perspective that allows them to rank and filter the parts of the world that they care about based on their responsibility and their perspective.\n\nAnd that's much more powerful than whatever the default answer I would get from a default prompt.\n\nAnd that's why it's really valuable to have Yash or Douglas or Jack or anybody else on the team accessing the survey data and pulling the insights out rather than just being like, what would Yash think of this?\n\nAnd then I know what you're thinking.\n\nOkay, Claude can't rank now, but give it a year.\n\nIt probably will be able to rank.\n\nAnd I think that that is probably true.\n\nit probably will get a lot better at ranking.\n\nAnd if we ask that question, we probably would set it up something like this.\n\n2027 Cloud's going to be a lot better at ranking.\n\nHow is 2026 Yash going to fare versus 2027 Cloud?\n\nAnd...\n\nI think if you really look at this, both sides of this equation are totally rigged.\n\nSo let's take it step by step.\n\nFirst of all, why are we comparing 2026 Yash to 2027 Claude?\n\nIn 2027, Yash is going to be 2027 Yash with a whole bundle of new experiences and perspectives, and he's gonna be using 2027 Claude, I have no doubt.\n\nIt might be ChatGPT, it might be Gemini, but he's gonna be using a model.\n\nNow we're like, okay, 2027 Yash versus 2027 Claude versus 2027 Claude.\n\nAnd if you look at the 2027 Claude on the right side, someone had to set that Claude up.\n\nI don't care if it's like a persistent agent or it's like you spun up some harness and it's off doing its thing.\n\nSomeone had to start it.\n\nThere's no immaculate conception of Claude happening in 2027, I don't think.\n\nWhat you're really saying in this equation is we're comparing 2027 Yash with 2027 Claude versus probably the default prompt of 2027 Claude.\n\nIf you do that, now you start to realize, well, we've got 2027 Claude on both sides of this equation.\n\nWe can just cancel them out.\n\nThat's how math works in the intimate.\n\nI don't make the rules.\n\nBut this is, like seriously, this is for real.\n\nIf you think about this, you actually are really comparing would I rather have 2027 Yash who's using this model or just the default prompt.\n\nAnd Yash has a responsibility to a particular area of the world and a perspective, and the default prompt embodies the average answer, which we've already said everyone has access to, so it's not that valuable.\n\nAnd my answer is I pick Yash every day.\n\nI pick Yash every day, every time.\n\nAnd I think that this, if you ask me why, the way that I would talk about this is we have to go back to when everyone has access to the model, whether it's 2026 Claude or 2027 Claude or 2028 Astra or whatever, it's going to be broadly distributed.\n\nYou've got Claude on both sides of the equation.\n\nAnd because of that, that raises the floor for everyone and the default answers you get from the model, they look impressive to us right now, but because everyone will have them, they become not that valuable.\n\nThey're just, they're status quo, they're the baseline.\n\nAnd yes, the floor keeps moving, but the floor keeps getting distributed to everybody.\n\nAnd so what's valuable, the alpha, is where you push the model using your perspective and your responsibility for a particular area of the world.\n\nAnd yes, that may get consumed into, that may get subsumed into tomorrow's floor.\n\nas capabilities increase.\n\nBut if you're continuing to use the model, you're not frozen back in 2026 when you're using the old version of the model.\n\nYou're using that new model yourself.\n\nAnd so those new capabilities rapidly become cheap, and what is actually expensive and rare is how you use them using your perspective.\n\nAnd so now we've kind of started to get back to the question that we started with, which is if you remember the aggregate, from the aggregate alone, all you see is this line going up that looks like it's gonna replace all of us, and it looks like human work is going to zero.\n\nAnd if you look at the aggregate from the intimate,\n\nWhat we've started to find is that we have the same line, but humanity, human perspective, the way that we use the models rides on top.\n\nAnd I think that is a more accurate view of how work will happen in the future with these models, than just saying, oh, we're just gonna get replaced because look at this chart.\n\nAnd this is what I've been talking and writing about for several years now, this way of working and being in the economy called the allocation economy.\n\nI wrote this article in 2024 where I wrote, you won't be judged on how much you know, but instead on how well you can allocate and manage the resources to get work done, the resources of intelligence.\n\nYou'll be allocating work to AI models and making sure the work gets done well.\n\nAnd there are some really, really interesting implications if you believe this.\n\nWe're gonna be allocating work to models, and the default capability is distributed to everyone, so the responsibility and the perspective that you bring to the model is the thing that's valuable.\n\nThe first thing is, the first interesting flip is it should flip how we measure AI.\n\nRight now when we measure AI capabilities, we measure them based on,\n\nConsensus, is it good at problems that we all agree are worth solving?\n\nSo like math problems are easy because we can validate them.\n\nProgram problems are easy because we can validate them.\n\nBut again, by this logic, those capabilities are now distributed.\n\nThey are no longer as valuable.\n\nAnd what we should be measuring instead is how good is it at doing my work from my perspective specifically?\n\nAnd this is like kind of a weird flip.\n\nIt's a weird cultural inversion because I think for all of us, we have this feeling that getting to a settled answer or being able to use a settled answer or know a settled answer is where all the value is.\n\nLike we're thinking about math and science and computer programming where your perspective doesn't actually matter.\n\nAnd my view is that stuff has become much less valuable because it's commoditized.\n\nAnd now the value comes from you having a non-consensus perspective that you can use to push the model to make something that you think is good.\n\nAnd if you internalize that, then you start to think of things, think of model progress not as something that's going to replace you, but something that works for you, for your ends.\n\nAnd as it gets better, so do you.\n\nI think this is why the intimate matters.\n\nWhen you look at what's going on in the aggregate versus the intimate, the aggregate has to freeze you.\n\nIt has to, in order to measure model progress, it has to freeze humans in 2020 and compare it to humans in 2020.\n\nAnd I think the intimate empowers you to see what you might build and who you might become.\n\nAnd we have all lived that perspective today.\n\nThis whole conference, this whole day, was about getting intimate with what it is like to work with these tools and work with other people, be with other people who are working with these tools.\n\nAnd you all agree, you all know how valuable that is because if you could just look at a capability chart and know everything you needed to know, you wouldn't have come here.\n\nI think now that the people in this room understand this and feel this, it's our job to go and spread it to the rest of the world.\n\nThank you.",
-      "metadata": {
-        "guid": "flightcast:01M717KBM0K828PAMMP3ZPWV8P"
-      },
-      "titleZh": "自动化之后，人类工作的新愿景",
-      "summaryZh": "嘿，欢迎回到 Every Podcast，我们在这里谈论工作的未来。\n\n我是 Natalia Quintero。在 Every，我们由写作者和构建者组成的团队每天都在使用 AI，所以我们可以告诉你前沿正在如何变化、什么真正有效，以及你需要知道什么。\n\n所以上周，一个……"
-    },
-    {
-      "id": "x:2120536060413268386",
-      "type": "x",
-      "sourceName": "Dan Shipper",
-      "title": "this week @every https://t.co/IqurhRhS5w",
-      "url": "https://x.com/danshipper/status/2120536060413268386",
-      "publishedAt": "2026-11-11T15:16:09.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "this week @every https://t.co/IqurhRhS5w",
-      "metadata": {
-        "handle": "danshipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "likes": 14,
-        "retweets": 1,
-        "replies": 0,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "本周 @every https://t.co/IqurhRhS5w"
-    },
-    {
-      "id": "x:2120522625697116287",
-      "type": "x",
-      "sourceName": "Matt Turck",
-      "title": "Strong attract, strong repel\n\nTons of gems for any founder 👇 https://t.co/Wpw4b…",
-      "url": "https://x.com/mattturck/status/2120522625697116287",
-      "publishedAt": "2026-11-11T14:22:46.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Strong attract, strong repel\n\nTons of gems for any founder 👇 https://t.co/Wpw4bNhavk",
-      "metadata": {
-        "handle": "mattturck",
-        "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "likes": 30,
-        "retweets": 1,
-        "replies": 3,
         "isQuote": true,
-        "quotedTweetId": "2120502035455811893"
+        "quotedTweetId": "2121058774618431709"
       },
-      "summaryZh": "强吸引，强排斥\n\n对任何创始人来说都有大量宝藏 👇 https://t.co/Wpw4bNhavk"
+      "summaryZh": "制作团队给我们买了蛋糕！！#aie1m https://t.co/TYkzM7lfDP https://t.co/xTb0EjSdC7"
     },
     {
-      "id": "x:2120449677095215491",
+      "id": "x:2121058770767982997",
       "type": "x",
-      "sourceName": "Garry Tan",
-      "title": "Register here https://t.co/ETqr9HiYKG",
-      "url": "https://x.com/garrytan/status/2120449677095215491",
-      "publishedAt": "2026-11-11T09:32:53.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Register here https://t.co/ETqr9HiYKG",
+      "sourceName": "Peter Steinberger",
+      "title": "My team wrote about how we run persistent agents inside OpenAI. https://t.co/vP5…",
+      "url": "https://x.com/steipete/status/2121058770767982997",
+      "publishedAt": "2026-11-13T01:53:12.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "My team wrote about how we run persistent agents inside OpenAI. https://t.co/vP5cH7Pohg",
       "metadata": {
-        "handle": "garrytan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-        "likes": 9,
-        "retweets": 0,
-        "replies": 0,
-        "isQuote": false,
-        "quotedTweetId": null
-      },
-      "summaryZh": "在这里注册 https://t.co/ETqr9HiYKG"
-    },
-    {
-      "id": "x:2120449537315926022",
-      "type": "x",
-      "sourceName": "Garry Tan",
-      "title": "Come out next week for the Acts 17 event with @hubermanlab https://t.co/gKZA30i2…",
-      "url": "https://x.com/garrytan/status/2120449537315926022",
-      "publishedAt": "2026-11-11T09:32:20.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Come out next week for the Acts 17 event with @hubermanlab https://t.co/gKZA30i2LQ https://t.co/4LE6qFEbDd",
-      "metadata": {
-        "handle": "garrytan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-        "likes": 83,
-        "retweets": 10,
-        "replies": 16,
+        "handle": "steipete",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+        "likes": 589,
+        "retweets": 32,
+        "replies": 73,
         "isQuote": true,
-        "quotedTweetId": "2117638082661126478"
+        "quotedTweetId": "2120962631788114377"
       },
-      "summaryZh": "下周来参加 Acts 17 活动，嘉宾是 @hubermanlab https://t.co/gKZA30i2LQ https://t.co/4LE6qFEbDd"
+      "summaryZh": "我的团队写了我们在 OpenAI 内部如何运行持久化智能体的文章。 https://t.co/vP5cH7Pohg"
     },
     {
-      "id": "x:2120429971718156375",
+      "id": "x:2121044386276594175",
       "type": "x",
       "sourceName": "Zara Zhang",
-      "title": "\"Technology only finishes its most important work once the audience forgets the…",
-      "url": "https://x.com/zarazhangrui/status/2120429971718156375",
-      "publishedAt": "2026-11-11T08:14:35.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "\"Technology only finishes its most important work once the audience forgets the technology\" https://t.co/ptATLyC16Z",
+      "title": "https://t.co/grKiA4608t\n\n(you can also interrupt it anytime by sending your own…",
+      "url": "https://x.com/zarazhangrui/status/2121044386276594175",
+      "publishedAt": "2026-11-13T00:56:03.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "https://t.co/grKiA4608t\n\n(you can also interrupt it anytime by sending your own text and asking a question)",
       "metadata": {
         "handle": "zarazhangrui",
         "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
-        "likes": 49,
+        "likes": 5,
+        "retweets": 0,
+        "replies": 2,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "https://t.co/grKiA4608t\n\n（你也可以随时发送自己的文字并提问来打断它）"
+    },
+    {
+      "id": "x:2121044098270543980",
+      "type": "x",
+      "sourceName": "Zara Zhang",
+      "title": "The Jensen Huang scandal, explained over text\n\n(made with 2 prompts; this is suc…",
+      "url": "https://x.com/zarazhangrui/status/2121044098270543980",
+      "publishedAt": "2026-11-13T00:54:54.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "The Jensen Huang scandal, explained over text\n\n(made with 2 prompts; this is such an engaging way to absorb information 😂) https://t.co/iErbeXmQ9o",
+      "metadata": {
+        "handle": "zarazhangrui",
+        "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+        "likes": 59,
+        "retweets": 0,
+        "replies": 14,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "黄仁勋丑闻，用文字聊天来解释\n\n（用了2个提示词做成；这真是吸收信息的一种超有吸引力的方式 😂） https://t.co/iErbeXmQ9o"
+    },
+    {
+      "id": "x:2121042215619510584",
+      "type": "x",
+      "sourceName": "Peter Steinberger",
+      "title": "Would you enable yolo mode for dots, even if your dot might do sth unwanted?",
+      "url": "https://x.com/steipete/status/2121042215619510584",
+      "publishedAt": "2026-11-13T00:47:25.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Would you enable yolo mode for dots, even if your dot might do sth unwanted?",
+      "metadata": {
+        "handle": "steipete",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+        "likes": 106,
+        "retweets": 1,
+        "replies": 127,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "你会为 dot 启用 yolo 模式吗，即使你的 dot 可能会做出你不想要的事？"
+    },
+    {
+      "id": "x:2121036562058400200",
+      "type": "x",
+      "sourceName": "Thibault Sottiaux",
+      "title": "We announced new tools we're developing for cybersecurity today across automated…",
+      "url": "https://x.com/thsottiaux/status/2121036562058400200",
+      "publishedAt": "2026-11-13T00:24:58.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+      "metadata": {
+        "handle": "thsottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "likes": 2350,
+        "retweets": 108,
+        "replies": 590,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "我们今天宣布了正在为网络安全开发的新工具，涵盖自动补丁和自动红队测试。在此观看录像 https://t.co/fW371aFjB5"
+    },
+    {
+      "id": "x:2121036252350972222",
+      "type": "x",
+      "sourceName": "Dan Shipper",
+      "title": "Everybody is talking about honeypot! Was it a honeypot always or merely at the e…",
+      "url": "https://x.com/danshipper/status/2121036252350972222",
+      "publishedAt": "2026-11-13T00:23:44.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Everybody is talking about honeypot! Was it a honeypot always or merely at the end, as a form of circumstance? But this is precisely the trap. *sniffs* These are merely the *surface* of the situation. \n\nWhat is the real infidelity? America tells Nvidia: you are married to national security, you must not sell your most powerful chips to China. But in the same breath it says: you are the great hero of American capitalism! Sell as many chips as possible! And Jensen says: of course, darling, I will be faithful. Then, late at night, *sniffs* he finds a way to remain faithful. \n\nSo you see, Jensen is not cheating on the system. Cheating on his wife? Yes. The system? No. He is the only one who has been faithful to it! \n\nThe system itself wants two incompatible things: to contain China and to dominate the Chinese market. And now we are shocked, shocked, that somebody got caught in a compromising position. *sniffs* And so on.\n\nThis is the true infidelity. This is the real honeypot.",
+      "metadata": {
+        "handle": "danshipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "likes": 20,
+        "retweets": 4,
+        "replies": 6,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "大家都在聊“蜜罐”！它一直都是蜜罐，还是只是在最后、作为一种形势才成了蜜罐？但这恰恰就是陷阱所在。*嗅了嗅* 这些只是局面的*表面*。\n\n真正的不忠是什么？美国对英伟达说：你和国家安全结了婚，你绝不能把最强大的芯片卖给中国。但同一口气里它又说：你是美国资本主义的伟大英雄！尽可能多卖芯片！于是黄仁勋说：当然，亲爱的，我会忠贞不渝。然后，深夜时分，*嗅了嗅* 他找到了一个继续忠贞的办法。\n\n所以你看，黄仁勋并没有背弃这个体系。背弃妻子？是的。背弃体系？没有。他是唯一一个对它忠贞不渝的人！\n\n这个体系本身想要两件互不相容的事：遏制中国，又主导中国市场。而现在我们震惊、震惊地发现，有人被抓到陷于尴尬境地。*嗅了嗅* 诸如此类。\n\n这才是真正的不忠。这才是真正的蜜罐。"
+    },
+    {
+      "id": "x:2121035933541941297",
+      "type": "x",
+      "sourceName": "Peter Yang",
+      "title": "This man clearly was an inspiration to many people and well respected by NVIDIA…",
+      "url": "https://x.com/petergyang/status/2121035933541941297",
+      "publishedAt": "2026-11-13T00:22:28.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "This man clearly was an inspiration to many people and well respected by NVIDIA employees which makes his downfall all the sadder 😢 https://t.co/jmxBPZnKAM",
+      "metadata": {
+        "handle": "petergyang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+        "likes": 185,
         "retweets": 2,
-        "replies": 7,
+        "replies": 4,
         "isQuote": true,
-        "quotedTweetId": "2120357504605691982"
+        "quotedTweetId": "2120948589191131280"
       },
-      "summaryZh": "“技术只有在受众忘记技术本身之后，才算完成它最重要的工作” https://t.co/ptATLyC16Z"
+      "summaryZh": "这个人显然激励了许多人，也深受英伟达员工尊敬，这让他的垮台更加令人唏嘘 😢 https://t.co/jmxBPZnKAM"
     },
     {
-      "id": "x:2120410480204525936",
+      "id": "x:2121029280432075157",
       "type": "x",
-      "sourceName": "Thibault Sottiaux",
-      "title": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
-      "url": "https://x.com/thsottiaux/status/2120410480204525936",
-      "publishedAt": "2026-11-11T06:57:08.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+      "sourceName": "Dan Shipper",
+      "title": "Claude the first time it sits in on one of my meetings: https://t.co/UkEeSuWP7r…",
+      "url": "https://x.com/danshipper/status/2121029280432075157",
+      "publishedAt": "2026-11-12T23:56:01.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Claude the first time it sits in on one of my meetings: https://t.co/UkEeSuWP7r https://t.co/p22tdnV7pe",
       "metadata": {
-        "handle": "thsottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "likes": 10507,
-        "retweets": 287,
-        "replies": 1105,
+        "handle": "danshipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "likes": 138,
+        "retweets": 4,
+        "replies": 13,
+        "isQuote": true,
+        "quotedTweetId": "2120973994191094179"
+      },
+      "summaryZh": "Claude 第一次旁听我的会议时： https://t.co/UkEeSuWP7r https://t.co/p22tdnV7pe"
+    },
+    {
+      "id": "x:2121026025668727279",
+      "type": "x",
+      "sourceName": "Dan Shipper",
+      "title": "🫡🤝 https://t.co/tznp9QPJuY",
+      "url": "https://x.com/danshipper/status/2121026025668727279",
+      "publishedAt": "2026-11-12T23:43:05.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "🫡🤝 https://t.co/tznp9QPJuY",
+      "metadata": {
+        "handle": "danshipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "likes": 23,
+        "retweets": 1,
+        "replies": 1,
+        "isQuote": true,
+        "quotedTweetId": "2120696588461076916"
+      },
+      "summaryZh": "🫡🤝 https://t.co/tznp9QPJuY"
+    },
+    {
+      "id": "x:2121018020520931712",
+      "type": "x",
+      "sourceName": "Amjad Masad",
+      "title": "You can now ask Replit Agent to buy stuff for your business, including buying ad…",
+      "url": "https://x.com/amasad/status/2121018020520931712",
+      "publishedAt": "2026-11-12T23:11:17.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "You can now ask Replit Agent to buy stuff for your business, including buying ads to acquire new customers! https://t.co/HelMtQT8EA https://t.co/vJsdESZaPl",
+      "metadata": {
+        "handle": "amasad",
+        "bio": "ceo @replit. civilizationist",
+        "likes": 145,
+        "retweets": 12,
+        "replies": 79,
+        "isQuote": true,
+        "quotedTweetId": "2120930305737625742"
+      },
+      "summaryZh": "现在你可以让 Replit Agent 为你的业务买东西了，包括投放广告来获取新客户！ https://t.co/HelMtQT8EA https://t.co/vJsdESZaPl"
+    },
+    {
+      "id": "x:2121009372470067544",
+      "type": "x",
+      "sourceName": "Peter Steinberger",
+      "title": "There’s some new agent launching later this week and marketers offer a lot of mo…",
+      "url": "https://x.com/steipete/status/2121009372470067544",
+      "publishedAt": "2026-11-12T22:36:55.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "There’s some new agent launching later this week and marketers offer a lot of money to say nice things about it on X. Keep a lookout on honest reviews 🫠",
+      "metadata": {
+        "handle": "steipete",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+        "likes": 1159,
+        "retweets": 24,
+        "replies": 124,
         "isQuote": false,
         "quotedTweetId": null
       },
-      "summaryZh": "周四让我感觉很 codexy。也许也是用掉一次攒下的重置的好时机。"
+      "summaryZh": "本周晚些时候会有一个新智能体发布，营销人员出大价钱让人在 X 上说它的好话。要留意真实的评价 🫠"
     },
     {
-      "id": "x:2120410006273380750",
+      "id": "x:2120999993079451919",
       "type": "x",
       "sourceName": "Thibault Sottiaux",
-      "title": "It’s been a while without resets. Maybe I should come back out of the basement",
-      "url": "https://x.com/thsottiaux/status/2120410006273380750",
-      "publishedAt": "2026-11-11T06:55:15.000Z",
-      "collectedAt": "2026-11-12T06:28:54.625Z",
-      "summaryText": "It’s been a while without resets. Maybe I should come back out of the basement",
+      "title": "We shipped some good updates to dots today and the banked reset has been activat…",
+      "url": "https://x.com/thsottiaux/status/2120999993079451919",
+      "publishedAt": "2026-11-12T21:59:39.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1",
       "metadata": {
         "handle": "thsottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "likes": 17211,
-        "retweets": 379,
-        "replies": 2698,
+        "likes": 5699,
+        "retweets": 215,
+        "replies": 1474,
+        "isQuote": true,
+        "quotedTweetId": "2120970988796170275"
+      },
+      "summaryZh": "我们今天为 dots 发布了一些不错的更新，存入的重置已激活，应该很快会到每个人的账户里！ https://t.co/Y7Mnp6Cuu1"
+    },
+    {
+      "id": "x:2120990821902397885",
+      "type": "x",
+      "sourceName": "Josh Woodward",
+      "title": "Pre-order today at https://t.co/7M3kHsrTgU and demo them in select Warby Parker,…",
+      "url": "https://x.com/joshwoodward/status/2120990821902397885",
+      "publishedAt": "2026-11-12T21:23:12.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Pre-order today at https://t.co/7M3kHsrTgU and demo them in select Warby Parker, Gentle Monster, and Google stores (shipping Dec 10th!)",
+      "metadata": {
+        "handle": "joshwoodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "likes": 56,
+        "retweets": 3,
+        "replies": 0,
         "isQuote": false,
         "quotedTweetId": null
       },
-      "summaryZh": "已经有一阵子没有重置了。也许我该从地下室出来了"
+      "summaryZh": "今天就在 https://t.co/7M3kHsrTgU 预购，并可在部分 Warby Parker、Gentle Monster 和 Google 门店体验演示（12 月 10 日发货！）"
+    },
+    {
+      "id": "x:2120990820631450061",
+      "type": "x",
+      "sourceName": "Josh Woodward",
+      "title": "Gemini, now from your point of view https://t.co/D15CnXvMvP",
+      "url": "https://x.com/joshwoodward/status/2120990820631450061",
+      "publishedAt": "2026-11-12T21:23:12.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Gemini, now from your point of view https://t.co/D15CnXvMvP",
+      "metadata": {
+        "handle": "joshwoodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "likes": 976,
+        "retweets": 88,
+        "replies": 45,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "Gemini，现在从你的视角呈现 https://t.co/D15CnXvMvP"
+    },
+    {
+      "id": "x:2120983722182988206",
+      "type": "x",
+      "sourceName": "Alex Albert",
+      "title": "A lot of getting good work out of Claude now is just finding the context it’s mi…",
+      "url": "https://x.com/alexalbert__/status/2120983722182988206",
+      "publishedAt": "2026-11-12T20:54:59.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "A lot of getting good work out of Claude now is just finding the context it’s missing and figuring out how to close that gap\n\nClaude Meetings is one way to bring in the remaining slices and has proved very useful internally https://t.co/j4yRaG5gUg",
+      "metadata": {
+        "handle": "alexalbert__",
+        "bio": "Research @AnthropicAI",
+        "likes": 386,
+        "retweets": 10,
+        "replies": 86,
+        "isQuote": true,
+        "quotedTweetId": "2120973994191094179"
+      },
+      "summaryZh": "如今要让 Claude 产出好的工作成果，很大程度上就是找出它缺失的上下文，并想办法补上这个缺口\n\nClaude Meetings 是引入其余信息片段的一种方式，内部使用已证明非常有用 https://t.co/j4yRaG5gUg"
+    },
+    {
+      "id": "x:2120981552561844593",
+      "type": "x",
+      "sourceName": "Swyx",
+      "title": "lance starting out his keynote strong with fermat's proof\n\naie code is now aie m…",
+      "url": "https://x.com/swyx/status/2120981552561844593",
+      "publishedAt": "2026-11-12T20:46:22.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "lance starting out his keynote strong with fermat's proof\n\naie code is now aie math\n\nhttps://t.co/NK14Cf5Ztu https://t.co/DETBjzaOGv",
+      "metadata": {
+        "handle": "swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+        "likes": 2,
+        "retweets": 0,
+        "replies": 2,
+        "isQuote": true,
+        "quotedTweetId": "2120636264030646397"
+      },
+      "summaryZh": "lance 以费马证明强势开启主题演讲\n\naie code 现在成了 aie math\n\nhttps://t.co/NK14Cf5Ztu https://t.co/DETBjzaOGv"
+    },
+    {
+      "id": "x:2120974000746582357",
+      "type": "x",
+      "sourceName": "Claude",
+      "title": "Claude Meetings is starting with Google Meet, with support for other video confe…",
+      "url": "https://x.com/claudeai/status/2120974000746582357",
+      "publishedAt": "2026-11-12T20:16:22.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Claude Meetings is starting with Google Meet, with support for other video conferencing platforms coming soon.\n\nLearn more: https://t.co/RcQpSG8Ub3",
+      "metadata": {
+        "handle": "claudeai",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+        "likes": 1275,
+        "retweets": 38,
+        "replies": 26,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "Claude Meetings 首先支持 Google Meet，其他视频会议平台的支持即将推出。\n\n了解更多：https://t.co/RcQpSG8Ub3"
+    },
+    {
+      "id": "x:2120973999295643679",
+      "type": "x",
+      "sourceName": "Claude",
+      "title": "Claude takes the notes, too. After the call, the notes, action items, transcript…",
+      "url": "https://x.com/claudeai/status/2120973999295643679",
+      "publishedAt": "2026-11-12T20:16:21.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Claude takes the notes, too. After the call, the notes, action items, transcript, and anything Claude built are on the meeting’s page in Claude.",
+      "metadata": {
+        "handle": "claudeai",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+        "likes": 1277,
+        "retweets": 18,
+        "replies": 11,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "Claude 也会做笔记。通话结束后，笔记、行动项、转录内容以及 Claude 构建的任何内容都会出现在 Claude 中的会议页面上。"
+    },
+    {
+      "id": "x:2120973996304830859",
+      "type": "x",
+      "sourceName": "Claude",
+      "title": "Claude joins as a visible participant. Ask it a question out loud or in chat, or…",
+      "url": "https://x.com/claudeai/status/2120973996304830859",
+      "publishedAt": "2026-11-12T20:16:21.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Claude joins as a visible participant. Ask it a question out loud or in chat, or have it start a doc. Your team can see what it’s building and correct it as it takes shape. https://t.co/IFoJgWURCj",
+      "metadata": {
+        "handle": "claudeai",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+        "likes": 1678,
+        "retweets": 43,
+        "replies": 34,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "Claude 会以可见参与者身份加入。你可以大声或通过聊天向它提问，也可以让它开始写文档。你的团队能看到它正在构建什么，并在其成形过程中进行纠正。 https://t.co/IFoJgWURCj"
+    },
+    {
+      "id": "x:2120966768483262648",
+      "type": "x",
+      "sourceName": "Guillermo Rauch",
+      "title": "What happens to frameworks in the agents era? to component libraries? to @shadcn…",
+      "url": "https://x.com/rauchg/status/2120966768483262648",
+      "publishedAt": "2026-11-12T19:47:37.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "What happens to frameworks in the agents era? to component libraries? to @shadcn? \n\nThe answer is: we need to drill deeper. Delete the part, optimize, accelerate, automate.\n\nUI SDK is like the x86 instruction set for agents to build new UI components spontaneously. \n\nAgents are the new design engineers, and they're ready to build *anything* you ask, tailored to your usecase. High-level, rigid, single-framework abstractions are like kryptonite for what is essentially an infinite, untiring creation machine.\n\nI think we've found someone that allows us to have the cake and eat it too. A decades-long dream. UI SDK is packaged behaviors that give us accessibility, performance, cohesion, saving us tokens, errors and effort, but with absolutely zero limitations and tradeoffs for what UIs we can generate.\n\nEnjoy!",
+      "metadata": {
+        "handle": "rauchg",
+        "bio": "@vercel CEO",
+        "likes": 990,
+        "retweets": 40,
+        "replies": 127,
+        "isQuote": true,
+        "quotedTweetId": "2120950020249895314"
+      },
+      "summaryZh": "在智能体时代，框架会怎样？组件库会怎样？@shadcn 会怎样？\n\n答案是：我们需要钻得更深。删除部件、优化、加速、自动化。\n\nUI SDK 就像智能体的 x86 指令集，让它们能自发构建新的 UI 组件。\n\n智能体是新的设计工程师，它们准备好构建你要求的*任何东西*，并针对你的用例量身定制。高层级、僵化、单一框架的抽象，对于本质上是一台无限且不知疲倦的创造机器来说，就像氪石。\n\n我觉得我们找到了一个能让我们鱼与熊掌兼得的东西。一个数十年来的梦想。UI SDK 是打包好的行为，为我们带来可访问性、性能和一致性，节省 token、错误和精力，同时对我们能生成的 UI 绝对没有任何限制和取舍。\n\n尽情享用！"
+    },
+    {
+      "id": "x:2120951444526264388",
+      "type": "x",
+      "sourceName": "Matt Turck",
+      "title": "With Jensen, the AI ecosystem loses:\n\n* its central banker (backstops etc)\n\n* it…",
+      "url": "https://x.com/mattturck/status/2120951444526264388",
+      "publishedAt": "2026-11-12T18:46:44.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "With Jensen, the AI ecosystem loses:\n\n* its central banker (backstops etc)\n\n* its most active investor \n\n* a bold acquirer (extra kudos to Hugging Face for perhaps the best timing in large M&amp;A history)\n\nThose are the kind of aggressive moves only a founder can make",
+      "metadata": {
+        "handle": "mattturck",
+        "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "likes": 44,
+        "retweets": 2,
+        "replies": 12,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "失去 Jensen 后，AI 生态系统失去了：\n\n* 它的中央银行（兜底等）\n\n* 它最活跃的投资者\n\n* 一位大胆的收购者（特别赞扬 Hugging Face，堪称大型 M&amp;A 史上最佳时机之一）\n\n这些是只有创始人才能做出的那种激进举措"
+    },
+    {
+      "id": "x:2120947988143198302",
+      "type": "x",
+      "sourceName": "Aaron Levie",
+      "title": "Ok this is a big deal. We’ve been testing Gemini 4 Hydrogen in early access with…",
+      "url": "https://x.com/levie/status/2120947988143198302",
+      "publishedAt": "2026-11-12T18:33:00.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Ok this is a big deal. We’ve been testing Gemini 4 Hydrogen in early access with the Box AI Complex Work Eval, and it’s a serious jump for fast models. \n\nHydrogen is 5 percentage points better in accuracy than Gemini 3.8 Flash. That alone would be a great boost in capability, but possibly more importantly it did the tasks in less than half the time with about 12% fewer tokens on a typical task.\n\nFor this eval, we give the Box Agent Hydrogen as a model for a series of complex tasks that represent real world work with enterprise documents across finance, consulting, life sciences, and other industries. Hydrogen will be a great model for a lot of efficient but complex tasks across these fields.\n\nGemini team is definitely cooking. Hydrogen will be rolling out in the Box AI Studio shortly so any customer can build a custom agent with it.",
+      "metadata": {
+        "handle": "levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "likes": 619,
+        "retweets": 39,
+        "replies": 82,
+        "isQuote": true,
+        "quotedTweetId": "2120940951292268640"
+      },
+      "summaryZh": "好吧，这是件大事。我们一直在通过 Box AI Complex Work Eval 以抢先体验方式测试 Gemini 4 Hydrogen，这对快速模型来说是一次重大跃升。\n\nHydrogen 的准确率比 Gemini 3.8 Flash 高 5 个百分点。仅这一点就会是能力上的巨大提升，但可能更重要的是，它在典型任务上用时不到一半，token 还少了约 12%。\n\n在这次评估中，我们让 Box Agent 使用 Hydrogen 作为模型，完成一系列复杂任务，这些任务代表金融、咨询、生命科学和其他行业中处理企业文档的真实工作。对于这些领域里大量高效但复杂的任务，Hydrogen 将是一个出色的模型。\n\nGemini 团队显然正在发力。Hydrogen 很快将在 Box AI Studio 中推出，任何客户都可以用它构建自定义智能体。"
+    },
+    {
+      "id": "x:2120942262054232392",
+      "type": "x",
+      "sourceName": "Josh Woodward",
+      "title": "Introducing Gemini 4 Hydrogen, cutting-edge intelligence for everyone! Now in @G…",
+      "url": "https://x.com/joshwoodward/status/2120942262054232392",
+      "publishedAt": "2026-11-12T18:10:15.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Introducing Gemini 4 Hydrogen, cutting-edge intelligence for everyone! Now in @GeminiApp. It's fast. It's smart. It's a big jump. Enjoy! https://t.co/5AAIN6ryyh",
+      "metadata": {
+        "handle": "joshwoodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "likes": 847,
+        "retweets": 59,
+        "replies": 54,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "隆重推出 Gemini 4 Hydrogen，面向所有人的前沿智能！现已在 @GeminiApp 中上线。它快。它聪明。它是一次大跨越。尽情享用！ https://t.co/5AAIN6ryyh"
+    },
+    {
+      "id": "x:2120933338928108016",
+      "type": "x",
+      "sourceName": "Matt Turck",
+      "title": "My first time at Slush next week, and the schedule is like:\n\n* boozy brunch\n* po…",
+      "url": "https://x.com/mattturck/status/2120933338928108016",
+      "publishedAt": "2026-11-12T17:34:47.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "My first time at Slush next week, and the schedule is like:\n\n* boozy brunch\n* post-lunch cocktails\n* sauna &amp; wine!\n* afternoon tea and whiskey\n* join us for pre-dinner drinks!\n* dinner showcasing premium spirits\n* post-dinner cocktails\n* come drink with us at the after party!!",
+      "metadata": {
+        "handle": "mattturck",
+        "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "likes": 123,
+        "retweets": 0,
+        "replies": 30,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "我下周第一次去 Slush，日程大概是：\n\n* 含酒早午餐\n* 午餐后鸡尾酒\n* 桑拿 &amp; 葡萄酒！\n* 下午茶和威士忌\n* 来参加我们的晚餐前饮品！\n* 展示优质烈酒的晚餐\n* 晚餐后鸡尾酒\n* 来 After Party 和我们一起喝一杯！！"
+    },
+    {
+      "id": "x:2120924059709956201",
+      "type": "x",
+      "sourceName": "Aditya Agarwal",
+      "title": "We would not be where we are today without Jensen.\n\nIt is viscerally painful to…",
+      "url": "https://x.com/adityaag/status/2120924059709956201",
+      "publishedAt": "2026-11-12T16:57:55.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "We would not be where we are today without Jensen.\n\nIt is viscerally painful to see what is happening.",
+      "metadata": {
+        "handle": "adityaag",
+        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+        "likes": 334,
+        "retweets": 24,
+        "replies": 19,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "没有 Jensen，我们就不会有今天的成就。\n\n看到正在发生的事情，真的令人痛心。"
+    },
+    {
+      "id": "x:2120911254999154710",
+      "type": "x",
+      "sourceName": "Nikunj Kothari",
+      "title": "Note to self: never tweet before going to bed 🤦‍♂️ \n\nI’ll try and respond to ev…",
+      "url": "https://x.com/nikunj/status/2120911254999154710",
+      "publishedAt": "2026-11-12T16:07:02.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "Note to self: never tweet before going to bed 🤦‍♂️ \n\nI’ll try and respond to everybody today - appreciate all the DMs and comments!!",
+      "metadata": {
+        "handle": "nikunj",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "自我提醒：睡前永远不要发推 🤦‍♂️\n\n我今天会尽量回复所有人——感谢所有私信和评论！！"
+    },
+    {
+      "id": "x:2120883923005907139",
+      "type": "x",
+      "sourceName": "Matt Turck",
+      "title": "The Chinese really play us like a fiddle \n\nHacking Western values to win the glo…",
+      "url": "https://x.com/mattturck/status/2120883923005907139",
+      "publishedAt": "2026-11-12T14:18:26.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "The Chinese really play us like a fiddle \n\nHacking Western values to win the global game https://t.co/U4I3JAKC3K",
+      "metadata": {
+        "handle": "mattturck",
+        "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "likes": 45,
+        "retweets": 4,
+        "replies": 10,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "中国真把我们耍得团团转\n\n利用西方价值观来赢得全球博弈 https://t.co/U4I3JAKC3K"
+    },
+    {
+      "id": "x:2120880718868045973",
+      "type": "x",
+      "sourceName": "Aaron Levie",
+      "title": "What a mess 😕",
+      "url": "https://x.com/levie/status/2120880718868045973",
+      "publishedAt": "2026-11-12T14:05:42.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "What a mess 😕",
+      "metadata": {
+        "handle": "levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "likes": 490,
+        "retweets": 18,
+        "replies": 31,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "真是一团糟 😕"
+    },
+    {
+      "id": "podcast:c9a0c39e-de2a-11f1-9237-d39059052d4c",
+      "type": "podcast",
+      "sourceName": "No Priors",
+      "title": "Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-11-12T11:00:00.000Z",
+      "collectedAt": "2026-11-13T06:28:38.649Z",
+      "summaryText": "Speaker 1 | 00:00 - 00:24\nThe large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, li…",
+      "bodyText": "Speaker 1 | 00:00 - 00:24\nThe large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there's toxicity that we didn't account for. And so the really big opportunity is to have much more of that understanding before you go into patients. How can we bring all of that drug discovery work onto a computer? So how can we get out of the real world?\n\nSpeaker 1 | 00:24 - 00:33\nI'd be really disappointed if we fast forward even five years' time. Like, the predictive understanding of disease biology has not step changed in, like, a massive way.\n\nSpeaker 2 | 00:33 - 01:07\nDo you have a prediction on when you think, for example, eighty percent of human cancers will be treatable? Today, know priors were joined by Max Jadberg. Max is the president and part of the founding team of Isomorphic Labs. Isomorphic is backed by Alphabet and a variety of other investors, and its goal is to solve all disease, which is very exciting as a topic. We're going to talk a little bit about the role of AI in the future of biopharma, human health, longevity.\n\nSpeaker 2 | 01:07 - 01:22\nAnd Max, of course, has a background in machine learning. He has a PhD in the topic working on machine vision. Eventually sold a company to Google DeepMind, rose up the ranks there, and now is president of isomorphic. So very excited to have this conversation. Max, thank you so much for joining us today on Priors.\n\nSpeaker 1 | 01:22 - 01:23\nNo. It's such a pleasure to be here.\n\nSpeaker 2 | 01:23 - 01:50\nThank you. Isomorphic, I think, is is one of the more fascinating companies right now that's happening in technology in general. Alphabet is a major shareholder and sort of sponsor. Demis, who pioneered a lot of models at DeepMind and other places, which I believe you sold the company to before, you know, really helped with the inception and setup and now running of the company. And you folks are tackling one of the biggest problems that's left for humanity to tackle, which is human health.\n\nSpeaker 2 | 01:50 - 01:55\nCould you tell me a bit about how you came to work on this company, and what was the motive force to starting it?\n\nSpeaker 1 | 01:55 - 02:13\nI was part of the founding team of Isomorphic Labs. I was at DeepMind for a long time beforehand. You know, personally, I was working on early days of generative models, language models, deep reinforcement learning, all of the big, you know, game playing challenge problems. Those were my jam. My AlphaGo, AlphaStar.\n\nSpeaker 1 | 02:13 - 02:25\nAnd it got to the point where, you know, we were we were going after these, like, know, quote unquote impossible problems at that point in time. You know, this is probably twenty eighteen, nineteen, that's\n\nSpeaker 2 | 02:25 - 02:27\nsort It's like gameplay and can AI beat video games? Exactly.\n\nSpeaker 1 | 02:27 - 02:40\nYou know, at that point in time, you know, we were still trying to prove to the world that AI was even a thing. Right? Mhmm. And so we were going after these impossible problems, and I could see, you know, firsthand, like, how to... Like, just systematically how to solve these.\n\nSpeaker 1 | 02:40 - 02:58\nMhmm. And it got to the point for me personally where it's like, okay. Sure. We're not at AGI yet, but we clearly have this amazing, you know, set of technologies, you know, in deep learning and reinforcement learning. And, you know, what are the problems we really need to be focusing this stuff on?\n\nSpeaker 1 | 02:58 - 03:44\nAnd I was, you know, I was thinking all of this. Of course, Demis was thinking all of this. At the same time, we're seeing the AlphaFold results, you know, the first embers of that starting to emerge and really starting to see, for us, this was like the first proof of concept that you could get a deep learning model that generalizes in, you know, a meaningful space in biology. And so that was really the proof of concepts that gave us conviction that actually, you know, now is the right time to go after this, you know, the big mission of, you know, changing the way that we think about human health, you know, going after solving all disease, and that's gonna take, like, a really substantial effort. And that warrants its own company, its own culture, you know, specific people of different disciplines coming together for this and and the ability to run really fast on that.\n\nSpeaker 1 | 03:44 - 03:48\nSo that was the genesis of isomorphic labs in in about 2021.\n\nSpeaker 2 | 03:48 - 03:56\nOh, amazing. Yeah. Your background really started off more on the deep learning side and AI modeling side, and I believe you sold the company to DeepMind in... Was it 2014?\n\nSpeaker 1 | 03:56 - 03:57\nYeah. That's right.\n\nSpeaker 2 | 03:57 - 04:07\nSo quite early. I mean, you were at this stuff before people realized how important it was, or many people realized how important it was. Tell... Could you tell me a little bit more about sort of the journey you took, how you got there? What was interested in it to begin with?\n\nSpeaker 1 | 04:07 - 04:23\nYeah. I mean, I I I come from an engineering background, ended up almost by accident doing a PhD, in computer vision, and this was actually just at the turning point. I think I started my PhD pre AlexNet.\n\nSpeaker 2 | 04:23 - 04:25\nOh, because AlexNet was 2012? Yeah.\n\nSpeaker 1 | 04:25 - 04:30\nIs it? Yeah. Exactly. And then I saw that emerge. I was like, wow, this is awesome.\n\nSpeaker 1 | 04:30 - 05:02\nI remember speaking to Jan Lakun about convolution neural neural convnets, and I was like, we need to translate this into the core computer vision space that we're we're working on in Oxford. And, yes, ended up developing all of these methods. We ended up having the ImageNet winning network of of twenty fourteen, best object recognition, text detection, all of this sort of stuff. And I had a company... Like, built a company in this space, computer vision as a service, and trying to raise money.\n\nSpeaker 1 | 05:02 - 05:22\nAnd at that point in time, you know, Demis and DeepMind had just sold to Google. So trying to raise money very and very quickly ended up just speaking to Demis Asabis asking for angel investment and he was like, well, why don't you just come to DeepMind to solve AGI? I was like, what's AGI? Uh-huh. But Sovic and the journey into DeepMind and and everything there.\n\nSpeaker 2 | 05:22 - 05:44\nYeah. Amazing. And your focus now is basically a vertically integrated company that's doing everything from models to the biology, and the idea is to find drugs that can help people with different aspects of human health. And so if you look at the pharma industry, one of the things that I think is really striking... I've graphed this out in the past, where if you look at the number of new drug approvals per year, it's roughly flat.\n\nSpeaker 2 | 05:45 - 06:04\nBut that's despite an explosion in knowledge. So all these scientific papers have sort of expedited in terms of the number of papers. The number papers have gone up 10, 20x during that period. The number of new modalities, the type of new drugs that you can do has gone So there's antibody based drugs, there's small molecules, there's proteins, there's peptides, there's all these new ways you can treat drugs. The price has gone way up.\n\nSpeaker 2 | 06:04 - 06:23\nIt went from $100 a few $100,000,000 per drug to $1,500,000,000 It went from eight or nine years to fifteen years. So every metric has gotten worse. While the number of things have gotten flat, the knowledge base has exploded, the number of types of molecules that you can do has gone up. Why is that? Why has it been so static despite all that progress in other ways?\n\nSpeaker 1 | 06:24 - 06:53\nYeah. It's crazy to see just how it keeps getting harder and harder to make new medicines more and more expensive longer and longer. And, you know, I I I think there's probably a number of reasons behind this. Like, the the thing that I really think quite a lot about is that, you know, like, the way that we actually make medicines in general in the industry and as a species, you know, forever has been a very, very empirical process. Right?\n\nSpeaker 1 | 06:53 - 07:10\nAt the very beginning, it was, you know... And and and this was, you know, a long time ago, like a hundred hundred years ago. Yeah. The medicines that we came up with, they came about by chance. We just, like, happened to stumble upon something that people realize has some, you know, physiological effects and people adopted it.\n\nSpeaker 1 | 07:10 - 07:14\nThings got a bit more sophisticated. It's a bit more empirical trial and error.\n\nSpeaker 2 | 07:14 - 07:18\nYeah. A lot of medicines we just guessed. Right? The... Like aspirin, I think, a long time, we had no idea how\n\nSpeaker 1 | 07:18 - 07:37\nit worked. Aspirin, we didn't know how it worked. Paracetamol, we didn't know how it worked. And the way we've been making medicines and still, like, how the large part of the industry makes medicines is this very empirically driven process. Empirical as in you need to, you know, you have a hypothesis on, you know, how a disease might work.\n\nSpeaker 1 | 07:37 - 07:44\nYou have a hypothesis on what a good molecule design could be, but you have to make it and test it in the real world and do this very iteratively.\n\nSpeaker 2 | 07:44 - 07:44\nMhmm.\n\nSpeaker 1 | 07:44 - 07:55\nThat's slow. It's really, really difficult to get signal out of that. And the space of biology is really, really big and complex. These are like big... The cell is a big complex chaotic system.\n\nSpeaker 1 | 07:55 - 08:26\nMhmm. Super high dimensional. And then molecule design, whether it's small molecules, antibodies, peptides, you know, they're really, again, really high dimensional objects, combinatorially large design problems, and the only tools we've got available, you know, to us, you know, is is basically trial and error screening processes. Mhmm. And so that limits to me the complexity of solution that you can find in in a finite period of time or finite amount of money that you spend on that empirical work.\n\nSpeaker 1 | 08:26 - 08:48\nMhmm. And so I think, you know, what you've seen over time is that the low hanging fruit of medicines that can be found Mhmm. With our empirical process of designing medicines are being found. We're finding the low hanging fruit, but then it's getting harder and harder to sort of ratchet up the complexity and and find things that are out of reach from this empirical process.\n\nSpeaker 2 | 08:48 - 08:58\nThat's interesting. But don't you think... So if I look at any other industry, often what happens is the age of the industry impacts the rate of change in it. Mhmm. In other words, the older the industry, the slower it moves.\n\nSpeaker 2 | 08:58 - 09:22\nThings become more bureaucratic, there's more regulatory capture, etcetera. I think the last time there was a biopharma company that was worth over $50,000,000,000 besides Moderna, and I think Moderna was almost an accident of COVID, was the 1980s, I think, with Regeneron. Yeah. And so it's been almost forty years since we've had a new tens of billions of dollar biotech built.\n\nSpeaker 1 | 09:22 - 09:24\nYeah. Regeneron, Vertex, these, you know.\n\nSpeaker 2 | 09:24 - 09:25\nAmgen was that era too.\n\nSpeaker 1 | 09:25 - 09:26\nIt was\n\nSpeaker 2 | 09:26 - 09:38\nthe early eighties. And And so how much do you think is just, like, regulatory issues or, you know, bureaucratic organizations or just like that natural aging? I think that happens everywhere. You know? It was automotive until Tesla.\n\nSpeaker 2 | 09:38 - 09:39\nThat was, you know...\n\nSpeaker 1 | 09:39 - 10:01\nYeah. We, you know, we talked about maybe the the science side of it. I think there's a big cultural aspect of, you know, just how how can you, like, keep innovating as an industry? How how can you keep moving really, really fast? And I think as well, and this is related to the sort of like science and technical part is, what, like, what are the mechanisms that actually give you economies of scale Mhmm.\n\nSpeaker 1 | 10:01 - 10:44\nOn the innovation side, on the research and development side? So if you go after, you know, a particular drug target and you're trying to make a particular medicine Mhmm. And you're a pharma company or biotech and you're going all in on that, what do you learn from that that helps you work on the next medicine much quicker and then the next medicine even quicker after that? Because if you could get that compounding of learnings over time, you could maybe get the benefits of scale and build something, you know, really amazing and big as a company. But I think a lot of the techniques and the way we go after medicines or the industry goes after medicines is really treating each one as like a segmented, you know, it is like a bespoke frontier science project, and you learn so much about that project.\n\nSpeaker 1 | 10:44 - 11:19\nAnd there's maybe not so much that's transferable to the next. Like, there's, of course, many, many different learnings of disease areas. Yeah. And this is, I think, where things can shift quite a lot in the world of AI and machine learning, where if underneath, you know, if you have this platform underneath going after these medicines that allow you to, like, you know, really suck up and understand the learnings and help impact your core foundational understanding of disease biology and how to design good molecules and exquisitely engineer these medicines, then you can hope to actually get compounding improvements the more medicines you go after.\n\nSpeaker 2 | 11:19 - 11:38\nBecause I guess, like, one of the striking things that has emerged from deep learning and the sort of foundation model era that we're in right now is the generalizability of some of these things with scale. So it sounds like perhaps in biology as well, if you have sufficient scale and a a sufficiently thoughtful approach, you can generalize some of these problems that were bespoke before. What approach are you all taking?\n\nSpeaker 1 | 11:38 - 11:49\nWell, I I think that's the big shift that we're taking with isomorphic compared to... You know, we're we're not the first people to try and change the way we do drug design and drug discovery with AI.\n\nSpeaker 2 | 11:49 - 12:03\nOne of the things that's really fascinating about, isomorphic is the degree to which you have a very diverse space of people all working together towards a common cause, often who come from backgrounds that are very disparate. Can you tell me more about what sort of people you hire? What are their profiles? Who are looking for currently?\n\nSpeaker 1 | 12:03 - 12:24\nYeah. I mean, it's an interesting space because the the the sort of mashup of, you know, frontier AI and drug discovery, chemistry, biology hasn't really existed for very long. So you can't kinda go out into the world and say, hey. I wanna hire the world experts at AI for drug discovery because they basically don't exist. And if they do exist, they're not using our models, using different techniques.\n\nSpeaker 1 | 12:24 - 12:59\nSo we think about going after literally just the best people in core AI and deep learning who maybe don't even have a background in life sciences or biology or chemistry, but really wanna see their work on deep learning translate into amazing impact for for humanity. So we hired just core people in AI. We hired core people in biology and chemistry, maybe who haven't had much exposure to AI. And then, you know, we work hard internally to build that culture that everyone talks and learns from each other, and then internally we get these sort of cross disciplinary experts, expert scientists emerging, which has been really exciting to see.\n\nSpeaker 2 | 12:59 - 13:30\nHow do you think about the ratio of those things? So I started a company a long time ago called Color, and I was CEO for the first couple years. My co founder took over a decade ago now, so this was a long, you know, ways back, and we were basically using ML and data science as applied to genomics. And we were building these genomic pipelines, and what we found is you could have, like, five ML people and then one research scientist from the traditional field, and that was kinda the ratio ish that we adopted. What is it like now, or how do you think about how many people of each discipline do you optimally have in a pod working on a problem?\n\nSpeaker 1 | 13:30 - 14:06\nYeah. For some of these core AI, you know, superpower projects, the the AI modeling projects, I think that's actually not too dissimilar. You know, you you have your core modelers like engineers, AI scientists, and then you just need some key domain experts, people who really understand the application, the nuances of the data, like what do the metrics mean, make sure that we're not, you know, chasing smoke metrics, and these are real things that are gonna translate into actually making medicines. So, yeah, those sort of ratios, one in five, like, I think those resonate quite a lot for what our teams look like.\n\nSpeaker 2 | 14:06 - 14:10\nAnd are those specific roles that you're actively hiring for currently or just across the board? You know?\n\nSpeaker 1 | 14:10 - 14:35\nI mean, we want the best AI researchers coming into ISO and helping us push on this mission. I think there's there's literally so much work to do on the Mhmm. On the, like, core simulation models like AlphaFold plus plus plus, but also on the core reasoning models, like taking all of the frontier models and and open source models and and adapting them to our space. So that's, I think, a really important area for us to be hiring on. What are the\n\nSpeaker 2 | 14:35 - 14:48\ncomponents that you tackle, or what are the main areas that you all are focused on in terms of how you approach new drugs or, you know, you... Do you have your own labs? Do you run robots that do pipetting? Like, what what is the approach you're taking?\n\nSpeaker 1 | 14:48 - 15:10\nYeah. So, you know, if you if you go into our, like, sort of our core AI team and, like, our North Star and the thing that we're really trying to achieve is how can we bring all of that drug discovery work, all of that drug design work, understanding of, you know, disease biology onto a computer. Mhmm. So how can we get out of the real world? Mhmm.\n\nSpeaker 1 | 15:10 - 15:29\nYou know, I I know a lot of people are building ways to be, like, interfacing with the real world really, really efficiently so you can do lots and lots of real world iteration. That's great and it's complementary, but fundamentally, the big time bottleneck, the big cost bottleneck is synthesizing real atoms\n\nSpeaker 2 | 15:29 - 15:30\nMhmm.\n\nSpeaker 1 | 15:30 - 15:51\nAnd then testing them out in real assays and, you know, experiments. And, you know, just like we've seen, I think pretty much every other area of engineering move into a computer... Computer aided design scenario, and that's just changed the way that... You know, change what we can design, change what we can engineer. We wanna do the same thing in this space.\n\nSpeaker 1 | 15:51 - 16:15\nAnd so really we... Like, when we think about the core AI drug design engine development side, this is really focused on, well, how can we achieve experimental accuracy Mhmm. For our simulation models, our world models. If you can get a predictive model, you know, let's use AlphaFold as an example. AlphaFold looks at structure prediction, the the structure of proteins and how they interact with each other.\n\nSpeaker 1 | 16:17 - 16:38\nNormally, takes, you know, months or years to do X-ray crystallography and and and get a structure out. If you can do that with a simulation model like AlphaFold, then you don't have to go into the real world and do that. You save months and months of time. And there's many, many... You know, drug discovery is a is a combination of many, many different really hard scientific problems and engineering problems.\n\nSpeaker 1 | 16:38 - 16:53\nAnd if you can bring the... You know, create predictive models instead of the real worlds, you know, you're saving tons and tons of time. So internally, we have, you know, a dotted line on all of our leaderboards that is experimental accuracy. Mhmm. And we...\n\nSpeaker 1 | 16:53 - 17:20\nYou know, the goal of all of these, like, superpowers that we're trying to create is to get to a point where it's experimental accuracy, at that point, you don't need to go into the real world. Mhmm. You can do so much more design and iteration on a computer so that when you do go into the real world, when you make your molecules, when you test out your scientific hypothesis Mhmm. The probability of success is much, much higher than it would have been traditionally, and so you don't have to do as many turns as the real world, and things actually become quicker and problems fall easier.\n\nSpeaker 2 | 17:20 - 17:51\nSo when I look at drug development, I think it's about a fifteen year process now. It costs $1,500,000,000 My sense is the small molecule and the in vitro work, the tissue culture and mouse work, is basically say two to three years, and then it's say $50,000,000 so that order of magnitude. And then the other $1,450,000,000 and twelve years ish is the clinical trial and, you know, the different phases and safety. How much of that do you think you can actually encapsulate in a computer?\n\nSpeaker 1 | 17:51 - 18:07\nYou know, you have the discovery phase where you go from idea to... You think you've got a good, like, good molecule that you could put in patients. Mhmm. Well, before that point, you have to do preclinical, you know, animal studies to make sure that this is safe and working as intended. That takes another year.\n\nSpeaker 1 | 18:07 - 18:21\nThen you go into clinical studies. You have phase one, phase two, phase three, ratchets up. And so, you know, when you look at the timeline and when you look at the failure rates Mhmm. And I think these are the things that really exacerbate the costs on average. Yeah.\n\nSpeaker 1 | 18:21 - 18:25\nRight? Why do things cost so much worse? Because so many things fail. Mhmm. Then you have...\n\nSpeaker 1 | 18:25 - 18:43\nAnd and where things really fail is in the clinic. Mhmm. It's not because these are problems... It it... They fail in the clinic because we never could see the problems until we get to the point where, you know, the rubber meets the road and we put these drugs in patients and we say, oh, oh, no.\n\nSpeaker 1 | 18:43 - 18:45\nLike, there's toxicity that we didn't account for.\n\nSpeaker 2 | 18:45 - 18:46\nUh-huh.\n\nSpeaker 1 | 18:46 - 19:06\nOr we have a molecule and it hits the thing that we've been designing it to hit Mhmm. But it hits something else, which is a really negative effect. Or the thing that you do hit, we thought it's gonna solve the disease, maybe it does even, but it actually has a really negative effect in and of itself. And so you... Like, people only learn about those problems Mhmm.\n\nSpeaker 1 | 19:06 - 19:25\nWhen they start introducing it to patients, to real patients. And so the really big opportunity is to have much more of that understanding before you go into patients. Mhmm. So if you have a better understanding of disease biology, how cells work, you can maybe understand how the thing you're trying to hit and modulate is really implicated.\n\nSpeaker 2 | 19:25 - 19:28\nSo you're actually modeling all these other components and not just like what Exactly. Molecule will bind to\n\nSpeaker 1 | 19:29 - 19:30\nWe're modeling all of these components.\n\nSpeaker 2 | 19:30 - 19:34\nHow do get the data to model those things? Like, where does that dataset come from?\n\nSpeaker 1 | 19:34 - 19:49\nYou know, we have this, like, ridiculously comprehensive, you know, date... Data strategy. There's data all over the place. But I think fundamentally what we've learned over the last, you know, five years is there's a lot of opportunity to generate this data yourself. Mhmm.\n\nSpeaker 1 | 19:50 - 20:18\nThere's, of course, like big repositories of data. Sometimes that's really good for deep learning. Oftentimes, these repositories of data, you know, whether they're public or in pharma or, you know, in companies, they've been the byproduct of many years of passive, you know, data collection from doing, you know, the activity of of making medicines. So they can be very, very biased Mhmm. Which often doesn't really help you if you're trying to make a general solution to drug discovery.\n\nSpeaker 1 | 20:18 - 20:29\nIf you really care about generalization out of these models, there's maybe a different distribution of data you need. So we go out and generate this ourselves, you know, we've... We... And we've seen some really, really amazing data scaling laws as a result.\n\nSpeaker 2 | 20:29 - 20:46\nHow do you measure whether some of these things will have these side effects? Because ultimately, there's the old saying... I used to be a... I have a PhD in biology, and I used to work in a variety of fields, cancer, neuroscience, etcetera. And on the cancer side, we cured cancer in mice hundreds of times, and those molecules wouldn't translate into people.\n\nSpeaker 2 | 20:46 - 20:58\nAnd so a lot of the data you actually needed, you had to generate in human clinical trials. How do you go about generating that data that actually informs it? Because if you're using animal models, often the data that comes out of that is incorrect relative to human biology.\n\nSpeaker 1 | 20:58 - 21:00\nWell, exactly. It sounds like you experienced a lot of this first time.\n\nSpeaker 2 | 21:00 - 21:01\nIt's very painful.\n\nSpeaker 1 | 21:01 - 21:22\nIt's very painful. And, you know, if you think about, you know, toxicity, like sources of tox... Like, the gold standards that, you know, you need to get through for regulators is you need to prove that your molecules aren't toxic on rats and other animals. But still, even when things are approved Doesn't have approved on rats. Yeah.\n\nSpeaker 1 | 21:22 - 21:26\nYeah. Yeah. They end up being, you know, often toxic in humans. Mhmm. And...\n\nSpeaker 1 | 21:26 - 21:36\nWell, why is that? Well, okay. A rat isn't actually a human. It's not actually very predictive. I think, you know, choose your study, but it's about 30 predictive of of of human clinical tox, like, in a rat.\n\nSpeaker 1 | 21:37 - 21:45\nAnd, you know, if if one of my, like, AI scientists or engineers came up to me and said, hey, we've got this amazing model. It's it's it's 30% predictive. You're like, okay. Yeah. Maybe do a bit better than that.\n\nSpeaker 1 | 21:45 - 21:59\nYeah. And so... And I think there's a lot of opportunity to actually rethink how we, you know, like, what are those predictive endpoints for human clinical tox? Like, forget animals. Yeah.\n\nSpeaker 1 | 21:59 - 22:17\nYou know, they've been a proxy for the last, you know, fifty, seventy years. Uh-huh. But we can maybe do better. We can do better by, you know, bringing together in vitro endpoints, so things you could measure quite easily in the lab, together with, you know, AI predictive models. Also together with...\n\nSpeaker 1 | 22:17 - 22:41\nThere's there's some amazing new experimental technologies coming out in the space of organoids, organs on a chip, like synthetic human tissues, which sort of approximates and create these, like, little microcosm environments of human organs. And so you can imagine there's probably an opportunity to bring all of this stuff together and then directly try and model human clinical tox. Now there's not much data on that side\n\nSpeaker 2 | 22:41 - 22:41\nYeah.\n\nSpeaker 1 | 22:41 - 22:49\nYeah. Because, you know, there's there's only a finite number of clinical trials that have been run, but I think we have some really good methods now as well.\n\nSpeaker 2 | 22:49 - 22:58\nFor these sorts of approaches or techniques, do you tend to partner for them? Do you bring them in house? Like, I'm little bit curious as a company how you operate relative to... Because there's so much that could be done. Yeah.\n\nSpeaker 2 | 22:58 - 23:13\nAnd a little bit curious how much you wanna just emphasize the computer science side, and then, biology often there's these things called CROs or these contract research organizations that people use. Unfortunately, the quality tends to be pretty mixed in terms of the output of these types of organ... I'm just a little bit curious, like, how much you depend on external parties versus internal.\n\nSpeaker 1 | 23:13 - 23:49\nYeah. So by making our drug design engine, all of the AI models, we do that all in house, and we see a big opportunity to generating proprietary data and owning that ourselves. But, you know, biology and, you know, experimental platforms, this is really complex and long tailed, there's some amazing people working on some fantastic platforms here. So, you know, we work with the whole world, whether that's, you know, stuff we do ourselves, contract research organizations, CROs, other innovative companies\n\nSpeaker 2 | 23:50 - 23:50\nMhmm.\n\nSpeaker 1 | 23:50 - 23:56\nTo actually help us create the data that is, you know, powering our models. So... Yeah.\n\nSpeaker 2 | 23:56 - 24:18\nThat's cool. How much... So Anthropic recently announced that they're doing a wet lab in San Francisco. And, you know, reading between the lines without any special knowledge, just reading external papers, it kinda looks like there's some potentially robotic system or closed loop system or something else they're trying to build. And in general, if you look at AI models, as you know better than me, you want closed loop systems to be able to iterate quickly.\n\nSpeaker 2 | 24:18 - 24:44\nIn other words, you can get rapid feedback, like if you're writing code and it can instantly get tested, then you have a fast way to test if the model's working well or not. And so in biology, of the issues is you set up an experiment, you wait three weeks, then you get the results, you have to interpret. There's a big loop, and so that slows down progress and the ability to iterate on data, and building these robotic platforms or other things may expedite that. How do you approach that problem, or do you think that's part of the solution that you all will be pursuing in terms of?\n\nSpeaker 1 | 24:45 - 25:08\nYeah. I mean, it's been really exciting to see how much better these automated labs, how much better these robotic solutions for experimental labs have been getting, and we've been working with these sort of automated labs for a long time. Now, everyone should and we should keep driving down that, like, iterate... Iteration time with the real world. And, fundamentally, I wanna get out of the real world.\n\nSpeaker 1 | 25:08 - 25:20\nRight? And and, you know, can we actually... Because there's gonna be just, like, you're gonna hit the finite laws of physics at some point. Like, long does it take to synthesize a molecule? Mhmm.\n\nSpeaker 1 | 25:20 - 25:44\nAt some point, you have to just wait for the reaction to happen, and that's how long the reaction takes. How long does it take to culture a cell? At some point in time, you just have to wait those days for the cell to get to the right state before you can test things on that. And so, yes, we can, you know, I think do a lot of work, we should and we are as a as a species as well, is on on on, you know, improving automation and improving the way we bring it\n\nSpeaker 2 | 25:44 - 25:45\nin silico, it sounds.\n\nSpeaker 1 | 25:45 - 25:48\nYou're But gonna but think we should also be driving really hard at bringing that in silico\n\nSpeaker 2 | 25:49 - 25:49\nYeah.\n\nSpeaker 1 | 25:49 - 26:15\nOn a computer so that we can reduce the amount of real world time so that we can do much more predictive work on a computer so that when we do go into the real world, yeah, it looks like we go into real world to validate Yeah. Not necessarily to learn and iterate. We still need to go into real world to validate because we're coming up with novel, you know, scientific hypotheses, and we wanna test them out in people at the end of the day. So you have to make sure that they work and they're safe. So you have to go into the real world to validate.\n\nSpeaker 1 | 26:15 - 26:21\nBut the question is how much can you reduce the amount of time you get into the real world to experiment and to iterate.\n\nSpeaker 2 | 26:21 - 26:26\nHow much of your approach is focused on partnering with existing pharma companies versus developing your own drugs?\n\nSpeaker 1 | 26:26 - 26:38\nWe make the AI drug design engine in house, and then we we actually, you know, don't sell the model. We, like, we we don't license out the model. We don't sell tokens in that way. We use it internally to to make medicines. Mhmm.\n\nSpeaker 1 | 26:38 - 27:09\nAnd then we do that in two ways. We have programs, drug discovery programs Mhmm. That we fully own and fund ourselves and work on ourselves, our internal pipeline. And then we have programs that we work on with, you know, amazing pharma companies, biotech, we partner on these on these projects, and those are really exciting as well because often those companies, and those teams, they've got, you know, amazing ideas and amazing expertise in specific disease areas, and so they come to us with, hey. These are the hardest problems.\n\nSpeaker 1 | 27:09 - 27:19\nMaybe problems that they've been working on for sometimes ten, twenty years, not making much progress. And then together, using our drug design engine, we can make a huge amount of progress.\n\nSpeaker 2 | 27:19 - 27:23\nWhat are the indication areas or areas of human health that you all are focused on?\n\nSpeaker 1 | 27:23 - 27:35\nInternally, we're focused on, you know, much more on oncology, immunology, and inflammation. Mhmm. But the cool thing is, you know, the drug design engine or the models, they're general. They're disease agnostic. Yeah.\n\nSpeaker 1 | 27:35 - 27:39\nThey're target class agnostic. They're modality agnostic. So they work across multiple modalities.\n\nSpeaker 2 | 27:39 - 27:44\nBut you're starting with, like, cancer, and is it autoimmune disease or something else?\n\nSpeaker 1 | 27:44 - 28:11\nYes. So, know, immunology, inflammation, they're often quite related. So it's that sort of space. And when we go after these things internally, whether it's oncology, you know, cancer, inflammation, you you know, I think there's a big opportunity to go after some of these root node problems, the the sort of things that could affect, you know, positively if you have a solution, affect, you know, lots and lots of different patients for different downstream indications. Mhmm.\n\nSpeaker 1 | 28:12 - 28:12\nSo that'd\n\nSpeaker 2 | 28:12 - 28:13\nan example of that.\n\nSpeaker 1 | 28:13 - 28:30\nI mean, if you if you think about cancer Mhmm. Like, is a really, really complex and long tailed disease, and it shows itself up in in patients in many, many different ways. Mhmm. But we also know there are some... Like, maybe there are some core driving mechanisms that are common to many different things.\n\nSpeaker 1 | 28:30 - 28:55\nSure. You know, we saw this amazing example earlier this year, know, diraxonerasib, like KRAS inhibitor, standing ovation at a big cancer conference, like, drastically improving, you know, the the the the lives of of of sort of, like, late stage pancreatic cancer patients from revolution medicines. And, you know, again, great example of, like, going after some sort of root nodes.\n\nSpeaker 2 | 28:55 - 28:59\nI see. Yeah. RAS has been popping up in the cancer literature for, like, thirty years. Exactly. Twenty years.\n\nSpeaker 2 | 28:59 - 28:59\nYeah.\n\nSpeaker 1 | 28:59 - 29:05\nBut these these problems are devilishly hard from a, like, drug discovery and design\n\nSpeaker 2 | 29:05 - 29:05\nYeah.\n\nSpeaker 1 | 29:05 - 29:06\nPoint of view. Like, just...\n\nSpeaker 2 | 29:06 - 29:09\nAnd also has a natural function, so being able to modulate it\n\nSpeaker 1 | 29:09 - 29:20\nin there. Exactly. So you really... And and, of course, you know, in cancer, things mutate very quickly, so you think you've got a solution, but actually, clinically, it doesn't work out because it just mutates around the solution.:\n\nSpeaker 2 | 29:20 - 29:53\nIt's actually an interesting point because for a lot of different drugs, for a lot of different areas of health, this also was HIV, right? You end up with a cocktail of drugs that you give eventually, and that's actually what allows you to suppress AIDS or HIV. In cancer, similarly, a lot of drugs were developed as individual drugs versus cocktails. And to your point, often within a tumor, you have a spectrum of mutations that you need to suppress simultaneously if you really want to cure the thing, because otherwise it'll Yeah. Evolve out under given the sort of substrata of mutations that exist in a distribution across the cells.\n\nSpeaker 2 | 29:53 - 29:58\nAre you thinking about those more complex approaches of cocktails or multidrug approaches? Yeah. Or\n\nSpeaker 1 | 29:58 - 30:02\nSo so why aren't we giving more cocktails\n\nSpeaker 2 | 30:02 - 30:02\nYeah.\n\nSpeaker 1 | 30:02 - 30:19\nDrugs? Well, problem is, like, often these molecules, they are... They work, but they have some toxicity. Mhmm. Or they exhibit some effect on the liver such that if you're taking multiple of these molecules, these medicines at the same time, they have these drug drug interactions that can be really harmful for patients.\n\nSpeaker 1 | 30:19 - 30:35\nMhmm. And so it's actually because we're not great at engineering exquisite molecules and medicines, that means that we can't combine them together in a safe way for patients. So we're maybe limiting, like, the the surface of applicability.\n\nSpeaker 2 | 30:35 - 30:44\nYeah. I guess you only have so many patients too and so many people who can enroll a clinical trial, and so the combinatorics of it, my sense, is also kinda adds up in terms of the clinical trial side.\n\nSpeaker 1 | 30:44 - 31:19\nEspecially when there's a lot of, like, risk and uncertainty about how these things will combine. And so that's where we see an opportunity. Yeah. If you can actually much more accurately engineer these molecules to be safe, to not have these effects on the liver, to not interact with each other in bad ways, then you can feasibly come up with actually, I would really hope, some quite complex, you know, combinations Mhmm. That can modulate not just a single target at a time, but a whole vector of targets that span these, like, very complex biological pathways at the same time and to have a better effect on disease.\n\nSpeaker 2 | 31:19 - 32:10\nThere's a very good YouTube video of, this guy Janssen who started Janssen Pharmaceuticals. Was acquired eventually by J and J, and he was one of the big pioneers of drug development and pharma, and I think he was one of the... They had one of the most productive pharma companies in terms of actual drugs launched. And in it, his view that he expresses pretty strongly is that the main constraint on drug development is an overemphasis on safety, and that regulators kind of curtail progress. And he pointed out how during World War II, Winston Churchill tried to find a cure for soldiers of some venereal disease in the field, and so they rediscovered antibiotics, because penicillin was discovered in the 20s by Fleming, and then kind of put on a shelf and forgotten, and then in a nine month period, they rediscovered and commercialized penicillin from scratch specifically to treat this, and it was because you removed all regulatory obstacles.\n\nSpeaker 2 | 32:10 - 32:29\nSo that was an example that Janssen pointed to. One could argue the COVID vaccine was similar in How terms of being able to rush much do you think there's too much of an emphasis on safety? Like, Janssen's point was, it's about risk reward. You know, you need to make trade offs, and you can't just monolithically say it's only safety. You should also say, well, it's about benefit, and in some cases, risk should be taken as well.\n\nSpeaker 2 | 32:29 - 32:30\nLike, how do you think about that?\n\nSpeaker 1 | 32:30 - 33:01\nI think it's, like, centrally important to just always have patient safety in mind, to be honest. And but then you need to understand, like, what are the risks and the appetites of patients? And that can be different for different indications. Know, COVID's a good example where the risk appetite for patients, because it was so pervasive and so dangerous, just changed dramatically, and that changed, I think, the demand and the force for doing things slightly differently. You even see this across different disease areas.\n\nSpeaker 1 | 33:02 - 33:37\nIf patients have, you know, late stage cancer and not many options in front of them, there's a very different risk appetite compared to if you're trying to treat a chronic low level, you know, inflammation indication. And so I think it's actually really, really important that we keep focusing on patient safety Mhmm. But that we can modulate that, you know, depending on what the patient need is. So ultimately, you know, ultimately, we want patients who are living healthier lives, and they're receiving that treatment as quickly as possible. Mhmm.\n\nSpeaker 1 | 33:37 - 33:57\nAnd, you know, we we we speak a lot to regulators here, you know, FDA here, but also all over the world. Mhmm. And I think the one thing in common is, like, you know, people really want to get patients the best drugs and the best solutions possible. Mhmm. And I do think that over time, we will see a difference in our, you know, probably...\n\nSpeaker 1 | 33:57 - 34:25\nYou know, the success rates and the safety profiles of molecules coming out when they're designed with much more understanding about how they work with... You know, we'd be able to search the design space to engineer something, you know, much better than you could do from an empirical... Empirically driven process. And I hope to prove out over time that this is very statistically different, and that will change the way that we think, I think, about about regulation and and getting drugs to patients.\n\nSpeaker 2 | 34:26 - 34:28\nWhen do you think you'll have your first clinical trial?\n\nSpeaker 1 | 34:29 - 34:42\nI would love to give you, a hard date. This is, like, really hard frontier science. Yeah. We've got some really exciting medicines in the works, and these are going really well. Mhmm.\n\nSpeaker 1 | 34:42 - 34:48\nSo we're pushing really hard to get these to patients as quickly as possible. We've been building up our clinical development team, so we're getting ready for this and that...\n\nSpeaker 2 | 34:48 - 35:00\nDo you have a... I know these are always impossible questions. Yeah. You have a prediction on when you think, for example, eighty percent of human cancers will be treatable? Or, you know, some other metric of why this is so important for the world?\n\nSpeaker 1 | 35:00 - 35:40\nI'd be really disappointed if we fast forward, you know, even five years time, if we don't have the base tools like the like the predictive understanding of disease biology has not step change in like a massive way. Our ability to design molecules that are much more precise, much less toxic has not step change in such a massive way that, you know, still drug drug development... Discovery and development takes years, that'll reduce over time, but it takes years now. But we should have the tools in place to really start be... Like, start cracking these large large large portions of disease Yeah.\n\nSpeaker 1 | 35:40 - 35:41\nIn a different way.\n\nSpeaker 2 | 35:42 - 36:14\nIf you remove cancer from society and heart disease, I think the stats suggest that the average person would live, I can't remember if it's five or seven years longer. And so the actual impact to longevity for two of the biggest killers is, in some sense, quite large, and another point of view is kind of small. There's a number of companies that have tried to focus on aging or longevity as a more general process, which seems to clearly be genetically programmed. If you knock out certain genes in C. Elegans or Drosophila or in mice, they'll live 20% to 30% longer.\n\nSpeaker 2 | 36:14 - 36:22\nOr in the case of C. Elegans, the little worms, they'll live three times longer if you knock out certain genes in certain pathways. I actually worked on those pathways as part of my PhD.\n\nSpeaker 1 | 36:22 - 36:23\nAmazing.\n\nSpeaker 2 | 36:23 - 36:38\nIt was really fun. How do you think about that in the context of human lifespan? Should we just hit a point eventually where people live three times longer, five times... Like, what... How do think about longevity in the context of drug development and, you know, all these tools that will now exist?\n\nSpeaker 1 | 36:39 - 36:52\nYeah. No. It's interesting. Like, there there are some of these major diseases that afflict so many people Mhmm. That if we could start to make impact on those, that that would have a concrete impact on on how long people are living.\n\nSpeaker 1 | 36:52 - 37:06\nI think even outside of things like cancer and heart disease, you just have the sort of chronic afflictions Mhmm. Of aging that start to add up.\n\nSpeaker 2 | 37:06 - 37:13\nAnd the root cause is literally aging. In other words, like, the root cause is the fact that you're allowing these systems to degrade over time.\n\nSpeaker 1 | 37:13 - 37:22\nGrades. They Stamps up compartments. Yeah. And they and they combine in a way that means that people's... You know, even if people live to a lovely long age of Mhmm.\n\nSpeaker 1 | 37:22 - 37:33\n80 or 90, like, they... Maybe the last, like, ten years of their life Mhmm. Or even twenty years of their life isn't not... Isn't necessarily as great as it could be. Yeah.\n\nSpeaker 1 | 37:33 - 37:41\nYeah. Because they've... You know, because of, you know, your bones start to degrade. Your muscles start to degrade. Like, you have a fall and suddenly you can't...\n\nSpeaker 1 | 37:41 - 37:50\nYou're not as mobile as you want to That has impacts on your mental health and suddenly your quality of life has dropped dramatically. You still might live. Another\n\nSpeaker 2 | 37:49 - 37:53\nthat ten years. Aging community, they talk about that about as lifespan versus health span.\n\nSpeaker 1 | 37:53 - 37:55\nExactly. So we think a lot about that.\n\nSpeaker 2 | 37:56 - 38:10\nBut all all the aging models, if you impinge on aging and you delay it, the health span goes with it. In other words, if C. Elegans lives three times longer, it's actually a healthy adult for three times longer. It's... And then it crashes out at the end, but you actually have extended both simultaneously.\n\nSpeaker 2 | 38:11 - 38:15\nSo I'm a little bit curious how you think about, like, life extension and, you know, that kind of stuff.\n\nSpeaker 1 | 38:15 - 38:45\nI I think it's gonna be, like, it's gonna be really fun to see everyone working on this. And and, yeah, as you said, I think we can attack this from every different angle. Right? We can think about improving, you know, the things that afflict us and and and help maximize our health span and also be trying to hit some of the root root causes of aging and degradation, of our bodies and cells and organs so that we actually, you know, can actually extend that over time as well. And and I just...\n\nSpeaker 1 | 38:45 - 38:51\nYeah. I mean, there's such exciting work happening in this space and, yeah, it'll be interesting to see how this pans out.\n\nSpeaker 2 | 38:51 - 38:53\nAmazing. Thank you so much for joining us today.\n\nSpeaker 1 | 38:53 - 38:55\nNo. It's been fascinating to chat.\n\nSpeaker 2 | 38:58 - 39:14\nFind us on Twitter at no priors pod. Subscribe to our YouTube channel if you wanna see our faces. Follow the show on Apple Podcasts, Spotify, or wherever you listen. That way you get a new episode every week. And sign up for emails or find transcripts for every episode at no-priors.com.",
+      "metadata": {
+        "guid": "c9a0c39e-de2a-11f1-9237-d39059052d4c"
+      },
+      "titleZh": "与 Isomorphic Labs 总裁 Max Jaderberg 一起推动 AI 驱动的药物发现",
+      "summaryZh": "发言人 1 | 00:00 - 00:24\n行业里很大一部分制药工作都是这种非常依赖经验的过程。真正失败的地方是在临床阶段，因为我们直到把药物用到患者身上并说“哦不，li…”之前，一直无法看到问题。"
+    },
+    {
+      "id": "x:2120793075836768333",
+      "type": "x",
+      "sourceName": "Amjad Masad",
+      "title": "China hawkishness was right-coded rhetoric. The Cathedral will turn it into actu…",
+      "url": "https://x.com/amasad/status/2120793075836768333",
+      "publishedAt": "2026-11-12T08:17:26.000Z",
+      "collectedAt": "2026-11-13T06:28:02.651Z",
+      "summaryText": "China hawkishness was right-coded rhetoric. The Cathedral will turn it into actual power.",
+      "metadata": {
+        "handle": "amasad",
+        "bio": "ceo @replit. civilizationist",
+        "likes": 231,
+        "retweets": 9,
+        "replies": 15,
+        "isQuote": false,
+        "quotedTweetId": null
+      },
+      "summaryZh": "对华强硬曾是被右翼编码的修辞。The Cathedral 会把它转化为实际权力。"
     }
   ]
 }
